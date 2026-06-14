@@ -1,10 +1,9 @@
 === TVbox Lime priority optimizer ===
-now_utc: 2026-06-14 18:14:12.742529+00:00
+now_utc: 2026-06-14 19:49:21.152588+00:00
 input: tvbox_canonical.m3u
 output: tvbox_canonical_optimized.m3u
-entries_input: 894
+entries_input: 841
 groups: 72
 
 lime_kept_high_6h_plus: 53
-lime_removed_under_2h: 53
 non_lime_kept: 788
