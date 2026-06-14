@@ -3404,7 +3404,8 @@ https://re.moonpaw.space:8443/memfs/66bc2ea4-349f-4cae-99ae-02ce4409295e_output_
 #EXTINF:-1 group-title="TVbox",CherTV Заруба + KinoMix
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.kOLvChA3aUIE.m3u8
 #EXTINF:-1 group-title="TVbox",KinoMix
-https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.QK20f3fCHAGw.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://kinowalk.hopto.org/yurich_kinomix_live
 #EXTINF:-1 group-title="TVbox",Провинция
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.rmtRK2FPYHmD.m3u8
 #EXTINF:-1 group-title="TVbox",Movify Kino
@@ -3480,15 +3481,9 @@ http://kinowalk.hopto.org/poe2proxodim_live
 #EXTINF:-1 group-title="TVbox",Kinofon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/kinofon_live
-#EXTINF:-1 group-title="TVbox",Квинтет Тарантелло
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/kinotarantello_live
 #EXTINF:-1 group-title="TVbox",VKTV HD CINEMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/vktv_hd_cinema_live
-#EXTINF:-1 group-title="TVbox",ZOXAN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/zoxan31_live
 #EXTINF:-1 group-title="TVbox",POISON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/harbingerplay_live
@@ -3501,9 +3496,6 @@ http://kinowalk.hopto.org/and7610_live
 #EXTINF:-1 group-title="TVbox",КиноНонСтоп
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/nonestopmovie_live
-#EXTINF:-1 group-title="TVbox",Егор Егорыч
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/yegor_yegorych_live
 #EXTINF:-1 group-title="TVbox",LifeZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/zhekos_live
@@ -3546,30 +3538,15 @@ http://kinowalk.hopto.org/krotfa_live
 #EXTINF:-1 group-title="TVbox",Priest Kod
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/priest_kod_live
-#EXTINF:-1 group-title="TVbox",Argo 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/argo_13_live
 #EXTINF:-1 group-title="TVbox",Ёжик в тумане
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/hurumburumum_live
-#EXTINF:-1 group-title="TVbox",БезНика
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/522_137_live
 #EXTINF:-1 group-title="TVbox",InMuNa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/inmuna_live
-#EXTINF:-1 group-title="TVbox",HyBteX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/diktos33_live
 #EXTINF:-1 group-title="TVbox",Alex.Films
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/alex.films_live
-#EXTINF:-1 group-title="TVbox",EvGAMEN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/evgamen_movies_live
-#EXTINF:-1 group-title="TVbox",Rus serials
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/zzz881_live
 #EXTINF:-1 group-title="TVbox",Фильмы и сериалы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/dfsfsdg_live
@@ -3579,33 +3556,12 @@ http://kinowalk.hopto.org/serial4u_live
 #EXTINF:-1 group-title="TVbox",SerialTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/serialtv_live
-#EXTINF:-1 group-title="TVbox",BOSSFILM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/bossfilm_live
 #EXTINF:-1 group-title="TVbox",Maksim Films
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/mmaxim0vich_live
-#EXTINF:-1 group-title="TVbox",VAG KINO 164
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/vagner164_live
 #EXTINF:-1 group-title="TVbox",seriavaleria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/seriavaleria_live
-#EXTINF:-1 group-title="TVbox",HyBteX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/hybtex_live
-#EXTINF:-1 group-title="TVbox",SеVаNz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/sevanz_live
-#EXTINF:-1 group-title="TVbox",Фильмы НОВИНКИ Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/mir.kinoxi_live
-#EXTINF:-1 group-title="TVbox",LysOFF
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/lysoff_live
-#EXTINF:-1 group-title="TVbox",MrsDOOmKa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/mrsdoomka_live
 #EXTINF:-1 group-title="TVbox",VHS Forever
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/vhs-forever_live
@@ -3618,12 +3574,6 @@ http://kinowalk.hopto.org/equilibrium_live
 #EXTINF:-1 group-title="TVbox",КОМЕДИИ 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/cmexye4ku_live
-#EXTINF:-1 group-title="TVbox",GUWi_TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/guwi_tv_live
-#EXTINF:-1 group-title="TVbox",_PhoENIX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/phoenix3345_live
 #EXTINF:-1 group-title="TVbox",ReanimatoR_VHS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/reanimator_vhs_live
@@ -3633,9 +3583,6 @@ http://kinowalk.hopto.org/swat2k_live
 #EXTINF:-1 group-title="TVbox",Video Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/video_channel_live
-#EXTINF:-1 group-title="TVbox",Video Serial
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/videoserial_live
 #EXTINF:-1 group-title="TVbox",Aisman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/aisman_live
@@ -3648,33 +3595,15 @@ http://kinowalk.hopto.org/strannik1177_live
 #EXTINF:-1 group-title="TVbox",ZubrilomFilm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/zubrilomfilm_live
-#EXTINF:-1 group-title="TVbox",ZubrilomFranchise
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/zubrilommusic.ru_live
 #EXTINF:-1 group-title="TVbox",Malleus Maleficarum
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/exorcist_live
 #EXTINF:-1 group-title="TVbox",Знакомые лица
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/3jiou_tatapuh_live
-#EXTINF:-1 group-title="TVbox",Фильмомания
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/filmomania_live
 #EXTINF:-1 group-title="TVbox",ДиТи
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/mychennal12345_live
-#EXTINF:-1 group-title="TVbox",Lisfix
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/lisfix_live
-#EXTINF:-1 group-title="TVbox",Сериальный мир
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/serials2025_live
-#EXTINF:-1 group-title="TVbox",DeVchatA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/devchata_live
-#EXTINF:-1 group-title="TVbox",natanatty
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/nata.natty_live
 #EXTINF:-1 group-title="TVbox",Kycman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/kycman_live
@@ -3687,21 +3616,12 @@ http://kinowalk.hopto.org/ostorozhnomodern2_live
 #EXTINF:-1 group-title="TVbox",33 квадратных метра
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/33metra_live
-#EXTINF:-1 group-title="TVbox",ПикаБУ!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/pipa39_live
 #EXTINF:-1 group-title="TVbox",Snoochies Boochies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/sinema_live
 #EXTINF:-1 group-title="TVbox",Wfliq
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/wfliq_live
-#EXTINF:-1 group-title="TVbox",СВЯТОЙ LIVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/misha.sdyt_live
-#EXTINF:-1 group-title="TVbox",KINOPRO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/kinopro_live
 #EXTINF:-1 group-title="TVbox",PrizraK PlaY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/vampiro1965_live
@@ -3735,18 +3655,12 @@ http://kinowalk.hopto.org/igrocomp_live
 #EXTINF:-1 group-title="TVbox",BOH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/boh_music_live
-#EXTINF:-1 group-title="TVbox",Кинохунос
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/kinokunos_live
 #EXTINF:-1 group-title="TVbox",Кинотека FULL_HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/kinoteka_full_hd_top_live
 #EXTINF:-1 group-title="TVbox",Назад в СССР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/backtotheussr_live
-#EXTINF:-1 group-title="TVbox",FGS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/dscb_live
 #EXTINF:-1 group-title="TVbox",AASS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/aaasss_live
@@ -3765,12 +3679,6 @@ http://kinowalk.hopto.org/baragozz_tv_live
 #EXTINF:-1 group-title="TVbox",Мы из 90-х
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://kinowalk.hopto.org/miiz90x_live
-#EXTINF:-1 group-title="TVbox",ФИЛЬМЫ&СЕРИАЛЫ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://kinowalk.hopto.org/films_serials_24_7_live/_live
-#EXTINF:-1 group-title="TVbox",Prodigy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://kinowalk.hopto.org/roman_prodigy_live
 #EXTINF:-1 group-title="TVbox",КИНО05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://kinowalk.hopto.org/kino05_live
@@ -3783,9 +3691,6 @@ http://kinowalk.hopto.org/perviryad_live%20
 #EXTINF:-1 group-title="TVbox",dj Zour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://kinowalk.hopto.org/zsmedia_live
-#EXTINF:-1 group-title="TVbox",Сериальный сериальчик
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://kinowalk.hopto.org/seriality_live
 #EXTINF:-1 group-title="TVbox",Тоха Стрим
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://kinowalk.hopto.org/toxa_stream_live
@@ -3795,9 +3700,6 @@ http://kinowalk.hopto.org/kinomania_stream_live
 #EXTINF:-1 group-title="TVbox",КИНОУЖАС HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://kinowalk.hopto.org/kinouzhas_live
-#EXTINF:-1 group-title="TVbox",deamonnit093
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://kinowalk.hopto.org/deamonnit093_live
 #EXTINF:-1 group-title="TVbox",Коновал ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://kinowalk.hopto.org/www.konoval_tv_live
@@ -3807,18 +3709,9 @@ http://kinowalk.hopto.org/aleksey_24rus_live
 #EXTINF:-1 group-title="TVbox",Игрун 1997
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://kinowalk.hopto.org/igrun1997_live
-#EXTINF:-1 group-title="TVbox",КИНО СТРИМ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://kinowalk.hopto.org/kinostreamlive_live
-#EXTINF:-1 group-title="TVbox",4K — Кино и сериалы
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://kinowalk.hopto.org/4khits_live
 #EXTINF:-1 group-title="TVbox",lampoTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://kinowalk.hopto.org/lampotv_live
-#EXTINF:-1 group-title="TVbox",Profeccor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://kinowalk.hopto.org/profeccor_live
 #EXTINF:-1 group-title="TVbox",Moviee Toper
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/movietoper_live
@@ -3848,7 +3741,7 @@ http://kinowalk.hopto.org/timetohorror_live
 http://kinowalk.hopto.org/video_prokat_live
 #EXTINF:-1 group-title="TVbox",Малдер Всё ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/vsetv_live
+http://kinowalk.hopto.org/maldrvsetv_live
 #EXTINF:-1 group-title="TVbox",Киносезон
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 #EXTINF:-1 group-title="TVbox",CyberTV
@@ -3856,21 +3749,12 @@ https://live20.bozztv.com/akamaissh101/ssh101/cybertv/chunks.m3u8
 #EXTINF:-1 group-title="TVbox",CyberTV_2
 https://live20.bozztv.com/akamaissh101/ssh101/cybertv2/chunks.m3u8
 #EXTINF:-1 group-title="TVbox",SeleCaoTV 1
-https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
-#EXTINF:-1 group-title="TVbox",SeleCaoTV 1
 http://kinowalk.hopto.org/selecaotv_live
-#EXTINF:-1 group-title="TVbox",SeleCaoTV 2
-https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
 #EXTINF:-1 group-title="TVbox",SeleCaoTV 2
 http://kinowalk.hopto.org/selecaotv1_live
 #EXTINF:-1 group-title="TVbox",Видеокассета VHS
-https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
-#EXTINF:-1 group-title="TVbox",Солдаты
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://vsd166.okcdn.ru/hls/11413979663002.m3u8/sig/R8AxaKEcrio/expires/1771781467166/srcIp/85.198.100.140/urls/45.136.21.79/clientType/36/srcAg/CHROME/mid/11588431595418/11413979663002_fullhd/index.m3u8
-#EXTINF:-1 group-title="TVbox",Универ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://kino-stream.online/hls/YNIVER-EVGESHA.m3u8
+http://kinowalk.hopto.org/vhs90e_live
 #EXTINF:-1 group-title="TVbox",Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="TVbox",Твоё ТВ HD Юмор
@@ -3878,17 +3762,17 @@ http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 #EXTINF:-1 group-title="TVbox",Смотрим Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="TVbox",Смотрим Праздник
-http://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564.m3u8
+https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
 #EXTINF:-1 group-title="TVbox",Смотрим Мужское
-http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d.m3u8
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 #EXTINF:-1 group-title="TVbox",Смотрим Факты
-http://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f.m3u8
+https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 #EXTINF:-1 group-title="TVbox",Смотрим Детское
-http://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089.m3u8
+https://stream.smotrim.ru/hls2/fasttv05/playlist_3.m3u8
 #EXTINF:-1 group-title="TVbox",Смотрим Классика
-http://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338.m3u8
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 #EXTINF:-1 group-title="TVbox",Смотрим Любовь
-http://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248.m3u8
+https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
 #EXTINF:-1 group-title="TVbox",СТРК HD
 http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
 #EXTINF:-1 group-title="TVbox",43 канал
@@ -3905,18 +3789,6 @@ http://vod.tuva.ru/rusroman/index.m3u8
 http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 group-title="TVbox",Еврокино
 http://vod.tuva.ru/eurokino/index.m3u8
-#EXTINF:-1 group-title="TVbox",НТВ Хит
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="TVbox",НТВ Сериал
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="TVbox",НТВ Право
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="TVbox",НТВ Стиль
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="TVbox",Сити Эдем - КиноАзия
 https://cityeden.catcast.tv/content/34393/index.m3u8
 #EXTINF:-1 group-title="TVbox",Сити Эдем - КиноАрт
@@ -3975,10 +3847,6 @@ http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="TVbox",312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 group-title="TVbox",Кино 1 International
-http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
-#EXTINF:-1 group-title="TVbox",Детское Кино International
-https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="TVbox",Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 group-title="TVbox",PRO100 TV
@@ -4007,8 +3875,6 @@ http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="TVbox",Alpha Cinema
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1 group-title="TVbox",Alpha Funny
-http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTINF:-1 group-title="TVbox",Alpha Moretime
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 group-title="TVbox",Terra Incognita
@@ -13337,10 +13203,24 @@ http://pl.online24.pm/play/50125/F6E1DD42544DD10/video.m3u8
 http://pl.online24.pm/play/1952/F6E1DD42544DD10/video.m3u8
 #EXTINF:-1 group-title="TVbox",Хіт Бойовик
 http://pl.online24.pm/play/1951/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 group-title="TVbox",ZubrilomFranchise
+http://kinowalk.hopto.org/zubrilommusic.ru_live
+#EXTINF:-1 group-title="TVbox",Сериальный мир
+http://kinowalk.hopto.org/serials2025_live
+#EXTINF:-1 group-title="TVbox",KinoMix
+https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.QK20f3fCHAGw.m3u8
 #EXTINF:-1 group-title="TVbox",RANDOM BEST FILMS
 https://tinyurl.com/aleks-u-romki-40/11043/index.m3u8
 #EXTINF:-1 group-title="TVbox",Скрипач ТВ
 https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
+#EXTINF:-1 group-title="TVbox",Смотрим Факты
+http://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f.m3u8
+#EXTINF:-1 group-title="TVbox",Смотрим Детское
+http://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089.m3u8
+#EXTINF:-1 group-title="TVbox",Смотрим Классика
+http://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338.m3u8
+#EXTINF:-1 group-title="TVbox",Смотрим Любовь
+http://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248.m3u8
 #EXTINF:-1 group-title="TVbox",ATV Bazmoc
 http://109.68.122.117:8899/bazmoc
 #EXTINF:-1 group-title="TVbox",Том и Джерри
@@ -13361,6 +13241,8 @@ https://live20.bozztv.com/giatvplayout7/ushba80/tracks-v1a1/mono.ts.m3u8
 https://fl1004.bozztv.com/ushba12/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TVbox",Сити Эдем Рецепты Гурмана
 https://cityeden.catcast.tv/content/47516/index.m3u8
+#EXTINF:-1 group-title="TVbox",Детское кино International
+https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="TVbox",Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="TVbox",Музыка 1 International
@@ -20401,6 +20283,10 @@ http://31.148.48.15:80/Sankt_Peterburg/index.m3u8
 http://31.148.48.15/Sapfir_HD/index.m3u8
 #EXTINF:-1 group-title="TVbox",Север ТВ (Нарьян-Мар)
 http://live2.mediacdn.ru/sr1/sever/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="TVbox",Смотрим 100% Мужское
+http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d.m3u8
+#EXTINF:-1 group-title="TVbox",Смотрим 100% Праздник
+http://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564.m3u8
 #EXTINF:-1 group-title="TVbox",Солнечногорское ТВ
 http://hls.solntv.cdnvideo.ru/solntv/solntv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="TVbox",Солнце
@@ -23547,6 +23433,12 @@ http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 http://194.26.229.213/zastavka/index.m3u8
 #EXTINF:-1 group-title="TVbox",Android TV + Free TV
 http://194.26.229.213/intro/index.m3u8
+#EXTINF:-1 group-title="TVbox",TV1000 HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=3gLUuQGE3Hn0lVYCXBW52w&e=1782385420&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="TVbox",TV1000 Action HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=AqNHXVgwuI_Bm0IJ6JkIpw&e=1782385437&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="TVbox",Viju TV1000 Romantica HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=JjKtxfmS6gUWHdOloguufw&e=1782385402&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TVbox",Дорама
 https://fs.uplink.kz/dorama/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="TVbox",Cartoon Network
@@ -24522,6 +24414,18 @@ https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="TVbox",НТВ +7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="TVbox",НТВ Хит
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="TVbox",НТВ Сериал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="TVbox",НТВ Право
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="TVbox",НТВ Стиль
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="TVbox",Известия
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="TVbox",Москва 24
@@ -24540,18 +24444,8 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/ind
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 group-title="TVbox",ТОЛК
 https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-#EXTINF:-1 group-title="TVbox",Смотрим 100% Любовь
-https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
-#EXTINF:-1 group-title="TVbox",Смотрим 100% Мужское
-https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
-#EXTINF:-1 group-title="TVbox",Смотрим 100% Классика
-https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
-#EXTINF:-1 group-title="TVbox",Смотрим 100% Праздник
-https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
 #EXTINF:-1 group-title="TVbox",Смотрим 100% Детское
 https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
-#EXTINF:-1 group-title="TVbox",Смотрим 100% Факты
-https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 #EXTINF:-1 group-title="TVbox",Соловьев Live
 https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
 #EXTINF:-1 group-title="TVbox",Лен ТВ 24
@@ -26364,18 +26258,54 @@ https://v2.catcast.tv/content/34251/index.m3u8
 https://v2.catcast.tv/content/34114/index.m3u8
 #EXTINF:-1 group-title="TVbox",ԼԱՅՄ GOLD TV
 https://v2.catcast.tv/content/40546/index.m3u8
+#EXTINF:-1 group-title="TVbox",Scarface
+http://kinowalk.hopto.org/filmomania_live
+#EXTINF:-1 group-title="TVbox",KINOPRO
+http://kinowalk.hopto.org/kinopro_live
 #EXTINF:-1 group-title="TVbox",Legion tv
 https://kinowalk.hopto.org/legion-tv_live
+#EXTINF:-1 group-title="TVbox",EvGAMEN
+http://kinowalk.hopto.org/evgamen_movies_live
 #EXTINF:-1 group-title="TVbox",Scripach TV 2
 https://kinostreammedia.hopto.org/SCRIPACHTV/index.m3u8
 #EXTINF:-1 group-title="TVbox",NikNik-TV
 https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
-#EXTINF:-1 group-title="TVbox",KinoMix
-http://kinowalk.hopto.org/yurich_kinomix_live
+#EXTINF:-1 group-title="TVbox",Argo_13
+http://kinowalk.hopto.org/argo_13_live
+#EXTINF:-1 group-title="TVbox",Lisfix
+http://kinowalk.hopto.org/lisfix_live
+#EXTINF:-1 group-title="TVbox",КИНО СТРИМ
+http://kinowalk.hopto.org/kinostreamlive_live
+#EXTINF:-1 group-title="TVbox",DeVchatA
+http://kinowalk.hopto.org/devchata_live
+#EXTINF:-1 group-title="TVbox",Сериальный сериальчик
+http://kinowalk.hopto.org/seriality_live
+#EXTINF:-1 group-title="TVbox",natanatty
+http://kinowalk.hopto.org/nata.natty_live
+#EXTINF:-1 group-title="TVbox",FGS
+http://kinowalk.hopto.org/dscb_live
 #EXTINF:-1 group-title="TVbox",VideoVk
 http://kinowalk.hopto.org/videovk_live
+#EXTINF:-1 group-title="TVbox",ПикаБУ!
+http://kinowalk.hopto.org/pipa39_live
+#EXTINF:-1 group-title="TVbox",Prodigy_movie
+http://kinowalk.hopto.org/roman_prodigy_live
+#EXTINF:-1 group-title="TVbox",Егор Егорыч
+http://kinowalk.hopto.org/yegor_yegorych_live
+#EXTINF:-1 group-title="TVbox",Всё ТВ HD
+http://kinowalk.hopto.org/vsetv_live
+#EXTINF:-1 group-title="TVbox",VAG KINO 164
+http://kinowalk.hopto.org/vagner164_live
+#EXTINF:-1 group-title="TVbox",Video Serial
+http://kinowalk.hopto.org/videoserial_live
+#EXTINF:-1 group-title="TVbox",KINOХИТ HD
+http://kinowalk.hopto.org/4khits_live
+#EXTINF:-1 group-title="TVbox",BOSSFILM
+http://kinowalk.hopto.org/bossfilm_live
 #EXTINF:-1 group-title="TVbox",JTX Online
 http://kinowalk.hopto.org/jtxonline_live
+#EXTINF:-1 group-title="TVbox",Rus serials
+http://kinowalk.hopto.org/zzz881_live
 #EXTINF:-1 group-title="TVbox",1TV Sport
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="TVbox",DiviSport
