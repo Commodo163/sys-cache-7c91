@@ -1,26 +1,27 @@
 {
   "app": "TVbox",
   "schema_version": 1,
+  "generated_at": "2026-06-19 22:34:41 +04",
   "current_catalog": "stable",
   "min_app_version": "1.5.0",
   "latest_app_version": "1.5.1",
-  "catalogs": {
-    "stable": {
-      "name": "TVbox Stable",
-      "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox.m3u",
-      "cache_seconds": 300
-    },
-    "beta": {
-      "name": "TVbox Beta",
-      "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox.m3u",
-      "cache_seconds": 120
-    }
+  "catalog": {
+    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox.m3u",
+    "streams": 811,
+    "lime_streams": 53,
+    "cache_seconds": 300
+  },
+  "public_playlist": {
+    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/index.dat",
+    "streams": 13568
   },
   "epg": {
     "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_epg.xml.gz",
+    "summary_url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_epg_summary.txt",
     "cache_hours": 12
   },
   "reports": {
+    "status": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_status.txt",
     "summary": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_canonical_summary.txt",
     "lime_summary": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_canonical_lime_priority_summary.txt"
   },
