@@ -1,0 +1,843 @@
+{
+  "categories": [
+    {
+      "title": "Федеральные",
+      "channels": [
+        {
+          "id": "perviy",
+          "title": "Первый канал",
+          "epgId": "",
+          "aliases": [
+            "1 канал",
+            "1TV",
+            "Perviy kanal",
+            "Первый",
+            "Первый канал",
+            "Первый HD"
+          ]
+        },
+        {
+          "id": "russia1",
+          "title": "Россия 1",
+          "epgId": "",
+          "aliases": [
+            "Rossiya 1",
+            "Russia 1",
+            "Россия 1",
+            "Россия-1"
+          ]
+        },
+        {
+          "id": "match",
+          "title": "Матч ТВ",
+          "epgId": "",
+          "aliases": [
+            "Match TV",
+            "Матч ТВ",
+            "Матч!"
+          ]
+        },
+        {
+          "id": "ntv",
+          "title": "НТВ",
+          "epgId": "",
+          "aliases": [
+            "NTV",
+            "НТВ",
+            "НТВ HD"
+          ]
+        },
+        {
+          "id": "5kanal",
+          "title": "Пятый канал",
+          "epgId": "",
+          "aliases": [
+            "5 kanal",
+            "5 канал",
+            "Пятый",
+            "Пятый канал"
+          ]
+        },
+        {
+          "id": "russiak",
+          "title": "Россия К",
+          "epgId": "",
+          "aliases": [
+            "Rossiya K",
+            "Культура",
+            "Россия К",
+            "Россия Культура"
+          ]
+        },
+        {
+          "id": "russia24",
+          "title": "Россия 24",
+          "epgId": "",
+          "aliases": [
+            "Rossiya 24",
+            "Russia 24",
+            "Россия 24",
+            "Россия-24",
+            "Rossiya24",
+            "Russia24"
+          ]
+        },
+        {
+          "id": "karusel",
+          "title": "Карусель",
+          "epgId": "",
+          "aliases": [
+            "Karusel",
+            "Карусель"
+          ]
+        },
+        {
+          "id": "otr",
+          "title": "ОТР",
+          "epgId": "",
+          "aliases": [
+            "OTR",
+            "ОТР"
+          ]
+        },
+        {
+          "id": "tvc",
+          "title": "ТВ Центр",
+          "epgId": "",
+          "aliases": [
+            "TV Centr",
+            "TVC",
+            "ТВ Центр",
+            "ТВЦ"
+          ]
+        },
+        {
+          "id": "rentv",
+          "title": "РЕН ТВ",
+          "epgId": "",
+          "aliases": [
+            "REN TV",
+            "РЕН ТВ",
+            "Рен-ТВ"
+          ]
+        },
+        {
+          "id": "spas",
+          "title": "Спас",
+          "epgId": "",
+          "aliases": [
+            "Spas",
+            "Спас"
+          ]
+        },
+        {
+          "id": "sts",
+          "title": "СТС",
+          "epgId": "",
+          "aliases": [
+            "STS",
+            "СТС",
+            "СТС HD"
+          ]
+        },
+        {
+          "id": "domashniy",
+          "title": "Домашний",
+          "epgId": "",
+          "aliases": [
+            "Domashniy",
+            "Домашний"
+          ]
+        },
+        {
+          "id": "tv3",
+          "title": "ТВ-3",
+          "epgId": "",
+          "aliases": [
+            "TV3",
+            "ТВ-3",
+            "ТВ3",
+            "ТВ3 HD"
+          ]
+        },
+        {
+          "id": "pyatnica",
+          "title": "Пятница!",
+          "epgId": "",
+          "aliases": [
+            "Pyatnica",
+            "Пятница",
+            "Пятница!"
+          ]
+        },
+        {
+          "id": "zvezda",
+          "title": "Звезда",
+          "epgId": "",
+          "aliases": [
+            "Zvezda",
+            "Звезда"
+          ]
+        },
+        {
+          "id": "mir",
+          "title": "Мир",
+          "epgId": "",
+          "aliases": [
+            "MIR",
+            "Мир"
+          ]
+        },
+        {
+          "id": "tnt",
+          "title": "ТНТ",
+          "epgId": "",
+          "aliases": [
+            "ТНТ",
+            "ТНТ HD"
+          ]
+        },
+        {
+          "id": "muztv",
+          "title": "Муз-ТВ",
+          "epgId": "",
+          "aliases": [
+            "MUZ TV",
+            "Муз ТВ",
+            "Муз-ТВ"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Спорт",
+      "channels": [
+        {
+          "id": "match_premier",
+          "title": "Матч! Премьер",
+          "epgId": "",
+          "aliases": [
+            "Match Premier",
+            "Матч Премьер",
+            "Матч! Премьер"
+          ]
+        },
+        {
+          "id": "match_futbol_1",
+          "title": "Матч! Футбол 1",
+          "epgId": "",
+          "aliases": [
+            "Match! Futbol 1",
+            "Матч Футбол 1",
+            "Матч! Футбол 1"
+          ]
+        },
+        {
+          "id": "match_futbol_2",
+          "title": "Матч! Футбол 2",
+          "epgId": "",
+          "aliases": [
+            "Match! Futbol 2",
+            "Матч Футбол 2",
+            "Матч! Футбол 2"
+          ]
+        },
+        {
+          "id": "match_futbol_3",
+          "title": "Матч! Футбол 3",
+          "epgId": "",
+          "aliases": [
+            "Match! Futbol 3",
+            "Матч Футбол 3",
+            "Матч! Футбол 3"
+          ]
+        },
+        {
+          "id": "setanta_sports_1",
+          "title": "Setanta Sports 1",
+          "epgId": "",
+          "aliases": [
+            "Setanta Sport 1",
+            "Setanta Sports 1",
+            "Setanta Sports 1 Georgia",
+            "Setanta Georgia",
+            "setanta_georgia"
+          ]
+        },
+        {
+          "id": "setanta_sports_2",
+          "title": "Setanta Sports 2",
+          "epgId": "",
+          "aliases": [
+            "Setanta Sport 2",
+            "Setanta Sports 2",
+            "Setanta Sports 2 Georgia",
+            "Setanta Sports Plus Georgia",
+            "Setanta Sports + Georgia",
+            "setanta_sports_plus_georgia"
+          ]
+        },
+        {
+          "id": "match_arena",
+          "title": "Матч! Арена",
+          "epgId": "",
+          "aliases": [
+            "Match! Arena",
+            "Матч Арена",
+            "Матч! Арена"
+          ]
+        },
+        {
+          "id": "match_boec",
+          "title": "Матч! Боец",
+          "epgId": "",
+          "aliases": [
+            "Матч Боец",
+            "Матч! Боец"
+          ]
+        },
+        {
+          "id": "match_igra",
+          "title": "Матч! Игра",
+          "epgId": "",
+          "aliases": [
+            "Матч Игра",
+            "Матч! Игра"
+          ]
+        },
+        {
+          "id": "khl_prime",
+          "title": "КХЛ Prime",
+          "epgId": "",
+          "aliases": [
+            "KHL HD",
+            "KHL Prime",
+            "КХЛ HD",
+            "КХЛ Prime"
+          ]
+        },
+        {
+          "id": "skysportspl",
+          "title": "Sky Sports Premier League",
+          "epgId": "",
+          "aliases": [
+            "Sky Sports PL",
+            "Sky Sports Premier League",
+            "Sky Sports Premier League HD"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Кино",
+      "channels": [
+        {
+          "id": "vip_premiere",
+          "title": "viju+ Premiere",
+          "epgId": "",
+          "aliases": [
+            "ViP Premiere",
+            "viju+ Premiere"
+          ]
+        },
+        {
+          "id": "vip_megahit",
+          "title": "viju+ Megahit",
+          "epgId": "",
+          "aliases": [
+            "ViP Megahit",
+            "viju+ Megahit"
+          ]
+        },
+        {
+          "id": "vip_comedy",
+          "title": "viju+ Comedy",
+          "epgId": "",
+          "aliases": [
+            "ViP Comedy",
+            "viju+ Comedy"
+          ]
+        },
+        {
+          "id": "tv1000",
+          "title": "viju TV1000",
+          "epgId": "",
+          "aliases": [
+            "TV1000",
+            "viju TV1000"
+          ]
+        },
+        {
+          "id": "tv1000_action",
+          "title": "viju TV1000 Action",
+          "epgId": "",
+          "aliases": [
+            "TV1000 Action",
+            "viju TV1000 Action"
+          ]
+        },
+        {
+          "id": "kinopremyera",
+          "title": "Кинопремьера",
+          "epgId": "",
+          "aliases": [
+            "Kinopremyera",
+            "Кино премьера",
+            "Кинопремьера",
+            "Кинопремьера HD"
+          ]
+        },
+        {
+          "id": "amedia_premium",
+          "title": "Amedia Premium",
+          "epgId": "",
+          "aliases": [
+            "Amedia Premium",
+            "Amedia Premium HD",
+            "Amedia Premium HD orig",
+            "Amedia premium HD orig",
+            "Amedia_Premium_HD",
+            "amediapremium_hd",
+            "Амедиа Премиум"
+          ]
+        },
+        {
+          "id": "amedia_hit",
+          "title": "Amedia Hit",
+          "epgId": "",
+          "aliases": [
+            "Amedia HIT",
+            "Amedia HIT HD",
+            "Amedia Hit",
+            "Amedia Hit HD",
+            "Amedia_HIT_HD",
+            "Амедиа Хит"
+          ]
+        },
+        {
+          "id": "amedia1",
+          "title": "Amedia 1",
+          "epgId": "",
+          "aliases": [
+            "A1",
+            "Amedia 1",
+            "Amedia 1 HD",
+            "Amedia 1 HD orig",
+            "Amedia One",
+            "Амедиа 1"
+          ]
+        },
+        {
+          "id": "amedia2",
+          "title": "Amedia 2",
+          "epgId": "",
+          "aliases": [
+            "A2",
+            "Amedia 2",
+            "Amedia 2 HD",
+            "Amedia 2 SD",
+            "Amedia_2",
+            "Амедиа 2"
+          ]
+        },
+        {
+          "id": "kinoxit",
+          "title": "Кинохит",
+          "epgId": "",
+          "aliases": [
+            "Kinoxit",
+            "Кино хит",
+            "Кинохит",
+            "Кинохит HD"
+          ]
+        },
+        {
+          "id": "mujskoe_kino",
+          "title": "Мужское кино",
+          "epgId": "",
+          "aliases": [
+            "Мужское кино",
+            "Мужское кино HD"
+          ]
+        },
+        {
+          "id": "kinosvidanie",
+          "title": "Киносвидание",
+          "epgId": "",
+          "aliases": [
+            "Kinosvidanie",
+            "Кино свидание",
+            "Киносвидание"
+          ]
+        },
+        {
+          "id": "kinosemya",
+          "title": "Киносемья",
+          "epgId": "",
+          "aliases": [
+            "Kinosemya",
+            "Кино семья",
+            "Киносемья"
+          ]
+        },
+        {
+          "id": "kinopokaz",
+          "title": "Кинопоказ",
+          "epgId": "",
+          "aliases": [
+            "Кинопоказ",
+            "Kinopokaz"
+          ]
+        },
+        {
+          "id": "dom_kino",
+          "title": "Дом кино",
+          "epgId": "",
+          "aliases": [
+            "Дом кино",
+            "Dom kino",
+            "DomKino"
+          ]
+        },
+        {
+          "id": "mosfilm",
+          "title": "Мосфильм. Золотая коллекция",
+          "epgId": "",
+          "aliases": [
+            "Мосфильм",
+            "Мосфильм. Золотая коллекция"
+          ]
+        },
+        {
+          "id": "kinokomediya",
+          "title": "Кинокомедия",
+          "epgId": "",
+          "aliases": [
+            "Кинокомедия",
+            "Kinokomediya",
+            "Kinokomediya HD",
+            "Кинокомедия HD"
+          ]
+        },
+        {
+          "id": "kinomix",
+          "title": "Киномикс",
+          "epgId": "",
+          "aliases": [
+            "Киномикс",
+            "Kinomix",
+            "Киномикс HD",
+            "Kinomix HD"
+          ]
+        },
+        {
+          "id": "kinoseria",
+          "title": "Киносерия",
+          "epgId": "",
+          "aliases": [
+            "Киносерия",
+            "Kinoseria",
+            "Киносерия HD",
+            "Kinoseria HD"
+          ]
+        },
+        {
+          "id": "lubimoe_kino",
+          "title": "Любимое кино",
+          "epgId": "",
+          "aliases": [
+            "Любимое кино",
+            "LubimoeKino",
+            "Lubimoe Kino",
+            "Любимое Кино"
+          ]
+        },
+        {
+          "id": "evrokino",
+          "title": "Еврокино",
+          "epgId": "",
+          "aliases": [
+            "Еврокино",
+            "Evrokino",
+            "Eurokino"
+          ]
+        },
+        {
+          "id": "nst",
+          "title": "НСТ",
+          "epgId": "",
+          "aliases": [
+            "НСТ",
+            "HCT",
+            "NST"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Новости",
+      "channels": [
+        {
+          "id": "rbc",
+          "title": "РБК",
+          "epgId": "",
+          "aliases": [
+            "RBC",
+            "RBC HD",
+            "RBK",
+            "РБК",
+            "РБК HD",
+            "РБК ТВ"
+          ]
+        },
+        {
+          "id": "izvestia",
+          "title": "Известия",
+          "epgId": "",
+          "aliases": [
+            "IZ.RU",
+            "Izvestia",
+            "Izvestiya",
+            "Известия",
+            "Известия HD",
+            "Известия ТВ"
+          ]
+        },
+        {
+          "id": "euronews",
+          "title": "Euronews",
+          "epgId": "",
+          "aliases": [
+            "Euronews",
+            "Euronews Rus",
+            "Euronews Russian",
+            "Евроньюс"
+          ]
+        },
+        {
+          "id": "soloviev_live",
+          "title": "Соловьев LIVE",
+          "epgId": "",
+          "aliases": [
+            "Soloviev LIVE HD",
+            "Soloviev Live",
+            "Соловьев",
+            "Соловьев LIVE",
+            "Соловьев Лайф"
+          ]
+        },
+        {
+          "id": "rtd",
+          "title": "RTД",
+          "epgId": "",
+          "aliases": [
+            "RT Doc",
+            "RT Documentary",
+            "RT Documentary Russian",
+            "RT Документальный",
+            "RTД",
+            "RTД HD"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Музыка",
+      "channels": [
+        {
+          "id": "1hd_music_tv",
+          "title": "1HD Music Television",
+          "epgId": "",
+          "aliases": [
+            "1HD",
+            "1HD Music",
+            "1HD Music Television"
+          ]
+        },
+        {
+          "id": "tnt_music",
+          "title": "ТНТ MUSIC",
+          "epgId": "",
+          "aliases": [
+            "TNT Music",
+            "ТНТ MUSIC",
+            "ТНТ Music"
+          ]
+        },
+        {
+          "id": "europa_plus_tv",
+          "title": "Europa Plus TV",
+          "epgId": "",
+          "aliases": [
+            "Europa Plus TV",
+            "Европа Плюс"
+          ]
+        },
+        {
+          "id": "bridge_tv",
+          "title": "Bridge TV",
+          "epgId": "",
+          "aliases": [
+            "Bridge TV"
+          ]
+        },
+        {
+          "id": "bridge_deluxe",
+          "title": "Bridge Deluxe",
+          "epgId": "",
+          "aliases": [
+            "Bridge Deluxe",
+            "Bridge TV Deluxe"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Развлекательные",
+      "channels": [
+        {
+          "id": "rtg_tv",
+          "title": "Russian Travel Guide",
+          "epgId": "",
+          "aliases": [
+            "RTG",
+            "RTG HD",
+            "RTG TV",
+            "Russian Travel Guide"
+          ]
+        },
+        {
+          "id": "travel_adventure",
+          "title": "Travel+Adventure",
+          "epgId": "",
+          "aliases": [
+            "Travel Adventure HD",
+            "Travel and Adventure",
+            "Travel+Adventure"
+          ]
+        },
+        {
+          "id": "viasat_explore",
+          "title": "Viasat Explore",
+          "epgId": "",
+          "aliases": [
+            "Viasat Explore",
+            "Viasat Explore HD",
+            "Viju Explore",
+            "Виасат Эксплор"
+          ]
+        },
+        {
+          "id": "viasat_history",
+          "title": "Viasat History",
+          "epgId": "",
+          "aliases": [
+            "Viasat History",
+            "Viasat History HD",
+            "Viju History",
+            "Виасат Хистори"
+          ]
+        },
+        {
+          "id": "viasat_nature",
+          "title": "Viasat Nature",
+          "epgId": "",
+          "aliases": [
+            "Viasat Nature",
+            "Viasat Nature HD",
+            "Viju Nature",
+            "Виасат Нэйчер"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Детские",
+      "channels": [
+        {
+          "id": "mult",
+          "title": "Мульт",
+          "epgId": "",
+          "aliases": [
+            "Mult",
+            "Мульт",
+            "Мульт HD"
+          ]
+        },
+        {
+          "id": "multilandia",
+          "title": "Мультиландия",
+          "epgId": "",
+          "aliases": [
+            "Multilandiya",
+            "Мультиландия",
+            "Мультиландия HD"
+          ]
+        },
+        {
+          "id": "nickelodeon",
+          "title": "Nickelodeon",
+          "epgId": "",
+          "aliases": [
+            "Nickelodeon",
+            "Nickelodeon HD",
+            "Никелодеон"
+          ]
+        },
+        {
+          "id": "soviet_cartoons",
+          "title": "Советские мультфильмы",
+          "epgId": "",
+          "aliases": [
+            "Soviet Cartoons",
+            "Советские мультфильмы",
+            "Союзмультфильм"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Развлечения",
+      "channels": [
+        {
+          "id": "moya_planeta",
+          "title": "Моя Планета",
+          "epgId": "",
+          "aliases": [
+            "Моя Планета",
+            "Моя Планета HD",
+            "Моя планета",
+            "Моя планета HD",
+            "045 Моя планета",
+            "Moya Planeta",
+            "Moya_Planeta",
+            "Moya Planeta HD",
+            "my_planet",
+            "myplanet",
+            "moyaplaneta"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Детям",
+      "channels": [
+        {
+          "id": "two_x_two",
+          "title": "2x2",
+          "epgId": "",
+          "aliases": [
+            "2x2",
+            "2х2",
+            "2x2 HD",
+            "2х2 HD",
+            "2 X 2",
+            "2 Х 2",
+            "2x2 TV",
+            "2x2TV"
+          ]
+        }
+      ]
+    }
+  ]
+}
