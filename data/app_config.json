@@ -1,19 +1,19 @@
 {
   "app": "TVbox",
   "schema_version": 1,
-  "generated_at": "2026-06-20 04:16:15 +04",
+  "generated_at": "2026-06-20 08:16:41 +04",
   "current_catalog": "stable",
   "min_app_version": "1.5.0",
   "latest_app_version": "1.5.1",
   "catalog": {
     "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox.m3u",
-    "streams": 811,
+    "streams": 809,
     "lime_streams": 53,
     "cache_seconds": 300
   },
   "public_playlist": {
     "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/index.dat",
-    "streams": 13394
+    "streams": 13353
   },
   "epg": {
     "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_epg.xml.gz",
