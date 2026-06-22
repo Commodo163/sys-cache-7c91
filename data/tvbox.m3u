@@ -768,13 +768,13 @@ http://timeshift.arpinet.am/110/mpegts
 #EXTINF:-1 tvg-id="2005" tvg-name="Матч! Футбол 3" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="Спорт",Матч! Футбол 3
 http://tv.ttk.mx:9112
 #EXTINF:-1 tvg-id="7517" tvg-name="Setanta Sports 1" tvg-logo="https://iptvx.one/picons/setanta-sports.png" group-title="Спорт",Setanta Sports 1
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-#EXTINF:-1 tvg-id="7517" tvg-name="Setanta Sports 1" tvg-logo="https://iptvx.one/picons/setanta-sports.png" group-title="Спорт",Setanta Sports 1
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="2363" tvg-name="Setanta Sports 2" tvg-logo="https://iptvx.one/picons/setanta-sports-plus.png" group-title="Спорт",Setanta Sports 2
-http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
+#EXTINF:-1 tvg-id="7517" tvg-name="Setanta Sports 1" tvg-logo="https://iptvx.one/picons/setanta-sports.png" group-title="Спорт",Setanta Sports 1
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 tvg-id="2363" tvg-name="Setanta Sports 2" tvg-logo="https://iptvx.one/picons/setanta-sports-plus.png" group-title="Спорт",Setanta Sports 2
 https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="2363" tvg-name="Setanta Sports 2" tvg-logo="https://iptvx.one/picons/setanta-sports-plus.png" group-title="Спорт",Setanta Sports 2
+http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
 #EXTINF:-1 tvg-id="2003" tvg-name="Матч! Арена" tvg-logo="https://iptvx.one/picons/match-arena.png" group-title="Спорт",Матч! Арена
 https://mhd128.iptv2022.com/p/xocydf2Lm2lftxCTXM-kJg,1782154307/streaming/match_arena/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="2003" tvg-name="Матч! Арена" tvg-logo="https://iptvx.one/picons/match-arena.png" group-title="Спорт",Матч! Арена
@@ -1075,8 +1075,6 @@ https://streaming.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5
 http://176.118.197.101/Dom_kino/index.m3u8
 #EXTINF:-1 tvg-id="834" tvg-name="Дом кино" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Кино",Дом кино
 http://176.118.197.101/Dom_kino/mono.m3u8
-#EXTINF:-1 tvg-id="834" tvg-name="Дом кино" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Кино",Дом кино
-http://s.only4.tv/820/video.m3u8?token=9WzZmPBnSf
 #EXTINF:-1 tvg-id="834" tvg-name="Дом кино" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Кино",Дом кино
 http://193.25.8.59:8000/domkino
 #EXTINF:-1 tvg-id="834" tvg-name="Дом кино" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Кино",Дом кино
