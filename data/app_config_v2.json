@@ -1,0 +1,33 @@
+{
+  "app": "TVbox",
+  "schema_version": 1,
+  "generated_at": "2026-06-26 19:08:09 +04",
+  "current_catalog": "stable",
+  "min_app_version": "1.5.0",
+  "latest_app_version": "1.5.1",
+  "catalog": {
+    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox.m3u",
+    "catalog_json_url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/catalog.json",
+    "streams": 737,
+    "lime_streams": 0,
+    "cache_seconds": 300
+  },
+  "public_playlist": {
+    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/index.dat",
+    "streams": 12908
+  },
+  "epg": {
+    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_epg.xml.gz",
+    "summary_url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_epg_summary.txt",
+    "cache_hours": 12
+  },
+  "reports": {
+    "status": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_status.txt",
+    "summary": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_canonical_summary.txt",
+    "lime_summary": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_canonical_lime_priority_summary.txt"
+  },
+  "update": {
+    "url": "https://4pda.to/forum/index.php?showtopic=1122360",
+    "message": "Доступна новая версия TVbox."
+  }
+}
