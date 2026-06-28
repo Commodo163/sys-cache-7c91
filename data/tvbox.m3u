@@ -196,6 +196,8 @@ http://mfe01.cliptv.az/dash/HTB_HDdhh020500.ism/playlist.mpd
 #EXTINF:-1 tvg-id="162" tvg-name="НТВ" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Федеральные",НТВ
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=WZjRzOfCFTjd7SaUrt37AQ&e=2082629203&scheme=https
 #EXTINF:-1 tvg-id="162" tvg-name="НТВ" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Федеральные",НТВ
+http://176.118.197.101/NTV/mono.m3u8
+#EXTINF:-1 tvg-id="162" tvg-name="НТВ" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Федеральные",НТВ
 http://85.25.46.88:8000/play/25/index.m3u8
 #EXTINF:-1 tvg-id="162" tvg-name="НТВ" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Федеральные",НТВ
 https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
@@ -311,6 +313,8 @@ https://streaming.thestream.cyou/live/30-req_offset_28000000-req_window_0-1k_v5.
 http://77.232.131.211/Rossiya24/index.m3u8
 #EXTINF:-1 tvg-id="1683" tvg-name="Россия 24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Федеральные",Россия 24
 http://uiptv.do.am/1ufc/000000006/playlist.m3u8
+#EXTINF:-1 tvg-id="1683" tvg-name="Россия 24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Федеральные",Россия 24
+http://176.118.197.101/Rossiya24/mono.m3u8
 #EXTINF:-1 tvg-id="1683" tvg-name="Россия 24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Федеральные",Россия 24
 http://5.188.221.43:8080/play/rossia_24
 #EXTINF:-1 tvg-id="1683" tvg-name="Россия 24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Федеральные",Россия 24
@@ -1308,6 +1312,8 @@ http://tv.ttk.mx:9161
 #EXTINF:-1 tvg-id="987" tvg-name="Киносемья" tvg-logo="https://iptvx.one/picons/kinosemia.png" group-title="Кино",Киносемья
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt58gohH0cx8ZbPaa9uCkEuk/ts
 #EXTINF:-1 tvg-id="2834" tvg-name="Кинопоказ" tvg-logo="https://iptvx.one/picons/kinopokaz.png" group-title="Кино",Кинопоказ
+http://s.only4.tv/6208/video.m3u8?token=9WzZmPBnSf
+#EXTINF:-1 tvg-id="2834" tvg-name="Кинопоказ" tvg-logo="https://iptvx.one/picons/kinopokaz.png" group-title="Кино",Кинопоказ
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="2834" tvg-name="Кинопоказ" tvg-logo="https://iptvx.one/picons/kinopokaz.png" group-title="Кино",Кинопоказ
 https://s03.watcher.uz/49/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
@@ -1315,6 +1321,8 @@ https://s03.watcher.uz/49/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
 http://176.118.197.101/Kinopokaz/index.m3u8
 #EXTINF:-1 tvg-id="2834" tvg-name="Кинопоказ" tvg-logo="https://iptvx.one/picons/kinopokaz.png" group-title="Кино",Кинопоказ
 http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 tvg-id="2834" tvg-name="Кинопоказ" tvg-logo="https://iptvx.one/picons/kinopokaz.png" group-title="Кино",Кинопоказ
+http://176.118.197.101/Kinopokaz/mono.m3u8
 #EXTINF:-1 tvg-id="2834" tvg-name="Кинопоказ" tvg-logo="https://iptvx.one/picons/kinopokaz.png" group-title="Кино",Кинопоказ
 http://176.118.197.101/Kinopokaz/mono.m3u8
 #EXTINF:-1 tvg-id="2834" tvg-name="Кинопоказ" tvg-logo="https://iptvx.one/picons/kinopokaz.png" group-title="Кино",Кинопоказ
@@ -1335,6 +1343,10 @@ https://streaming.thestream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.
 http://31.148.48.15/Dom_Kino/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-id="834" tvg-name="Дом кино" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Кино",Дом кино
 https://streaming.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-id="834" tvg-name="Дом кино" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Кино",Дом кино
+http://176.118.197.101/Dom_kino/index.m3u8
+#EXTINF:-1 tvg-id="834" tvg-name="Дом кино" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Кино",Дом кино
+http://176.118.197.101/Dom_kino/mono.m3u8
 #EXTINF:-1 tvg-id="834" tvg-name="Дом кино" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Кино",Дом кино
 http://s.only4.tv/820/video.m3u8?token=9WzZmPBnSf
 #EXTINF:-1 tvg-id="834" tvg-name="Дом кино" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Кино",Дом кино
@@ -1558,6 +1570,8 @@ http://94.228.166.20:8000/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="2022" tvg-name="Bridge Deluxe" tvg-logo="https://iptvx.one/picons/bridge-hd.png" group-title="Музыка",Bridge Deluxe
 http://31148.rafail1982.uz/Bridge_TV_HD/index.m3u8
 #EXTINF:-1 tvg-id="2022" tvg-name="Bridge Deluxe" tvg-logo="https://iptvx.one/picons/bridge-hd.png" group-title="Музыка",Bridge Deluxe
+http://s.only4.tv/2206/video.m3u8?token=9WzZmPBnSf
+#EXTINF:-1 tvg-id="2022" tvg-name="Bridge Deluxe" tvg-logo="https://iptvx.one/picons/bridge-hd.png" group-title="Музыка",Bridge Deluxe
 http://31.148.48.15/Bridge_TV_HD/index.m3u8
 #EXTINF:-1 tvg-id="2022" tvg-name="Bridge Deluxe" tvg-logo="https://iptvx.one/picons/bridge-hd.png" group-title="Музыка",Bridge Deluxe
 http://89.218.32.179:18000/play/a02m
@@ -1574,8 +1588,6 @@ http://195.26.83.96:7007/play/a00n/index.m3u8?token=test
 #EXTINF:-1 tvg-id="648" tvg-name="Russian Travel Guide" tvg-logo="https://iptvx.one/picons/rtg-hd.png" group-title="Развлекательные",Russian Travel Guide
 http://31.148.48.15:80/RTG/index.m3u8
 #EXTINF:-1 tvg-id="648" tvg-name="Russian Travel Guide" tvg-logo="https://iptvx.one/picons/rtg-hd.png" group-title="Развлекательные",Russian Travel Guide
-http://s.only4.tv/9755/video.m3u8?token=9WzZmPBnSf
-#EXTINF:-1 tvg-id="648" tvg-name="Russian Travel Guide" tvg-logo="https://iptvx.one/picons/rtg-hd.png" group-title="Развлекательные",Russian Travel Guide
 http://31.148.48.15/RTG_HD/index.m3u8
 #EXTINF:-1 tvg-id="648" tvg-name="Russian Travel Guide" tvg-logo="https://iptvx.one/picons/rtg-hd.png" group-title="Развлекательные",Russian Travel Guide
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt7aNYI-7N8NpOgXZJJhibyk/ts
@@ -1583,8 +1595,6 @@ http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt7aNYI-7N8NpOgXZJJhibyk/ts
 http://31.148.48.15:80/Travel_Adventure_HD/index.m3u8
 #EXTINF:-1 tvg-id="1035" tvg-name="Travel+Adventure" tvg-logo="https://iptvx.one/picons/travel-adventure.png" group-title="Развлекательные",Travel+Adventure
 http://77.232.131.211/TravelAdventureHD/index.m3u8
-#EXTINF:-1 tvg-id="1035" tvg-name="Travel+Adventure" tvg-logo="https://iptvx.one/picons/travel-adventure.png" group-title="Развлекательные",Travel+Adventure
-http://s.only4.tv/713/video.m3u8?token=9WzZmPBnSf
 #EXTINF:-1 tvg-id="1035" tvg-name="Travel+Adventure" tvg-logo="https://iptvx.one/picons/travel-adventure.png" group-title="Развлекательные",Travel+Adventure
 http://94.228.166.20:8000/play/a05h/index.m3u8
 #EXTINF:-1 tvg-id="1035" tvg-name="Travel+Adventure" tvg-logo="https://iptvx.one/picons/travel-adventure.png" group-title="Развлекательные",Travel+Adventure
@@ -1792,6 +1802,8 @@ http://176.118.197.101/Kinokomediya/index.m3u8
 #EXTINF:-1 tvg-id="821" tvg-name="Кинокомедия" tvg-logo="https://iptvx.one/picons/kinokomedia.png" group-title="Кино",Кинокомедия
 http://94.228.166.20:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="821" tvg-name="Кинокомедия" tvg-logo="https://iptvx.one/picons/kinokomedia.png" group-title="Кино",Кинокомедия
+http://176.118.197.101/Kinokomediya/mono.m3u8
+#EXTINF:-1 tvg-id="821" tvg-name="Кинокомедия" tvg-logo="https://iptvx.one/picons/kinokomedia.png" group-title="Кино",Кинокомедия
 http://s.only4.tv/108/video.m3u8?token=9WzZmPBnSf
 #EXTINF:-1 tvg-id="821" tvg-name="Кинокомедия" tvg-logo="https://iptvx.one/picons/kinokomedia.png" group-title="Кино",Кинокомедия
 https://cityeden.catcast.tv/content/41331/index.m3u8?password=loganet
@@ -1819,6 +1831,8 @@ http://94.228.166.20:8000/play/a01e/index.m3u8
 http://93.170.254.17/Kinomiks/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="644" tvg-name="Киномикс" tvg-logo="https://iptvx.one/picons/kinomiks.png" group-title="Кино",Киномикс
 http://93.170.254.17/Kinomiks/index.m3u8
+#EXTINF:-1 tvg-id="644" tvg-name="Киномикс" tvg-logo="https://iptvx.one/picons/kinomiks.png" group-title="Кино",Киномикс
+http://176.118.197.101/Kinomix/mono.m3u8
 #EXTINF:-1 tvg-id="644" tvg-name="Киномикс" tvg-logo="https://iptvx.one/picons/kinomiks.png" group-title="Кино",Киномикс
 http://s.only4.tv/105/video.m3u8?token=9WzZmPBnSf
 #EXTINF:-1 tvg-id="644" tvg-name="Киномикс" tvg-logo="https://iptvx.one/picons/kinomiks.png" group-title="Кино",Киномикс
@@ -1852,6 +1866,8 @@ http://176.118.197.101/Kinoseria/index.m3u8
 #EXTINF:-1 tvg-id="799" tvg-name="Киносерия" tvg-logo="https://iptvx.one/picons/kinoseria.png" group-title="Кино",Киносерия
 http://94.228.166.20:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="799" tvg-name="Киносерия" tvg-logo="https://iptvx.one/picons/kinoseria.png" group-title="Кино",Киносерия
+http://176.118.197.101/Kinoseria/mono.m3u8
+#EXTINF:-1 tvg-id="799" tvg-name="Киносерия" tvg-logo="https://iptvx.one/picons/kinoseria.png" group-title="Кино",Киносерия
 http://s.only4.tv/113/video.m3u8?token=9WzZmPBnSf
 #EXTINF:-1 tvg-id="799" tvg-name="Киносерия" tvg-logo="https://iptvx.one/picons/kinoseria.png" group-title="Кино",Киносерия
 http://31.210.208.171:8080/kinoseriya/index.m3u8?token=+W2MSER
@@ -1869,6 +1885,8 @@ http://s.only4.tv/722/video.m3u8?token=9WzZmPBnSf
 http://46.32.176.50/lubimoekino/index.m3u8
 #EXTINF:-1 tvg-id="477" tvg-name="Любимое кино" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png" group-title="Кино",Любимое кино
 http://176.118.197.101/LubimoeKino/index.m3u8
+#EXTINF:-1 tvg-id="477" tvg-name="Любимое кино" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png" group-title="Кино",Любимое кино
+http://176.118.197.101/LubimoeKino/mono.m3u8
 #EXTINF:-1 tvg-id="477" tvg-name="Любимое кино" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png" group-title="Кино",Любимое кино
 https://jekalich.github.io/smtk/channels/lubimoe-kino.m3u8
 #EXTINF:-1 tvg-id="477" tvg-name="Любимое кино" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png" group-title="Кино",Любимое кино
@@ -1889,6 +1907,8 @@ http://31.148.48.15/Evrokino/tracks-v1a1/mono.m3u8?token=default
 http://45.145.32.13:20440/eurokino/index.m3u8?token=test
 #EXTINF:-1 tvg-id="352" tvg-name="Еврокино" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="Кино",Еврокино
 http://85.117.37.41/eurokino/index.m3u8
+#EXTINF:-1 tvg-id="352" tvg-name="Еврокино" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="Кино",Еврокино
+http://176.118.197.101/Evrokino/mono.m3u8
 #EXTINF:-1 tvg-id="352" tvg-name="Еврокино" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="Кино",Еврокино
 http://s.only4.tv/0275/video.m3u8?token=9WzZmPBnSf
 #EXTINF:-1 tvg-id="352" tvg-name="Еврокино" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="Кино",Еврокино
@@ -1927,6 +1947,8 @@ http://94.228.166.20:8000/play/a00g/index.m3u8
 http://vod.tuva.ru/nst/index.m3u8
 #EXTINF:-1 tvg-id="518" tvg-name="НСТ" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Кино",НСТ
 http://176.118.197.101/HCT/index.m3u8
+#EXTINF:-1 tvg-id="518" tvg-name="НСТ" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Кино",НСТ
+http://176.118.197.101/HCT/mono.m3u8
 #EXTINF:-1 tvg-id="518" tvg-name="НСТ" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Кино",НСТ
 http://s.only4.tv/804/video.m3u8?token=9WzZmPBnSf
 #EXTINF:-1 tvg-id="518" tvg-name="НСТ" tvg-logo="https://iptvx.one/picons/nst.png" group-title="Кино",НСТ
