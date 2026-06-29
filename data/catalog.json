@@ -14,7 +14,8 @@
             "Первый",
             "Первый канал",
             "Первый HD"
-          ]
+          ],
+          "name": "Первый канал"
         },
         {
           "id": "russia1",
@@ -25,7 +26,8 @@
             "Russia 1",
             "Россия 1",
             "Россия-1"
-          ]
+          ],
+          "name": "Россия 1"
         },
         {
           "id": "match",
@@ -35,7 +37,8 @@
             "Match TV",
             "Матч ТВ",
             "Матч!"
-          ]
+          ],
+          "name": "Матч ТВ"
         },
         {
           "id": "ntv",
@@ -45,7 +48,8 @@
             "NTV",
             "НТВ",
             "НТВ HD"
-          ]
+          ],
+          "name": "НТВ"
         },
         {
           "id": "5kanal",
@@ -56,7 +60,8 @@
             "5 канал",
             "Пятый",
             "Пятый канал"
-          ]
+          ],
+          "name": "Пятый канал"
         },
         {
           "id": "russiak",
@@ -67,7 +72,8 @@
             "Культура",
             "Россия К",
             "Россия Культура"
-          ]
+          ],
+          "name": "Россия К"
         },
         {
           "id": "russia24",
@@ -80,7 +86,8 @@
             "Россия-24",
             "Rossiya24",
             "Russia24"
-          ]
+          ],
+          "name": "Россия 24"
         },
         {
           "id": "karusel",
@@ -89,7 +96,8 @@
           "aliases": [
             "Karusel",
             "Карусель"
-          ]
+          ],
+          "name": "Карусель"
         },
         {
           "id": "otr",
@@ -98,7 +106,8 @@
           "aliases": [
             "OTR",
             "ОТР"
-          ]
+          ],
+          "name": "ОТР"
         },
         {
           "id": "tvc",
@@ -109,7 +118,8 @@
             "TVC",
             "ТВ Центр",
             "ТВЦ"
-          ]
+          ],
+          "name": "ТВ Центр"
         },
         {
           "id": "rentv",
@@ -119,7 +129,8 @@
             "REN TV",
             "РЕН ТВ",
             "Рен-ТВ"
-          ]
+          ],
+          "name": "РЕН ТВ"
         },
         {
           "id": "spas",
@@ -128,7 +139,8 @@
           "aliases": [
             "Spas",
             "Спас"
-          ]
+          ],
+          "name": "Спас"
         },
         {
           "id": "sts",
@@ -138,7 +150,8 @@
             "STS",
             "СТС",
             "СТС HD"
-          ]
+          ],
+          "name": "СТС"
         },
         {
           "id": "domashniy",
@@ -147,7 +160,8 @@
           "aliases": [
             "Domashniy",
             "Домашний"
-          ]
+          ],
+          "name": "Домашний"
         },
         {
           "id": "tv3",
@@ -158,7 +172,8 @@
             "ТВ-3",
             "ТВ3",
             "ТВ3 HD"
-          ]
+          ],
+          "name": "ТВ-3"
         },
         {
           "id": "pyatnica",
@@ -168,7 +183,8 @@
             "Pyatnica",
             "Пятница",
             "Пятница!"
-          ]
+          ],
+          "name": "Пятница!"
         },
         {
           "id": "zvezda",
@@ -177,7 +193,8 @@
           "aliases": [
             "Zvezda",
             "Звезда"
-          ]
+          ],
+          "name": "Звезда"
         },
         {
           "id": "mir",
@@ -186,7 +203,8 @@
           "aliases": [
             "MIR",
             "Мир"
-          ]
+          ],
+          "name": "Мир"
         },
         {
           "id": "tnt",
@@ -195,7 +213,8 @@
           "aliases": [
             "ТНТ",
             "ТНТ HD"
-          ]
+          ],
+          "name": "ТНТ"
         },
         {
           "id": "muztv",
@@ -205,9 +224,11 @@
             "MUZ TV",
             "Муз ТВ",
             "Муз-ТВ"
-          ]
+          ],
+          "name": "Муз-ТВ"
         }
-      ]
+      ],
+      "name": "Федеральные"
     },
     {
       "title": "Спорт",
@@ -220,7 +241,8 @@
             "Match Premier",
             "Матч Премьер",
             "Матч! Премьер"
-          ]
+          ],
+          "name": "Матч! Премьер"
         },
         {
           "id": "match_futbol_1",
@@ -230,7 +252,8 @@
             "Match! Futbol 1",
             "Матч Футбол 1",
             "Матч! Футбол 1"
-          ]
+          ],
+          "name": "Матч! Футбол 1"
         },
         {
           "id": "match_futbol_2",
@@ -240,7 +263,8 @@
             "Match! Futbol 2",
             "Матч Футбол 2",
             "Матч! Футбол 2"
-          ]
+          ],
+          "name": "Матч! Футбол 2"
         },
         {
           "id": "match_futbol_3",
@@ -250,7 +274,8 @@
             "Match! Futbol 3",
             "Матч Футбол 3",
             "Матч! Футбол 3"
-          ]
+          ],
+          "name": "Матч! Футбол 3"
         },
         {
           "id": "setanta_sports_1",
@@ -262,7 +287,8 @@
             "Setanta Sports 1 Georgia",
             "Setanta Georgia",
             "setanta_georgia"
-          ]
+          ],
+          "name": "Setanta Sports 1"
         },
         {
           "id": "setanta_sports_2",
@@ -275,7 +301,8 @@
             "Setanta Sports Plus Georgia",
             "Setanta Sports + Georgia",
             "setanta_sports_plus_georgia"
-          ]
+          ],
+          "name": "Setanta Sports 2"
         },
         {
           "id": "match_arena",
@@ -285,7 +312,8 @@
             "Match! Arena",
             "Матч Арена",
             "Матч! Арена"
-          ]
+          ],
+          "name": "Матч! Арена"
         },
         {
           "id": "match_boec",
@@ -294,7 +322,8 @@
           "aliases": [
             "Матч Боец",
             "Матч! Боец"
-          ]
+          ],
+          "name": "Матч! Боец"
         },
         {
           "id": "match_igra",
@@ -303,7 +332,8 @@
           "aliases": [
             "Матч Игра",
             "Матч! Игра"
-          ]
+          ],
+          "name": "Матч! Игра"
         },
         {
           "id": "khl_prime",
@@ -314,7 +344,8 @@
             "KHL Prime",
             "КХЛ HD",
             "КХЛ Prime"
-          ]
+          ],
+          "name": "КХЛ Prime"
         },
         {
           "id": "skysportspl",
@@ -324,9 +355,11 @@
             "Sky Sports PL",
             "Sky Sports Premier League",
             "Sky Sports Premier League HD"
-          ]
+          ],
+          "name": "Sky Sports Premier League"
         }
-      ]
+      ],
+      "name": "Спорт"
     },
     {
       "title": "Кино",
@@ -338,7 +371,8 @@
           "aliases": [
             "ViP Premiere",
             "viju+ Premiere"
-          ]
+          ],
+          "name": "viju+ Premiere"
         },
         {
           "id": "vip_megahit",
@@ -347,7 +381,8 @@
           "aliases": [
             "ViP Megahit",
             "viju+ Megahit"
-          ]
+          ],
+          "name": "viju+ Megahit"
         },
         {
           "id": "vip_comedy",
@@ -356,7 +391,8 @@
           "aliases": [
             "ViP Comedy",
             "viju+ Comedy"
-          ]
+          ],
+          "name": "viju+ Comedy"
         },
         {
           "id": "tv1000",
@@ -365,7 +401,8 @@
           "aliases": [
             "TV1000",
             "viju TV1000"
-          ]
+          ],
+          "name": "viju TV1000"
         },
         {
           "id": "tv1000_action",
@@ -374,7 +411,8 @@
           "aliases": [
             "TV1000 Action",
             "viju TV1000 Action"
-          ]
+          ],
+          "name": "viju TV1000 Action"
         },
         {
           "id": "kinopremyera",
@@ -385,7 +423,8 @@
             "Кино премьера",
             "Кинопремьера",
             "Кинопремьера HD"
-          ]
+          ],
+          "name": "Кинопремьера"
         },
         {
           "id": "kinoxit",
@@ -396,7 +435,8 @@
             "Кино хит",
             "Кинохит",
             "Кинохит HD"
-          ]
+          ],
+          "name": "Кинохит"
         },
         {
           "id": "mujskoe_kino",
@@ -405,7 +445,8 @@
           "aliases": [
             "Мужское кино",
             "Мужское кино HD"
-          ]
+          ],
+          "name": "Мужское кино"
         },
         {
           "id": "kinosvidanie",
@@ -415,7 +456,8 @@
             "Kinosvidanie",
             "Кино свидание",
             "Киносвидание"
-          ]
+          ],
+          "name": "Киносвидание"
         },
         {
           "id": "kinosemya",
@@ -425,7 +467,8 @@
             "Kinosemya",
             "Кино семья",
             "Киносемья"
-          ]
+          ],
+          "name": "Киносемья"
         },
         {
           "id": "kinopokaz",
@@ -434,7 +477,8 @@
           "aliases": [
             "Кинопоказ",
             "Kinopokaz"
-          ]
+          ],
+          "name": "Кинопоказ"
         },
         {
           "id": "dom_kino",
@@ -444,7 +488,8 @@
             "Дом кино",
             "Dom kino",
             "DomKino"
-          ]
+          ],
+          "name": "Дом кино"
         },
         {
           "id": "mosfilm",
@@ -453,7 +498,8 @@
           "aliases": [
             "Мосфильм",
             "Мосфильм. Золотая коллекция"
-          ]
+          ],
+          "name": "Мосфильм. Золотая коллекция"
         },
         {
           "id": "kinokomediya",
@@ -464,7 +510,8 @@
             "Kinokomediya",
             "Kinokomediya HD",
             "Кинокомедия HD"
-          ]
+          ],
+          "name": "Кинокомедия"
         },
         {
           "id": "kinomix",
@@ -475,7 +522,8 @@
             "Kinomix",
             "Киномикс HD",
             "Kinomix HD"
-          ]
+          ],
+          "name": "Киномикс"
         },
         {
           "id": "kinoseria",
@@ -486,7 +534,8 @@
             "Kinoseria",
             "Киносерия HD",
             "Kinoseria HD"
-          ]
+          ],
+          "name": "Киносерия"
         },
         {
           "id": "lubimoe_kino",
@@ -497,7 +546,8 @@
             "LubimoeKino",
             "Lubimoe Kino",
             "Любимое Кино"
-          ]
+          ],
+          "name": "Любимое кино"
         },
         {
           "id": "evrokino",
@@ -507,7 +557,8 @@
             "Еврокино",
             "Evrokino",
             "Eurokino"
-          ]
+          ],
+          "name": "Еврокино"
         },
         {
           "id": "nst",
@@ -517,9 +568,11 @@
             "НСТ",
             "HCT",
             "NST"
-          ]
+          ],
+          "name": "НСТ"
         }
-      ]
+      ],
+      "name": "Кино"
     },
     {
       "title": "Новости",
@@ -535,7 +588,8 @@
             "РБК",
             "РБК HD",
             "РБК ТВ"
-          ]
+          ],
+          "name": "РБК"
         },
         {
           "id": "izvestia",
@@ -548,7 +602,8 @@
             "Известия",
             "Известия HD",
             "Известия ТВ"
-          ]
+          ],
+          "name": "Известия"
         },
         {
           "id": "euronews",
@@ -559,7 +614,8 @@
             "Euronews Rus",
             "Euronews Russian",
             "Евроньюс"
-          ]
+          ],
+          "name": "Euronews"
         },
         {
           "id": "soloviev_live",
@@ -571,7 +627,8 @@
             "Соловьев",
             "Соловьев LIVE",
             "Соловьев Лайф"
-          ]
+          ],
+          "name": "Соловьев LIVE"
         },
         {
           "id": "rtd",
@@ -584,9 +641,11 @@
             "RT Документальный",
             "RTД",
             "RTД HD"
-          ]
+          ],
+          "name": "RTД"
         }
-      ]
+      ],
+      "name": "Новости"
     },
     {
       "title": "Музыка",
@@ -599,7 +658,8 @@
             "1HD",
             "1HD Music",
             "1HD Music Television"
-          ]
+          ],
+          "name": "1HD Music Television"
         },
         {
           "id": "tnt_music",
@@ -609,7 +669,8 @@
             "TNT Music",
             "ТНТ MUSIC",
             "ТНТ Music"
-          ]
+          ],
+          "name": "ТНТ MUSIC"
         },
         {
           "id": "europa_plus_tv",
@@ -618,7 +679,8 @@
           "aliases": [
             "Europa Plus TV",
             "Европа Плюс"
-          ]
+          ],
+          "name": "Europa Plus TV"
         },
         {
           "id": "bridge_tv",
@@ -626,7 +688,8 @@
           "epgId": "",
           "aliases": [
             "Bridge TV"
-          ]
+          ],
+          "name": "Bridge TV"
         },
         {
           "id": "bridge_deluxe",
@@ -635,9 +698,11 @@
           "aliases": [
             "Bridge Deluxe",
             "Bridge TV Deluxe"
-          ]
+          ],
+          "name": "Bridge Deluxe"
         }
-      ]
+      ],
+      "name": "Музыка"
     },
     {
       "title": "Развлекательные",
@@ -668,7 +733,8 @@
               "quality": "SD",
               "source": "rtg_allowlist_31"
             }
-          ]
+          ],
+          "name": "Russian Travel Guide"
         },
         {
           "id": "travel_adventure",
@@ -678,7 +744,8 @@
             "Travel Adventure HD",
             "Travel and Adventure",
             "Travel+Adventure"
-          ]
+          ],
+          "name": "Travel+Adventure"
         },
         {
           "id": "viasat_explore",
@@ -689,7 +756,8 @@
             "Viasat Explore HD",
             "Viju Explore",
             "Виасат Эксплор"
-          ]
+          ],
+          "name": "Viasat Explore"
         },
         {
           "id": "viasat_history",
@@ -700,7 +768,8 @@
             "Viasat History HD",
             "Viju History",
             "Виасат Хистори"
-          ]
+          ],
+          "name": "Viasat History"
         },
         {
           "id": "viasat_nature",
@@ -711,9 +780,11 @@
             "Viasat Nature HD",
             "Viju Nature",
             "Виасат Нэйчер"
-          ]
+          ],
+          "name": "Viasat Nature"
         }
-      ]
+      ],
+      "name": "Развлекательные"
     },
     {
       "title": "Детские",
@@ -726,7 +797,8 @@
             "Mult",
             "Мульт",
             "Мульт HD"
-          ]
+          ],
+          "name": "Мульт"
         },
         {
           "id": "multilandia",
@@ -736,7 +808,8 @@
             "Multilandiya",
             "Мультиландия",
             "Мультиландия HD"
-          ]
+          ],
+          "name": "Мультиландия"
         },
         {
           "id": "nickelodeon",
@@ -746,7 +819,8 @@
             "Nickelodeon",
             "Nickelodeon HD",
             "Никелодеон"
-          ]
+          ],
+          "name": "Nickelodeon"
         },
         {
           "id": "soviet_cartoons",
@@ -756,9 +830,11 @@
             "Soviet Cartoons",
             "Советские мультфильмы",
             "Союзмультфильм"
-          ]
+          ],
+          "name": "Советские мультфильмы"
         }
-      ]
+      ],
+      "name": "Детские"
     },
     {
       "title": "Развлечения",
@@ -779,7 +855,8 @@
             "my_planet",
             "myplanet",
             "moyaplaneta"
-          ]
+          ],
+          "name": "Моя Планета"
         },
         {
           "id": "discovery",
@@ -792,9 +869,11 @@
             "DISCOVERY CHANNEL HD",
             "Discovery",
             "DISCOVERY HD"
-          ]
+          ],
+          "name": "Discovery Channel"
         }
-      ]
+      ],
+      "name": "Развлечения"
     },
     {
       "title": "Детям",
@@ -812,9 +891,11 @@
             "2 Х 2",
             "2x2 TV",
             "2x2TV"
-          ]
+          ],
+          "name": "2x2"
         }
-      ]
+      ],
+      "name": "Детям"
     }
   ]
 }
