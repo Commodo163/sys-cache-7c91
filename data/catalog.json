@@ -651,6 +651,23 @@
             "RTG HD",
             "RTG TV",
             "Russian Travel Guide"
+          ],
+          "streams": [
+            {
+              "url": "http://31.148.48.15:80/RTG_HD/index.m3u8",
+              "quality": "HD",
+              "source": "rtg_allowlist_31"
+            },
+            {
+              "url": "http://31.148.48.15/RTG_HD/index.m3u8",
+              "quality": "HD",
+              "source": "rtg_allowlist_31"
+            },
+            {
+              "url": "http://31.148.48.15:80/RTG/index.m3u8",
+              "quality": "SD",
+              "source": "rtg_allowlist_31"
+            }
           ]
         },
         {
