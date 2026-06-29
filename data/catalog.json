@@ -719,19 +719,22 @@
           ],
           "streams": [
             {
-              "name": "Russian Travel Guide HD 31.148.48.15:80",
+              "name": "Russian Travel Guide HD 1",
+              "title": "Russian Travel Guide HD 1",
               "url": "http://31.148.48.15:80/RTG_HD/index.m3u8",
               "quality": "HD",
               "source": "rtg_allowlist_31"
             },
             {
-              "name": "Russian Travel Guide HD 31.148.48.15",
+              "name": "Russian Travel Guide HD 2",
+              "title": "Russian Travel Guide HD 2",
               "url": "http://31.148.48.15/RTG_HD/index.m3u8",
               "quality": "HD",
               "source": "rtg_allowlist_31"
             },
             {
-              "name": "Russian Travel Guide SD 31.148.48.15",
+              "name": "Russian Travel Guide SD",
+              "title": "Russian Travel Guide SD",
               "url": "http://31.148.48.15:80/RTG/index.m3u8",
               "quality": "SD",
               "source": "rtg_allowlist_31"
