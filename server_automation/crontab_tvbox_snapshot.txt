@@ -1,0 +1,9 @@
+0 3,9,15,21 * * * /srv/tvbox/scanner/run_full_update.sh >> /srv/tvbox/logs/full_update.log 2>&1
+30 23 * * * /srv/tvbox/backup_to_external.sh >> /srv/tvbox/logs/backup_cron.log 2>&1
+15,45 * * * * /srv/tvbox/aggregator/run_playlist_refresh.sh >> /srv/tvbox/logs/playlist_refresh.log 2>&1
+* * * * * python3 /srv/tvbox/api/sync_devices_to_google_sheet.py >> /srv/tvbox/logs/google_sheet_sync_cron.log 2>&1
+10 */4 * * * /home/server/MEGALIST/publish_public_3_safe.sh >> /home/server/MEGALIST/public_3_cron.log 2>&1
+10 5 * * * /home/server/TVBOX_EPG/update_tvbox_epg_safe.sh
+2 */2 * * * cd /home/server/MEGALIST_OLD && /usr/bin/python3 /home/server/MEGALIST_OLD/update_iptvfree_good_domains.py >> /home/server/MEGALIST_OLD/iptvfree_good_domains_cron.log 2>&1
+17 * * * * /home/server/MEGALIST/check_fresh_lime_sources.py >> /home/server/MEGALIST/fresh_lime_monitor_cron.log 2>&1
+25 */4 * * * /home/server/MEGALIST/check_tvbox_autoupdate_health.sh >> /home/server/MEGALIST/tvbox_autoupdate_health_cron.log 2>&1
