@@ -74,9 +74,11 @@ fi
 if [ "$FAIL" -eq 0 ]; then
   echo "GOOD HEALTH: TVbox autoupdate OK" >> "$LOG"
   echo "=== TVBOX AUTOUPDATE HEALTH END OK $(date '+%Y-%m-%d %H:%M:%S') ===" >> "$LOG"
+  echo "OK $(date '+%Y-%m-%d %H:%M:%S') streams=$COUNT romantica_epg=$EPG_COUNT"
   exit 0
 else
   echo "BAD HEALTH: TVbox autoupdate has problems" >> "$LOG"
   echo "=== TVBOX AUTOUPDATE HEALTH END FAIL $(date '+%Y-%m-%d %H:%M:%S') ===" >> "$LOG"
+  echo "FAIL $(date '+%Y-%m-%d %H:%M:%S') streams=$COUNT romantica_epg=$EPG_COUNT"
   exit 1
 fi
