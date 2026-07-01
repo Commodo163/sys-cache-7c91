@@ -143,6 +143,8 @@ http://95.47.155.244:8001/play/a003
 http://185.46.16.239:8000/Match_TV
 #EXTINF:-1 tvg-id="2051" tvg-name="Матч ТВ" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Федеральные",Матч ТВ
 http://tv.ttk.mx:9002
+#EXTINF:-1 tvg-id="2051" tvg-name="Матч ТВ" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Федеральные",Матч ТВ
+http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt9RZnaLj17zJKPUYfmBB6PU/ts
 #EXTINF:-1 tvg-id="162" tvg-name="НТВ" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Федеральные",НТВ
 https://cdn.ntv.ru/ntv0/playlist.m3u8
 #EXTINF:-1 tvg-id="162" tvg-name="НТВ" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Федеральные",НТВ
@@ -555,8 +557,6 @@ http://185.46.16.239:8000/TV3
 http://tv.ttk.mx:9014
 #EXTINF:-1 tvg-id="698" tvg-name="ТВ-3" tvg-logo="https://iptvx.one/picons/tv3-ru.png" group-title="Федеральные",ТВ-3
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt6nHFjsWLcu4xIX4aEYxpAk/ts
-#EXTINF:-1 tvg-id="698" tvg-name="ТВ-3" tvg-logo="https://iptvx.one/picons/tv3-ru.png" group-title="Федеральные",ТВ-3
-http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt9A8NK--LmMFdiEO0axxP_U/ts
 #EXTINF:-1 tvg-id="1003" tvg-name="Пятница!" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="Федеральные",Пятница!
 http://31.131.141.195:8000/play/2060/index.m3u8
 #EXTINF:-1 tvg-id="1003" tvg-name="Пятница!" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="Федеральные",Пятница!
@@ -656,8 +656,6 @@ http://185.46.16.239:8000/Mir
 #EXTINF:-1 tvg-id="726" tvg-name="Мир" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Федеральные",Мир
 http://tv.ttk.mx:9017
 #EXTINF:-1 tvg-id="726" tvg-name="Мир" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Федеральные",Мир
-http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt3ltC148sEhXTcuT5R3O2fg/ts
-#EXTINF:-1 tvg-id="726" tvg-name="Мир" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Федеральные",Мир
 https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=tKxCHVLOZ0qBct8z2Gu8Iw&e=2069285064&scheme=https
 #EXTINF:-1 tvg-id="726" tvg-name="Мир" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Федеральные",Мир
 https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=P9Bh1sBoAYVH9ypKez85OA&e=2082889301&scheme=https
@@ -699,8 +697,6 @@ http://185.46.16.239:8000/TNT
 http://tv.ttk.mx:9018
 #EXTINF:-1 tvg-id="353" tvg-name="ТНТ" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Федеральные",ТНТ
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt_1oVZXX3Drbv8DGiZZxrAs/ts
-#EXTINF:-1 tvg-id="353" tvg-name="ТНТ" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Федеральные",ТНТ
-http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt_zXxzeliihKXKklmjmWGCY/ts
 #EXTINF:-1 tvg-id="897" tvg-name="Муз-ТВ" tvg-logo="https://iptvx.one/picons/muztv.png" group-title="Федеральные",Муз-ТВ
 http://46.32.176.50/muztv/index.m3u8
 #EXTINF:-1 tvg-id="897" tvg-name="Муз-ТВ" tvg-logo="https://iptvx.one/picons/muztv.png" group-title="Федеральные",Муз-ТВ
@@ -901,8 +897,6 @@ http://45.145.32.13:20440/khl_prime/index.m3u8?token=test
 http://31.148.48.15/KHL_TV_HD/index.m3u8
 #EXTINF:-1 tvg-id="1038" tvg-name="КХЛ Prime" tvg-logo="https://iptvx.one/picons/kxl.png" group-title="Спорт",КХЛ Prime
 https://fs.uplink.kz/khl_prime/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="4569" tvg-name="Sky Sports Premier League" tvg-logo="https://iptvx.one/picons/sky-sports-apl.png" group-title="Спорт",Sky Sports Premier League
-http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt9uocfVTuc6fTXA6PzuNnNY/ts
 #EXTINF:-1 tvg-id="4569" tvg-name="Sky Sports Premier League" tvg-logo="https://iptvx.one/picons/sky-sports-apl.png" group-title="Спорт",Sky Sports Premier League
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=pAegGgg9Xsr7eJ7tc0R4Gg&e=2069285081&scheme=https
 #EXTINF:-1 tvg-id="4569" tvg-name="Sky Sports Premier League" tvg-logo="https://iptvx.one/picons/sky-sports-apl.png" group-title="Спорт",Sky Sports Premier League
@@ -1193,6 +1187,8 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8
 #EXTINF:-1 tvg-id="2266" tvg-name="Euronews" tvg-logo="https://iptvx.one/picons/euronews.png" group-title="Новости",Euronews
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
+#EXTINF:-1 tvg-id="2266" tvg-name="Euronews" tvg-logo="https://iptvx.one/picons/euronews.png" group-title="Новости",Euronews
+https://stream8.cinerama.uz/1024/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="Соловьев LIVE" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png" group-title="Новости",Соловьев LIVE
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="Соловьев LIVE" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png" group-title="Новости",Соловьев LIVE
