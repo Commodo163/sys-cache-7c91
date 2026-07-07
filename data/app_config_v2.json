@@ -1,20 +1,20 @@
 {
   "app": "TVbox",
   "schema_version": 1,
-  "generated_at": "2026-07-07 12:26:05 +04",
+  "generated_at": "2026-07-07 16:28:49 +04",
   "current_catalog": "stable",
   "min_app_version": "1.5.0",
   "latest_app_version": "1.5.1",
   "catalog": {
-    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_romantica.m3u?v=20260707_122605",
-    "catalog_json_url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/catalog.json?v=20260707_122605",
-    "streams": 765,
+    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_romantica.m3u?v=20260707_162849",
+    "catalog_json_url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/catalog.json?v=20260707_162849",
+    "streams": 766,
     "lime_streams": 0,
     "cache_seconds": 300
   },
   "public_playlist": {
     "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/index.dat",
-    "streams": 11555
+    "streams": 11001
   },
   "epg": {
     "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_epg_romantica.xml.gz",
