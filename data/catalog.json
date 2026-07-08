@@ -775,6 +775,17 @@
           "name": "Мульт"
         },
         {
+          "id": "multilandia",
+          "title": "Мультиландия",
+          "epgId": "",
+          "aliases": [
+            "Multilandiya",
+            "Мультиландия",
+            "Мультиландия HD"
+          ],
+          "name": "Мультиландия"
+        },
+        {
           "id": "nickelodeon",
           "title": "Nickelodeon",
           "epgId": "",
@@ -795,21 +806,6 @@
             "Союзмультфильм"
           ],
           "name": "Советские мультфильмы"
-        },
-        {
-          "id": "solnce",
-          "title": "Солнце",
-          "epgId": "solnce",
-          "aliases": [
-            "Солнце",
-            "СОЛНЦЕ",
-            "Солнце HD",
-            "СОЛНЦЕ HD",
-            "Solnce",
-            "Solntse"
-          ],
-          "name": "Солнце",
-          "logo": "https://iptvx.one/picons/solnce.png"
         }
       ],
       "name": "Детские"
@@ -835,6 +831,20 @@
             "moyaplaneta"
           ],
           "name": "Моя Планета"
+        },
+        {
+          "id": "discovery",
+          "title": "Discovery Channel",
+          "epgId": "",
+          "aliases": [
+            "Discovery Channel",
+            "Discovery Channel HD",
+            "Discovery HD",
+            "DISCOVERY CHANNEL HD",
+            "Discovery",
+            "DISCOVERY HD"
+          ],
+          "name": "Discovery Channel"
         }
       ],
       "name": "Развлечения"
