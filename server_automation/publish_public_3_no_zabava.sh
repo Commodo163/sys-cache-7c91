@@ -185,7 +185,7 @@ LIME_STREAMS=$(echo "$LIME_STREAMS" | head -n 1)
 LIME_STREAMS=${LIME_STREAMS:-0}
 GENERATED_AT=$(date '+%Y-%m-%d %H:%M:%S %Z')
 CATALOG_VERSION=$(date '+%Y%m%d_%H%M%S')
-TVBOX_M3U_URL="https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_romantica.m3u?v=$CATALOG_VERSION"
+TVBOX_M3U_URL="https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_auto_final_test.m3u?v=$CATALOG_VERSION"
 CATALOG_JSON_URL="https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/catalog.json?v=$CATALOG_VERSION"
 
 cat > "$DATA/app_config.json" <<EOF
