@@ -168,7 +168,8 @@ fi
 
 cp "$MEGA/tvbox_canonical.m3u" "$DATA/tvbox.m3u"
 cp "$MEGA/tvbox_canonical.m3u" "$DATA/tvbox_romantica.m3u"
-cp "$MEGA/tvbox_catalog.json" "$DATA/catalog.json"
+# DISABLED 2026-07-09: do not overwrite app catalog.json from old MEGA catalog
+# cp "$MEGA/tvbox_catalog.json" "$DATA/catalog.json"
 cp "$MEGA/tvbox_canonical_report.tsv" "$DATA/tvbox_canonical_report.tsv"
 cp "$MEGA/tvbox_canonical_summary.txt" "$DATA/tvbox_canonical_summary.txt"
 cp "$MEGA/tvbox_canonical_lime_priority_report.tsv" "$DATA/tvbox_canonical_lime_priority_report.tsv"
