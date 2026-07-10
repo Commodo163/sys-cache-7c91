@@ -194,8 +194,8 @@ cat > "$DATA/app_config.json" <<EOF
   "schema_version": 1,
   "generated_at": "$GENERATED_AT",
   "current_catalog": "stable",
-  "min_app_version": "1.5.0",
-  "latest_app_version": "1.5.1",
+  "min_app_version": "1.6.0",
+  "latest_app_version": "1.6.0",
   "catalog": {
     "url": "$TVBOX_M3U_URL",
     "catalog_json_url": "$CATALOG_JSON_URL",
@@ -218,8 +218,8 @@ cat > "$DATA/app_config.json" <<EOF
     "lime_summary": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_canonical_lime_priority_summary.txt"
   },
   "update": {
-    "url": "https://4pda.to/forum/index.php?showtopic=1122360",
-    "message": "Доступна новая версия TVbox."
+    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/apk/TVbox_1.6.0.apk?v=$CATALOG_VERSION",
+    "message": "Доступна новая версия TVbox 1.6.0. Обновите приложение для работы с новым плейлистом."
   }
 }
 EOF
