@@ -817,53 +817,6 @@
       "title": "Развлекательные",
       "channels": [
         {
-          "id": "travel_adventure",
-          "title": "Travel+Adventure",
-          "epgId": "",
-          "aliases": [
-            "Travel Adventure HD",
-            "Travel and Adventure",
-            "Travel+Adventure"
-          ],
-          "name": "Travel+Adventure"
-        },
-        {
-          "id": "viasat_explore",
-          "title": "Viasat Explore",
-          "epgId": "",
-          "aliases": [
-            "Viasat Explore",
-            "Viasat Explore HD",
-            "Viju Explore",
-            "Виасат Эксплор"
-          ],
-          "name": "Viasat Explore"
-        },
-        {
-          "id": "viasat_history",
-          "title": "Viasat History",
-          "epgId": "",
-          "aliases": [
-            "Viasat History",
-            "Viasat History HD",
-            "Viju History",
-            "Виасат Хистори"
-          ],
-          "name": "Viasat History"
-        },
-        {
-          "id": "viasat_nature",
-          "title": "Viasat Nature",
-          "epgId": "",
-          "aliases": [
-            "Viasat Nature",
-            "Viasat Nature HD",
-            "Viju Nature",
-            "Виасат Нэйчер"
-          ],
-          "name": "Viasat Nature"
-        },
-        {
           "id": "yu",
           "title": "Ю",
           "epgId": "yu",
@@ -947,7 +900,7 @@
       "name": "Детские"
     },
     {
-      "title": "Развлечения",
+      "title": "Познавательные",
       "channels": [
         {
           "id": "moya_planeta",
@@ -981,9 +934,56 @@
             "DISCOVERY HD"
           ],
           "name": "Discovery Channel"
+        },
+        {
+          "id": "travel_adventure",
+          "title": "Travel+Adventure",
+          "epgId": "",
+          "aliases": [
+            "Travel Adventure HD",
+            "Travel and Adventure",
+            "Travel+Adventure"
+          ],
+          "name": "Travel+Adventure"
+        },
+        {
+          "id": "viasat_explore",
+          "title": "Viasat Explore",
+          "epgId": "",
+          "aliases": [
+            "Viasat Explore",
+            "Viasat Explore HD",
+            "Viju Explore",
+            "Виасат Эксплор"
+          ],
+          "name": "Viasat Explore"
+        },
+        {
+          "id": "viasat_history",
+          "title": "Viasat History",
+          "epgId": "",
+          "aliases": [
+            "Viasat History",
+            "Viasat History HD",
+            "Viju History",
+            "Виасат Хистори"
+          ],
+          "name": "Viasat History"
+        },
+        {
+          "id": "viasat_nature",
+          "title": "Viasat Nature",
+          "epgId": "",
+          "aliases": [
+            "Viasat Nature",
+            "Viasat Nature HD",
+            "Viju Nature",
+            "Виасат Нэйчер"
+          ],
+          "name": "Viasat Nature"
         }
       ],
-      "name": "Развлечения"
+      "name": "Познавательные"
     },
     {
       "title": "Детям",
