@@ -1,20 +1,20 @@
 {
   "app": "TVbox",
   "schema_version": 1,
-  "generated_at": "2026-07-11 20:26:04 +04",
+  "generated_at": "2026-07-12 00:25:21 +04",
   "current_catalog": "stable",
   "min_app_version": "1.6.0",
   "latest_app_version": "1.6.0",
   "catalog": {
-    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_auto_final_test.m3u?v=20260712_001045",
-    "catalog_json_url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/catalog.json?v=20260712_001045",
-    "streams": 957,
+    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_auto_final_test.m3u?v=20260712_002521",
+    "catalog_json_url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/catalog.json?v=20260712_002521",
+    "streams": 989,
     "lime_streams": 0,
     "cache_seconds": 300
   },
   "public_playlist": {
     "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/index.dat",
-    "streams": 11748
+    "streams": 12028
   },
   "epg": {
     "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_epg_romantica.xml.gz",
@@ -27,7 +27,7 @@
     "lime_summary": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_canonical_lime_priority_summary.txt"
   },
   "update": {
-    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/apk/TVbox_1.6.0.apk?v=20260711_202604",
+    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/apk/TVbox_1.6.0.apk?v=20260712_002521",
     "message": "Доступна новая версия TVbox 1.6.0. Обновите приложение для работы с новым плейлистом."
   }
 }
