@@ -850,56 +850,6 @@
       "name": "Развлекательные"
     },
     {
-      "title": "Детские",
-      "channels": [
-        {
-          "id": "mult",
-          "title": "Мульт",
-          "epgId": "",
-          "aliases": [
-            "Mult",
-            "Мульт",
-            "Мульт HD"
-          ],
-          "name": "Мульт"
-        },
-        {
-          "id": "nickelodeon",
-          "title": "Nickelodeon",
-          "epgId": "",
-          "aliases": [
-            "Nickelodeon",
-            "Nickelodeon HD",
-            "Никелодеон"
-          ],
-          "name": "Nickelodeon"
-        },
-        {
-          "id": "soviet_cartoons",
-          "title": "Советские мультфильмы",
-          "epgId": "",
-          "aliases": [
-            "Soviet Cartoons",
-            "Советские мультфильмы",
-            "Союзмультфильм"
-          ],
-          "name": "Советские мультфильмы"
-        },
-        {
-          "id": "solnce",
-          "title": "Солнце",
-          "epgId": "solnce",
-          "aliases": [
-            "Солнце",
-            "Солнце HD"
-          ],
-          "name": "Солнце",
-          "logo": "https://iptvx.one/picons/solnce.png"
-        }
-      ],
-      "name": "Детские"
-    },
-    {
       "title": "Познавательные",
       "channels": [
         {
@@ -1031,6 +981,50 @@
             "2x2TV"
           ],
           "name": "2x2"
+        },
+        {
+          "id": "mult",
+          "title": "Мульт",
+          "epgId": "",
+          "aliases": [
+            "Mult",
+            "Мульт",
+            "Мульт HD"
+          ],
+          "name": "Мульт"
+        },
+        {
+          "id": "nickelodeon",
+          "title": "Nickelodeon",
+          "epgId": "",
+          "aliases": [
+            "Nickelodeon",
+            "Nickelodeon HD",
+            "Никелодеон"
+          ],
+          "name": "Nickelodeon"
+        },
+        {
+          "id": "soviet_cartoons",
+          "title": "Советские мультфильмы",
+          "epgId": "",
+          "aliases": [
+            "Soviet Cartoons",
+            "Советские мультфильмы",
+            "Союзмультфильм"
+          ],
+          "name": "Советские мультфильмы"
+        },
+        {
+          "id": "solnce",
+          "title": "Солнце",
+          "epgId": "solnce",
+          "aliases": [
+            "Солнце",
+            "Солнце HD"
+          ],
+          "name": "Солнце",
+          "logo": "https://iptvx.one/picons/solnce.png"
         }
       ],
       "name": "Детям"
