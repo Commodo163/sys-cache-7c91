@@ -338,14 +338,17 @@
         {
           "id": "khl_prime",
           "title": "КХЛ Prime",
-          "epgId": "",
+          "epgId": "kxl-hd",
           "aliases": [
-            "KHL HD",
+            "КХЛ Prime",
             "KHL Prime",
-            "КХЛ HD",
-            "КХЛ Prime"
+            "KHL Prime HD",
+            "KHL PRIME",
+            "KHL Prime FHD",
+            "KHL Prime (720p)"
           ],
-          "name": "КХЛ Prime"
+          "name": "КХЛ Prime",
+          "logo": "https://iptvx.one/picons/kxl-hd.png"
         },
         {
           "id": "skysportspl",
@@ -412,6 +415,26 @@
           ],
           "name": "NHL Network",
           "logo": "https://iptvx.one/picons/nhl-network-us.png"
+        },
+        {
+          "id": "khl",
+          "title": "КХЛ",
+          "epgId": "kxl",
+          "aliases": [
+            "КХЛ",
+            "KHL",
+            "КХЛ HD",
+            "KHL HD",
+            "КХЛ FHD",
+            "КХЛ ТВ",
+            "KHL TV",
+            "KHL TV FHD",
+            "KHL ТВ",
+            "Телеканал КХЛ HD",
+            "КХЛ ТВ orig"
+          ],
+          "name": "КХЛ",
+          "logo": "https://iptvx.one/picons/kxl.png"
         }
       ],
       "name": "Спорт"
