@@ -795,20 +795,6 @@
           "name": "Соловьев LIVE"
         },
         {
-          "id": "rtd",
-          "title": "RTД",
-          "epgId": "",
-          "aliases": [
-            "RT Doc",
-            "RT Documentary",
-            "RT Documentary Russian",
-            "RT Документальный",
-            "RTД",
-            "RTД HD"
-          ],
-          "name": "RTД"
-        },
-        {
           "id": "dw_russian",
           "title": "DW Russian",
           "epgId": "deutsche-welle-ru",
@@ -1094,6 +1080,20 @@
           ],
           "name": "Animal Planet",
           "logo": "https://iptvx.one/picons/animal-planet-eu.png"
+        },
+        {
+          "id": "rtd",
+          "title": "RTД",
+          "epgId": "",
+          "aliases": [
+            "RT Doc",
+            "RT Documentary",
+            "RT Documentary Russian",
+            "RT Документальный",
+            "RTД",
+            "RTД HD"
+          ],
+          "name": "RTД"
         }
       ],
       "name": "Познавательные"
