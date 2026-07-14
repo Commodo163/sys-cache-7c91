@@ -1,14 +1,14 @@
 {
   "app": "TVbox",
   "schema_version": 1,
-  "generated_at": "2026-07-14 12:28:05 +04",
+  "generated_at": "2026-07-14 16:25:28 +04",
   "current_catalog": "stable",
   "min_app_version": "1.6.0",
   "latest_app_version": "1.6.0",
   "catalog": {
-    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_auto_final_test.m3u?v=20260714_160620",
-    "catalog_json_url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/catalog.json?v=20260714_160620",
-    "streams": 962,
+    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_auto_final_test.m3u?v=20260714_162528",
+    "catalog_json_url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/catalog.json?v=20260714_162528",
+    "streams": 960,
     "lime_streams": 0,
     "cache_seconds": 300
   },
@@ -27,7 +27,7 @@
     "lime_summary": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_canonical_lime_priority_summary.txt"
   },
   "update": {
-    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/apk/TVbox_1.6.0.apk?v=20260714_122805",
+    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/apk/TVbox_1.6.0.apk?v=20260714_162528",
     "message": "Доступна новая версия TVbox 1.6.0. Обновите приложение для работы с новым плейлистом."
   }
 }
