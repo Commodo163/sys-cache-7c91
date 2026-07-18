@@ -278,33 +278,6 @@
           "name": "Матч! Футбол 3"
         },
         {
-          "id": "setanta_sports_1",
-          "title": "Setanta Sports 1",
-          "epgId": "",
-          "aliases": [
-            "Setanta Sport 1",
-            "Setanta Sports 1",
-            "Setanta Sports 1 Georgia",
-            "Setanta Georgia",
-            "setanta_georgia"
-          ],
-          "name": "Setanta Sports 1"
-        },
-        {
-          "id": "setanta_sports_2",
-          "title": "Setanta Sports 2",
-          "epgId": "",
-          "aliases": [
-            "Setanta Sport 2",
-            "Setanta Sports 2",
-            "Setanta Sports 2 Georgia",
-            "Setanta Sports Plus Georgia",
-            "Setanta Sports + Georgia",
-            "setanta_sports_plus_georgia"
-          ],
-          "name": "Setanta Sports 2"
-        },
-        {
           "id": "match_arena",
           "title": "Матч! Арена",
           "epgId": "",
@@ -334,6 +307,53 @@
             "Матч! Игра"
           ],
           "name": "Матч! Игра"
+        },
+        {
+          "id": "setanta_sports_1",
+          "title": "Setanta Sports 1",
+          "epgId": "",
+          "aliases": [
+            "Setanta Sport 1",
+            "Setanta Sports 1",
+            "Setanta Sports 1 Georgia",
+            "Setanta Georgia",
+            "setanta_georgia"
+          ],
+          "name": "Setanta Sports 1"
+        },
+        {
+          "id": "setanta_sports_2",
+          "title": "Setanta Sports 2",
+          "epgId": "",
+          "aliases": [
+            "Setanta Sport 2",
+            "Setanta Sports 2",
+            "Setanta Sports 2 Georgia",
+            "Setanta Sports Plus Georgia",
+            "Setanta Sports + Georgia",
+            "setanta_sports_plus_georgia"
+          ],
+          "name": "Setanta Sports 2"
+        },
+        {
+          "id": "khl",
+          "title": "КХЛ",
+          "epgId": "kxl",
+          "aliases": [
+            "КХЛ",
+            "KHL",
+            "КХЛ HD",
+            "KHL HD",
+            "КХЛ FHD",
+            "КХЛ ТВ",
+            "KHL TV",
+            "KHL TV FHD",
+            "KHL ТВ",
+            "Телеканал КХЛ HD",
+            "КХЛ ТВ orig"
+          ],
+          "name": "КХЛ",
+          "logo": "https://iptvx.one/picons/kxl.png"
         },
         {
           "id": "khl_prime",
@@ -415,26 +435,6 @@
           ],
           "name": "NHL Network",
           "logo": "https://iptvx.one/picons/nhl-network-us.png"
-        },
-        {
-          "id": "khl",
-          "title": "КХЛ",
-          "epgId": "kxl",
-          "aliases": [
-            "КХЛ",
-            "KHL",
-            "КХЛ HD",
-            "KHL HD",
-            "КХЛ FHD",
-            "КХЛ ТВ",
-            "KHL TV",
-            "KHL TV FHD",
-            "KHL ТВ",
-            "Телеканал КХЛ HD",
-            "КХЛ ТВ orig"
-          ],
-          "name": "КХЛ",
-          "logo": "https://iptvx.one/picons/kxl.png"
         }
       ],
       "name": "Спорт"
@@ -572,27 +572,6 @@
           "name": "Кинопоказ"
         },
         {
-          "id": "dom_kino",
-          "title": "Дом кино",
-          "epgId": "",
-          "aliases": [
-            "Дом кино",
-            "Dom kino",
-            "DomKino"
-          ],
-          "name": "Дом кино"
-        },
-        {
-          "id": "mosfilm",
-          "title": "Мосфильм. Золотая коллекция",
-          "epgId": "",
-          "aliases": [
-            "Мосфильм",
-            "Мосфильм. Золотая коллекция"
-          ],
-          "name": "Мосфильм. Золотая коллекция"
-        },
-        {
           "id": "kinokomediya",
           "title": "Кинокомедия",
           "epgId": "",
@@ -627,6 +606,42 @@
             "Kinoseria HD"
           ],
           "name": "Киносерия"
+        },
+        {
+          "id": "kino_tv",
+          "title": "Кино ТВ",
+          "epgId": "kino-tv",
+          "aliases": [
+            "Кино ТВ",
+            "КиноТВ",
+            "Кино ТВ HD",
+            "КиноТВ HD",
+            "Kino TV",
+            "Kino TV HD"
+          ],
+          "name": "Кино ТВ",
+          "logo": "https://iptvx.one/picons/kino-tv.png"
+        },
+        {
+          "id": "dom_kino",
+          "title": "Дом кино",
+          "epgId": "",
+          "aliases": [
+            "Дом кино",
+            "Dom kino",
+            "DomKino"
+          ],
+          "name": "Дом кино"
+        },
+        {
+          "id": "mosfilm",
+          "title": "Мосфильм. Золотая коллекция",
+          "epgId": "",
+          "aliases": [
+            "Мосфильм",
+            "Мосфильм. Золотая коллекция"
+          ],
+          "name": "Мосфильм. Золотая коллекция"
         },
         {
           "id": "lubimoe_kino",
@@ -694,21 +709,6 @@
           "logo": "https://iptvx.one/picons/russky-detektiv.png"
         },
         {
-          "id": "kino_tv",
-          "title": "Кино ТВ",
-          "epgId": "kino-tv",
-          "aliases": [
-            "Кино ТВ",
-            "КиноТВ",
-            "Кино ТВ HD",
-            "КиноТВ HD",
-            "Kino TV",
-            "Kino TV HD"
-          ],
-          "name": "Кино ТВ",
-          "logo": "https://iptvx.one/picons/kino-tv.png"
-        },
-        {
           "id": "fx",
           "title": "FX",
           "epgId": "fox",
@@ -758,18 +758,6 @@
           "name": "Известия"
         },
         {
-          "id": "euronews",
-          "title": "Euronews",
-          "epgId": "",
-          "aliases": [
-            "Euronews",
-            "Euronews Rus",
-            "Euronews Russian",
-            "Евроньюс"
-          ],
-          "name": "Euronews"
-        },
-        {
           "id": "soloviev_live",
           "title": "Соловьев LIVE",
           "epgId": "",
@@ -781,6 +769,18 @@
             "Соловьев Лайф"
           ],
           "name": "Соловьев LIVE"
+        },
+        {
+          "id": "euronews",
+          "title": "Euronews",
+          "epgId": "",
+          "aliases": [
+            "Euronews",
+            "Euronews Rus",
+            "Euronews Russian",
+            "Евроньюс"
+          ],
+          "name": "Euronews"
         },
         {
           "id": "dw_russian",
@@ -895,6 +895,31 @@
           "logo": "https://iptvx.one/picons/bridge-tv-rock.png"
         },
         {
+          "id": "bridge-tv-ruxit",
+          "title": "Bridge TV Русский Хит",
+          "epgId": "bridge-tv-ruxit",
+          "aliases": [
+            "Bridge TV Русский Хит",
+            "Bridge Русский Хит",
+            "Bridge TV Russkiy Hit"
+          ],
+          "name": "Bridge TV Русский Хит",
+          "logo": "https://iptvx.one/picons/bridge-tv-ruxit.png"
+        },
+        {
+          "id": "bridge-tv-dance",
+          "title": "Bridge TV Hits",
+          "epgId": "bridge-tv-dance",
+          "aliases": [
+            "Bridge TV Hits",
+            "Bridge Hits",
+            "Bridge Hits HD",
+            "Bridge TV Dance"
+          ],
+          "name": "Bridge TV Hits",
+          "logo": "https://iptvx.one/picons/bridge-tv-dance.png"
+        },
+        {
           "id": "ru-tv",
           "title": "RU.TV",
           "epgId": "ru-tv",
@@ -921,31 +946,6 @@
           ],
           "name": "Шансон ТВ",
           "logo": "https://iptvx.one/picons/shanson-tv.png"
-        },
-        {
-          "id": "bridge-tv-ruxit",
-          "title": "Bridge TV Русский Хит",
-          "epgId": "bridge-tv-ruxit",
-          "aliases": [
-            "Bridge TV Русский Хит",
-            "Bridge Русский Хит",
-            "Bridge TV Russkiy Hit"
-          ],
-          "name": "Bridge TV Русский Хит",
-          "logo": "https://iptvx.one/picons/bridge-tv-ruxit.png"
-        },
-        {
-          "id": "bridge-tv-dance",
-          "title": "Bridge TV Hits",
-          "epgId": "bridge-tv-dance",
-          "aliases": [
-            "Bridge TV Hits",
-            "Bridge Hits",
-            "Bridge Hits HD",
-            "Bridge TV Dance"
-          ],
-          "name": "Bridge TV Hits",
-          "logo": "https://iptvx.one/picons/bridge-tv-dance.png"
         }
       ],
       "name": "Музыка"
@@ -1061,6 +1061,35 @@
           "name": "Моя Планета"
         },
         {
+          "id": "nauka",
+          "title": "Наука",
+          "epgId": "nauka-20",
+          "aliases": [
+            "Наука",
+            "Наука HD",
+            "Наука HD orig",
+            "Наука 2.0",
+            "Наука 2.0 HD",
+            "NAUKA 2.0"
+          ],
+          "name": "Наука",
+          "logo": "https://iptvx.one/picons/nauka.png"
+        },
+        {
+          "id": "rtd",
+          "title": "RTД",
+          "epgId": "",
+          "aliases": [
+            "RT Doc",
+            "RT Documentary",
+            "RT Documentary Russian",
+            "RT Документальный",
+            "RTД",
+            "RTД HD"
+          ],
+          "name": "RTД"
+        },
+        {
           "id": "discovery",
           "title": "Discovery Channel",
           "epgId": "",
@@ -1075,15 +1104,32 @@
           "name": "Discovery Channel"
         },
         {
-          "id": "travel_adventure",
-          "title": "Travel+Adventure",
-          "epgId": "",
+          "id": "national_geographic",
+          "title": "National Geographic",
+          "epgId": "national-geographic",
           "aliases": [
-            "Travel Adventure HD",
-            "Travel and Adventure",
-            "Travel+Adventure"
+            "National Geographic",
+            "National Geographic HD",
+            "National Geographic FHD",
+            "Nat Geo",
+            "Nat Geo HD"
           ],
-          "name": "Travel+Adventure"
+          "name": "National Geographic",
+          "logo": "https://iptvx.one/picons/national-geographic.png"
+        },
+        {
+          "id": "animal_planet",
+          "title": "Animal Planet",
+          "epgId": "animal-planet-eu",
+          "aliases": [
+            "Animal Planet",
+            "Animal Planet HD",
+            "Animal Planet FHD",
+            "AnimalPlanet",
+            "AnimalPlanetHD"
+          ],
+          "name": "Animal Planet",
+          "logo": "https://iptvx.one/picons/animal-planet-eu.png"
         },
         {
           "id": "viasat_explore",
@@ -1122,61 +1168,15 @@
           "name": "Viasat Nature"
         },
         {
-          "id": "national_geographic",
-          "title": "National Geographic",
-          "epgId": "national-geographic",
-          "aliases": [
-            "National Geographic",
-            "National Geographic HD",
-            "National Geographic FHD",
-            "Nat Geo",
-            "Nat Geo HD"
-          ],
-          "name": "National Geographic",
-          "logo": "https://iptvx.one/picons/national-geographic.png"
-        },
-        {
-          "id": "animal_planet",
-          "title": "Animal Planet",
-          "epgId": "animal-planet-eu",
-          "aliases": [
-            "Animal Planet",
-            "Animal Planet HD",
-            "Animal Planet FHD",
-            "AnimalPlanet",
-            "AnimalPlanetHD"
-          ],
-          "name": "Animal Planet",
-          "logo": "https://iptvx.one/picons/animal-planet-eu.png"
-        },
-        {
-          "id": "rtd",
-          "title": "RTД",
+          "id": "travel_adventure",
+          "title": "Travel+Adventure",
           "epgId": "",
           "aliases": [
-            "RT Doc",
-            "RT Documentary",
-            "RT Documentary Russian",
-            "RT Документальный",
-            "RTД",
-            "RTД HD"
+            "Travel Adventure HD",
+            "Travel and Adventure",
+            "Travel+Adventure"
           ],
-          "name": "RTД"
-        },
-        {
-          "id": "nauka",
-          "title": "Наука",
-          "epgId": "nauka-20",
-          "aliases": [
-            "Наука",
-            "Наука HD",
-            "Наука HD orig",
-            "Наука 2.0",
-            "Наука 2.0 HD",
-            "NAUKA 2.0"
-          ],
-          "name": "Наука",
-          "logo": "https://iptvx.one/picons/nauka.png"
+          "name": "Travel+Adventure"
         },
         {
           "id": "avto-plus",
@@ -1213,20 +1213,15 @@
       "title": "Детям",
       "channels": [
         {
-          "id": "two_x_two",
-          "title": "2x2",
-          "epgId": "",
+          "id": "solnce",
+          "title": "Солнце",
+          "epgId": "solnce",
           "aliases": [
-            "2x2",
-            "2х2",
-            "2x2 HD",
-            "2х2 HD",
-            "2 X 2",
-            "2 Х 2",
-            "2x2 TV",
-            "2x2TV"
+            "Солнце",
+            "Солнце HD"
           ],
-          "name": "2x2"
+          "name": "Солнце",
+          "logo": "https://iptvx.one/picons/solnce.png"
         },
         {
           "id": "mult",
@@ -1238,39 +1233,6 @@
             "Мульт HD"
           ],
           "name": "Мульт"
-        },
-        {
-          "id": "nickelodeon",
-          "title": "Nickelodeon",
-          "epgId": "",
-          "aliases": [
-            "Nickelodeon",
-            "Nickelodeon HD",
-            "Никелодеон"
-          ],
-          "name": "Nickelodeon"
-        },
-        {
-          "id": "soviet_cartoons",
-          "title": "Советские мультфильмы",
-          "epgId": "",
-          "aliases": [
-            "Soviet Cartoons",
-            "Советские мультфильмы",
-            "Союзмультфильм"
-          ],
-          "name": "Советские мультфильмы"
-        },
-        {
-          "id": "solnce",
-          "title": "Солнце",
-          "epgId": "solnce",
-          "aliases": [
-            "Солнце",
-            "Солнце HD"
-          ],
-          "name": "Солнце",
-          "logo": "https://iptvx.one/picons/solnce.png"
         },
         {
           "id": "multimuzyka",
@@ -1288,6 +1250,44 @@
           ],
           "name": "Мультимузыка",
           "logo": "https://iptvx.one/picons/multimuzyka.png"
+        },
+        {
+          "id": "soviet_cartoons",
+          "title": "Советские мультфильмы",
+          "epgId": "",
+          "aliases": [
+            "Soviet Cartoons",
+            "Советские мультфильмы",
+            "Союзмультфильм"
+          ],
+          "name": "Советские мультфильмы"
+        },
+        {
+          "id": "nickelodeon",
+          "title": "Nickelodeon",
+          "epgId": "",
+          "aliases": [
+            "Nickelodeon",
+            "Nickelodeon HD",
+            "Никелодеон"
+          ],
+          "name": "Nickelodeon"
+        },
+        {
+          "id": "two_x_two",
+          "title": "2x2",
+          "epgId": "",
+          "aliases": [
+            "2x2",
+            "2х2",
+            "2x2 HD",
+            "2х2 HD",
+            "2 X 2",
+            "2 Х 2",
+            "2x2 TV",
+            "2x2TV"
+          ],
+          "name": "2x2"
         }
       ],
       "name": "Детям"
