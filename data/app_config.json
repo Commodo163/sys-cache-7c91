@@ -1,13 +1,13 @@
 {
   "app": "TVbox",
   "schema_version": 1,
-  "generated_at": "2026-07-20 15:15:54 +04",
+  "generated_at": "2026-07-20 16:27:01 +04",
   "current_catalog": "stable",
-  "min_app_version": "1.6.1",
-  "latest_app_version": "1.6.1",
+  "min_app_version": "1.6.0",
+  "latest_app_version": "1.6.0",
   "catalog": {
-    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_auto_final_test.m3u?v=20260720_122805",
-    "catalog_json_url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/catalog.json?v=20260720_122805",
+    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_auto_final_test.m3u?v=20260720_162701",
+    "catalog_json_url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/catalog.json?v=20260720_162701",
     "streams": 949,
     "lime_streams": 0,
     "cache_seconds": 300
@@ -27,7 +27,7 @@
     "lime_summary": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_canonical_lime_priority_summary.txt"
   },
   "update": {
-    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/apk/TVbox_1.6.1.apk?v=20260720_151554",
-    "message": "Доступна новая версия TVbox 1.6.1. Исправлена проблема со звуком MP2 на некоторых устройствах."
+    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/apk/TVbox_1.6.0.apk?v=20260720_162701",
+    "message": "Доступна новая версия TVbox 1.6.0. Обновите приложение для работы с новым плейлистом."
   }
 }
