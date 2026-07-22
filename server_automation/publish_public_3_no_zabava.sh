@@ -194,7 +194,7 @@ cat > "$DATA/app_config.json" <<EOF
   "schema_version": 1,
   "generated_at": "$GENERATED_AT",
   "current_catalog": "stable",
-  "min_app_version": "1.6.0",
+  "min_app_version": "1.7.0",
   "latest_app_version": "1.7.0",
   "catalog": {
     "url": "$TVBOX_M3U_URL",
