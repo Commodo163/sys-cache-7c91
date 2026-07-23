@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-23T11:55:32+00:00",
+  "catalog": "cinema_catalog.json",
+  "sections": [
+    {
+      "id": "featured",
+      "title": "Смотрите сейчас",
+      "type": "hero",
+      "itemIds": [
+        "night_of_the_living_dead_1968"
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Фильмы",
+      "type": "poster_row",
+      "itemIds": [
+        "night_of_the_living_dead_1968"
+      ]
+    }
+  ]
+}
