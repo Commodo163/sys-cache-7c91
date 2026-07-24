@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-23T11:55:32+00:00",
+  "generatedAt": "2026-07-24T17:02:11+00:00",
   "catalog": "cinema_catalog.json",
   "sections": [
     {
@@ -8,15 +8,43 @@
       "title": "Смотрите сейчас",
       "type": "hero",
       "itemIds": [
-        "night_of_the_living_dead_1968"
+        "tmdb_movie_1368337",
+        "tmdb_movie_1275779",
+        "tmdb_movie_1108427",
+        "tmdb_movie_1083381",
+        "tmdb_movie_1339713"
       ]
     },
     {
-      "id": "movies",
-      "title": "Фильмы",
+      "id": "new_movies",
+      "title": "Новинки кино",
       "type": "poster_row",
       "itemIds": [
-        "night_of_the_living_dead_1968"
+        "tmdb_movie_1368337",
+        "tmdb_movie_1275779",
+        "tmdb_movie_1108427",
+        "tmdb_movie_1083381",
+        "tmdb_movie_1339713",
+        "tmdb_movie_1081003",
+        "tmdb_movie_1315772",
+        "tmdb_movie_1084244",
+        "tmdb_movie_1273221",
+        "tmdb_movie_454639",
+        "tmdb_movie_1228710",
+        "tmdb_movie_687163",
+        "tmdb_movie_1318621",
+        "tmdb_movie_1314481",
+        "tmdb_movie_1368314",
+        "tmdb_movie_1523145",
+        "tmdb_movie_1361774",
+        "tmdb_movie_1284465",
+        "tmdb_movie_1280738",
+        "tmdb_movie_931285",
+        "tmdb_movie_1375646",
+        "tmdb_movie_1127384",
+        "tmdb_movie_1110034",
+        "tmdb_movie_1413976",
+        "tmdb_movie_1321008"
       ]
     }
   ]
