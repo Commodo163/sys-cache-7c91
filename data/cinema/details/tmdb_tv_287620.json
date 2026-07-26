@@ -1,1 +1,104 @@
-{"schemaVersion":1,"generatedAt":"2026-07-26T20:50:49+00:00","item":{"id":"tmdb_tv_287620","title":"Стюарт Блум не смог спасти вселенную","type":"series","year":2026,"description":"","poster":"https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/posters/tmdb_tv_287620.jpg","backdrop":"https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/backdrops/tmdb_tv_287620.jpg","sources":[{"name":"BaibaKo","provider":"hdvb","url":"https://vid1785081506.sevstar933krop.com/serial/678b799cea68106c7b794c0494e4b142e93586cdfa6deda5fe5b22ef776dd0d1/iframe","format":"hls","voiceId":"voice-baibako","voiceName":"BaibaKo","sourceId":"hdvb:series:2:1:1","activationUrl":"https://vid1785081506.sevstar933krop.com/serial/678b799cea68106c7b794c0494e4b142e93586cdfa6deda5fe5b22ef776dd0d1/iframe","resolverType":"hdvb","resolverData":{"kind":"series","iframe":"https://vid1785081506.sevstar933krop.com/serial/678b799cea68106c7b794c0494e4b142e93586cdfa6deda5fe5b22ef776dd0d1/iframe","voice":"BaibaKo","season":1,"episode":1},"quality":"1080","language":"ru","headers":{"Origin":"https://vid1785081506.sevstar933krop.com","Referer":"https://vid1785081506.sevstar933krop.com/"},"drm":false}],"tmdbId":287620,"voices":[{"id":"voice-baibako","title":"BaibaKo"},{"id":"voice-coldfilm","title":"ColdFilm"},{"id":"voice-rudub","title":"RuDub"},{"id":"voice-ultradox","title":"Ultradox"}],"seasons":[{"id":"1","number":1,"title":"Сезон 1"}],"originalTitle":"Stuart Fails to Save the Universe","rating":8.8,"voteCount":19,"genres":["комедия","НФ и Фэнтези"],"countries":["United States of America"],"imdbId":"tt27497393","kinopoiskId":5310825,"cast":[{"name":"Кевин Сассмэн","character":"Stuart Bloom / Alternate Stuart Bloom","photo":"https://image.tmdb.org/t/p/original/tLqrE9uz6GKoeoDC7LU7cE6oF2Q.jpg"},{"name":"Лорен Лапкус","character":"Denise","photo":"https://image.tmdb.org/t/p/original/zevTufkY38eRvWPslh5c1azdhQN.jpg"},{"name":"Брайан Посен","character":"Bert Kibbler","photo":"https://image.tmdb.org/t/p/original/kg93LNpDQaRoosR4gVt7SsA3oL1.jpg"},{"name":"John Ross Bowie","character":"Barry Kripke / Supreme Ruler Barry Kripke","photo":"https://image.tmdb.org/t/p/original/XAv1RilHZu7qiGGIOgikrLgHeD.jpg"}],"detailsUrl":"https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/details/tmdb_tv_287620.json","episodesCount":4,"seasonNumbers":[1],"episodesUrlTemplate":"https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/episodes/tmdb_tv_287620/season_{season}.json"}}
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-26T20:50:49+00:00",
+  "item": {
+    "id": "tmdb_tv_287620",
+    "title": "Стюарт Блум не смог спасти вселенную",
+    "type": "series",
+    "year": 2026,
+    "description": "",
+    "poster": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/posters/tmdb_tv_287620.jpg",
+    "backdrop": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/backdrops/tmdb_tv_287620.jpg",
+    "sources": [
+      {
+        "name": "BaibaKo",
+        "provider": "hdvb",
+        "format": "hls",
+        "voiceId": "voice-baibako",
+        "voiceName": "BaibaKo",
+        "sourceId": "hdvb:series:2:1:1",
+        "resolverType": "hdvb",
+        "resolverData": {
+          "kind": "series",
+          "iframe": "https://vid1785081506.sevstar933krop.com/serial/678b799cea68106c7b794c0494e4b142e93586cdfa6deda5fe5b22ef776dd0d1/iframe",
+          "voice": "BaibaKo",
+          "season": 1,
+          "episode": 1
+        },
+        "quality": "1080",
+        "language": "ru",
+        "headers": {
+          "Origin": "https://vid1785081506.sevstar933krop.com",
+          "Referer": "https://vid1785081506.sevstar933krop.com/"
+        },
+        "drm": false
+      }
+    ],
+    "tmdbId": 287620,
+    "voices": [
+      {
+        "id": "voice-baibako",
+        "title": "BaibaKo"
+      },
+      {
+        "id": "voice-coldfilm",
+        "title": "ColdFilm"
+      },
+      {
+        "id": "voice-rudub",
+        "title": "RuDub"
+      },
+      {
+        "id": "voice-ultradox",
+        "title": "Ultradox"
+      }
+    ],
+    "seasons": [
+      {
+        "id": "1",
+        "number": 1,
+        "title": "Сезон 1"
+      }
+    ],
+    "originalTitle": "Stuart Fails to Save the Universe",
+    "rating": 8.8,
+    "voteCount": 19,
+    "genres": [
+      "комедия",
+      "НФ и Фэнтези"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "imdbId": "tt27497393",
+    "kinopoiskId": 5310825,
+    "cast": [
+      {
+        "name": "Кевин Сассмэн",
+        "character": "Stuart Bloom / Alternate Stuart Bloom",
+        "photo": "https://image.tmdb.org/t/p/original/tLqrE9uz6GKoeoDC7LU7cE6oF2Q.jpg"
+      },
+      {
+        "name": "Лорен Лапкус",
+        "character": "Denise",
+        "photo": "https://image.tmdb.org/t/p/original/zevTufkY38eRvWPslh5c1azdhQN.jpg"
+      },
+      {
+        "name": "Брайан Посен",
+        "character": "Bert Kibbler",
+        "photo": "https://image.tmdb.org/t/p/original/kg93LNpDQaRoosR4gVt7SsA3oL1.jpg"
+      },
+      {
+        "name": "John Ross Bowie",
+        "character": "Barry Kripke / Supreme Ruler Barry Kripke",
+        "photo": "https://image.tmdb.org/t/p/original/XAv1RilHZu7qiGGIOgikrLgHeD.jpg"
+      }
+    ],
+    "detailsUrl": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/details/tmdb_tv_287620.json",
+    "episodesCount": 4,
+    "seasonNumbers": [
+      1
+    ],
+    "episodesUrlTemplate": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/episodes/tmdb_tv_287620/season_{season}.json"
+  }
+}

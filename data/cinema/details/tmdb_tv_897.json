@@ -1,1 +1,134 @@
-{"schemaVersion":1,"generatedAt":"2026-07-26T20:50:49+00:00","item":{"id":"tmdb_tv_897","title":"Ужасные Приключения Билли и Мэнди","type":"cartoon_series","year":2001,"description":"Это шоу показывает, как Мрачная и Злая Смерть устраивает Мрачные Приключения для Билли и Мэнди! Мы встречаем идиота по имени Билли и девочку по имени Мэнди, которые однажды сделали ставку в игре со Смертью на душу умирающего хомяка и выиграли! Теперь Смерть навечно их слуга.","poster":"https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/posters/tmdb_tv_897.jpg","backdrop":"https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/backdrops/tmdb_tv_897.jpg","sources":[{"name":"Пифагор · zetflix · 480p","provider":"zetflix","url":"https://cdn-54243ba5.obrut.show/stream/AO/MHc0RHa/QbvNmLuR2YyVGc1RmclBXdz5ie/4U3Mt5CdzVmZp5WYtpzcshmO0AXbuADO08iMyYjM3AjNyAjM6EmNkZGZjZ2YwEjZ0MmZmRmZhZDZxIjM1UTMkNTM1IWYvcTN5UjYkZGNwYDM5QjMiNWYmFzY0AzYhFGNwADMlhzY1MWYhlDN2AzLzVWayV2c2R3L","format":"hls","voiceId":"voice-пифагор","voiceName":"Пифагор","sourceId":"zetflix:series:1:2:1:480p:2","activationUrl":"https://54243ba5.obrut.show/embed/AO/kinopoisk/zYDN5AzM/","quality":"480p","language":"ru","headers":{"Referer":"https://go.zet-flix.online/","Origin":"https://go.zet-flix.online"},"drm":false},{"name":"Пифагор · zetflix · 360p","provider":"zetflix","url":"https://cdn-54243ba5.obrut.show/stream/AO/MHc0RHa/QbvNmLuR2YyVGc1RmclBXdz5ie/4U3Mt5CdzVmZp5WYtpzcshmO0AXbuAjNz8iMyYjM3AjNyAjM6EmNkZGZjZ2YwEjZ0MmZmRmZhZDZxIjM1UTMkNTM1IWYvcTN5UjYkZGNwYDM5QjMiNWYmFzY0AzYhFGNwADMlhzY1MWYhlDN2AzLzVWayV2c2R3L","format":"hls","voiceId":"voice-пифагор","voiceName":"Пифагор","sourceId":"zetflix:series:1:2:1:360p:1","activationUrl":"https://54243ba5.obrut.show/embed/AO/kinopoisk/zYDN5AzM/","quality":"360p","language":"ru","headers":{"Referer":"https://go.zet-flix.online/","Origin":"https://go.zet-flix.online"},"drm":false}],"tmdbId":897,"voices":[{"id":"voice-пифагор","title":"Пифагор"}],"seasons":[{"id":"2","number":2,"title":"Сезон 2"},{"id":"3","number":3,"title":"Сезон 3"},{"id":"4","number":4,"title":"Сезон 4"},{"id":"6","number":6,"title":"Сезон 6"}],"originalTitle":"The Grim Adventures of Billy and Mandy","rating":8.054,"voteCount":1023,"genres":["мультфильм","комедия","Детский"],"countries":["United States of America"],"imdbId":"tt0292800","kinopoiskId":309463,"cast":[{"name":"Greg Eagles","character":"Grim (voice)","photo":"https://image.tmdb.org/t/p/original/gHFu8h2l0OPyfozNMjoLhanLzi1.jpg"},{"name":"Ричард Хорвиц","character":"Billy (voice)","photo":"https://image.tmdb.org/t/p/original/pyL1MykCkuKTAp23PmmD6T8HVbn.jpg"},{"name":"Грей Делайл","character":"Mandy (voice)","photo":"https://image.tmdb.org/t/p/original/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"},{"name":"Ванесса Маршалл","character":"Irwin (voice)","photo":"https://image.tmdb.org/t/p/original/yZsWfaiOxaN5MZkWIKPbxz1KKS1.jpg"}],"detailsUrl":"https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/details/tmdb_tv_897.json","episodesCount":55,"seasonNumbers":[2,3,4,6],"episodesUrlTemplate":"https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/episodes/tmdb_tv_897/season_{season}.json"}}
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-26T20:50:49+00:00",
+  "item": {
+    "id": "tmdb_tv_897",
+    "title": "Ужасные Приключения Билли и Мэнди",
+    "type": "cartoon_series",
+    "year": 2001,
+    "description": "Это шоу показывает, как Мрачная и Злая Смерть устраивает Мрачные Приключения для Билли и Мэнди! Мы встречаем идиота по имени Билли и девочку по имени Мэнди, которые однажды сделали ставку в игре со Смертью на душу умирающего хомяка и выиграли! Теперь Смерть навечно их слуга.",
+    "poster": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/posters/tmdb_tv_897.jpg",
+    "backdrop": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/backdrops/tmdb_tv_897.jpg",
+    "sources": [
+      {
+        "name": "Пифагор · zetflix · 480p",
+        "provider": "zetflix",
+        "format": "hls",
+        "voiceId": "voice-пифагор",
+        "voiceName": "Пифагор",
+        "sourceId": "zetflix:series:1:2:1:480p:2",
+        "quality": "480p",
+        "language": "ru",
+        "headers": {
+          "Referer": "https://go.zet-flix.online/",
+          "Origin": "https://go.zet-flix.online"
+        },
+        "drm": false,
+        "resolverType": "zetflix",
+        "resolverData": {
+          "kind": "series",
+          "iframe": "https://54243ba5.obrut.show/embed/AO/kinopoisk/zYDN5AzM/",
+          "voice": "Пифагор",
+          "season": 2,
+          "episode": 1
+        }
+      },
+      {
+        "name": "Пифагор · zetflix · 360p",
+        "provider": "zetflix",
+        "format": "hls",
+        "voiceId": "voice-пифагор",
+        "voiceName": "Пифагор",
+        "sourceId": "zetflix:series:1:2:1:360p:1",
+        "quality": "360p",
+        "language": "ru",
+        "headers": {
+          "Referer": "https://go.zet-flix.online/",
+          "Origin": "https://go.zet-flix.online"
+        },
+        "drm": false,
+        "resolverType": "zetflix",
+        "resolverData": {
+          "kind": "series",
+          "iframe": "https://54243ba5.obrut.show/embed/AO/kinopoisk/zYDN5AzM/",
+          "voice": "Пифагор",
+          "season": 2,
+          "episode": 1
+        }
+      }
+    ],
+    "tmdbId": 897,
+    "voices": [
+      {
+        "id": "voice-пифагор",
+        "title": "Пифагор"
+      }
+    ],
+    "seasons": [
+      {
+        "id": "2",
+        "number": 2,
+        "title": "Сезон 2"
+      },
+      {
+        "id": "3",
+        "number": 3,
+        "title": "Сезон 3"
+      },
+      {
+        "id": "4",
+        "number": 4,
+        "title": "Сезон 4"
+      },
+      {
+        "id": "6",
+        "number": 6,
+        "title": "Сезон 6"
+      }
+    ],
+    "originalTitle": "The Grim Adventures of Billy and Mandy",
+    "rating": 8.054,
+    "voteCount": 1023,
+    "genres": [
+      "мультфильм",
+      "комедия",
+      "Детский"
+    ],
+    "countries": [
+      "United States of America"
+    ],
+    "imdbId": "tt0292800",
+    "kinopoiskId": 309463,
+    "cast": [
+      {
+        "name": "Greg Eagles",
+        "character": "Grim (voice)",
+        "photo": "https://image.tmdb.org/t/p/original/gHFu8h2l0OPyfozNMjoLhanLzi1.jpg"
+      },
+      {
+        "name": "Ричард Хорвиц",
+        "character": "Billy (voice)",
+        "photo": "https://image.tmdb.org/t/p/original/pyL1MykCkuKTAp23PmmD6T8HVbn.jpg"
+      },
+      {
+        "name": "Грей Делайл",
+        "character": "Mandy (voice)",
+        "photo": "https://image.tmdb.org/t/p/original/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+      },
+      {
+        "name": "Ванесса Маршалл",
+        "character": "Irwin (voice)",
+        "photo": "https://image.tmdb.org/t/p/original/yZsWfaiOxaN5MZkWIKPbxz1KKS1.jpg"
+      }
+    ],
+    "detailsUrl": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/details/tmdb_tv_897.json",
+    "episodesCount": 55,
+    "seasonNumbers": [
+      2,
+      3,
+      4,
+      6
+    ],
+    "episodesUrlTemplate": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/episodes/tmdb_tv_897/season_{season}.json"
+  }
+}

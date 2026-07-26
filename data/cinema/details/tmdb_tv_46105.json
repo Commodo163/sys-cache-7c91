@@ -1,1 +1,135 @@
-{"schemaVersion":1,"generatedAt":"2026-07-26T20:50:49+00:00","item":{"id":"tmdb_tv_46105","title":"Фиксики","type":"cartoon_series","year":2011,"description":"«А кто такие фиксики — большой-большой секрет!» — так поётся в песенке про фиксиков. До недавнего времени люди почти ничего не знали об этих маленьких человечках, которые живут внутри машин и приборов. Фиксики ухаживают за техникой изнутри, чистят её, смазывают, устраняют мелкие поломки. Они — умелые и добросовестные мастера. Фиксики привыкли скрываться от людей, но есть они повсюду: в компьютерах, холодильниках, телевизорах… Каждый помнит о случаях, когда неработающий прибор начинал вдруг работать, если по нему слегка стукнуть. Всё просто: внутри проснулся фиксик и всё наладил. А теперь об этих таинственных трудолюбивых человечках можно посмотреть мультфильмы и познакомиться с ними поближе…","poster":"https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/posters/tmdb_tv_46105.jpg","backdrop":"https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/backdrops/tmdb_tv_46105.jpg","sources":[{"name":"Оригинал · zetflix · 480p","provider":"zetflix","url":"https://cdn-54243ba5.obrut.show/stream/AO/MHc0RHa/QbvNmLuR2YyVGc1RmclBXdz5ie/4U3Mt5CdzVmZp5WYtpzcshmO0AXbuADO08yMyYjM3AjNyAjM6QzMihjN2IWNmljNhljNihTO0MDOmN2NjVjMiRGZwITYvUWOyIDNxYWN3MGOlRmZ5MzYzYmZ5UDNzYzYmlzYmhTMwQjM3IWZzQzLzVWayV2c2R3L","format":"hls","voiceId":"voice-оригинал","voiceName":"Оригинал","sourceId":"zetflix:series:1:1:1:480p:2","activationUrl":"https://54243ba5.obrut.show/embed/AO/kinopoisk/zUjNxgTN/","quality":"480p","language":"ru","headers":{"Referer":"https://go.zet-flix.online/","Origin":"https://go.zet-flix.online"},"drm":false},{"name":"Оригинал · zetflix · 360p","provider":"zetflix","url":"https://cdn-54243ba5.obrut.show/stream/AO/MHc0RHa/QbvNmLuR2YyVGc1RmclBXdz5ie/4U3Mt5CdzVmZp5WYtpzcshmO0AXbuAjNz8yMyYjM3AjNyAjM6QzMihjN2IWNmljNhljNihTO0MDOmN2NjVjMiRGZwITYvUWOyIDNxYWN3MGOlRmZ5MzYzYmZ5UDNzYzYmlzYmhTMwQjM3IWZzQzLzVWayV2c2R3L","format":"hls","voiceId":"voice-оригинал","voiceName":"Оригинал","sourceId":"zetflix:series:1:1:1:360p:1","activationUrl":"https://54243ba5.obrut.show/embed/AO/kinopoisk/zUjNxgTN/","quality":"360p","language":"ru","headers":{"Referer":"https://go.zet-flix.online/","Origin":"https://go.zet-flix.online"},"drm":false}],"tmdbId":46105,"voices":[{"id":"voice-оригинал","title":"Оригинал"}],"seasons":[{"id":"1","number":1,"title":"Сезон 1"},{"id":"2","number":2,"title":"Сезон 2"},{"id":"3","number":3,"title":"Сезон 3"},{"id":"4","number":4,"title":"Сезон 4"},{"id":"5","number":5,"title":"Сезон 5"},{"id":"6","number":6,"title":"Сезон 6"}],"originalTitle":"Фиксики","rating":6.9,"voteCount":15,"genres":["мультфильм","Детский"],"countries":["Russia"],"imdbId":"tt3886188","kinopoiskId":581653,"cast":[{"name":"Лариса Брохман","character":"Simka / Mama DimDimycha / Irek","photo":"https://image.tmdb.org/t/p/original/8WDvMgEPX30Zrze2uzVTrT8efyY.jpg"},{"name":"Yakov Vasilyev","character":"Nolik","photo":null}],"detailsUrl":"https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/details/tmdb_tv_46105.json","episodesCount":273,"seasonNumbers":[1,2,3,4,5,6],"episodesUrlTemplate":"https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/episodes/tmdb_tv_46105/season_{season}.json"}}
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-26T20:50:49+00:00",
+  "item": {
+    "id": "tmdb_tv_46105",
+    "title": "Фиксики",
+    "type": "cartoon_series",
+    "year": 2011,
+    "description": "«А кто такие фиксики — большой-большой секрет!» — так поётся в песенке про фиксиков. До недавнего времени люди почти ничего не знали об этих маленьких человечках, которые живут внутри машин и приборов. Фиксики ухаживают за техникой изнутри, чистят её, смазывают, устраняют мелкие поломки. Они — умелые и добросовестные мастера. Фиксики привыкли скрываться от людей, но есть они повсюду: в компьютерах, холодильниках, телевизорах… Каждый помнит о случаях, когда неработающий прибор начинал вдруг работать, если по нему слегка стукнуть. Всё просто: внутри проснулся фиксик и всё наладил. А теперь об этих таинственных трудолюбивых человечках можно посмотреть мультфильмы и познакомиться с ними поближе…",
+    "poster": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/posters/tmdb_tv_46105.jpg",
+    "backdrop": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/backdrops/tmdb_tv_46105.jpg",
+    "sources": [
+      {
+        "name": "Оригинал · zetflix · 480p",
+        "provider": "zetflix",
+        "format": "hls",
+        "voiceId": "voice-оригинал",
+        "voiceName": "Оригинал",
+        "sourceId": "zetflix:series:1:1:1:480p:2",
+        "quality": "480p",
+        "language": "ru",
+        "headers": {
+          "Referer": "https://go.zet-flix.online/",
+          "Origin": "https://go.zet-flix.online"
+        },
+        "drm": false,
+        "resolverType": "zetflix",
+        "resolverData": {
+          "kind": "series",
+          "iframe": "https://54243ba5.obrut.show/embed/AO/kinopoisk/zUjNxgTN/",
+          "voice": "Оригинал",
+          "season": 1,
+          "episode": 1
+        }
+      },
+      {
+        "name": "Оригинал · zetflix · 360p",
+        "provider": "zetflix",
+        "format": "hls",
+        "voiceId": "voice-оригинал",
+        "voiceName": "Оригинал",
+        "sourceId": "zetflix:series:1:1:1:360p:1",
+        "quality": "360p",
+        "language": "ru",
+        "headers": {
+          "Referer": "https://go.zet-flix.online/",
+          "Origin": "https://go.zet-flix.online"
+        },
+        "drm": false,
+        "resolverType": "zetflix",
+        "resolverData": {
+          "kind": "series",
+          "iframe": "https://54243ba5.obrut.show/embed/AO/kinopoisk/zUjNxgTN/",
+          "voice": "Оригинал",
+          "season": 1,
+          "episode": 1
+        }
+      }
+    ],
+    "tmdbId": 46105,
+    "voices": [
+      {
+        "id": "voice-оригинал",
+        "title": "Оригинал"
+      }
+    ],
+    "seasons": [
+      {
+        "id": "1",
+        "number": 1,
+        "title": "Сезон 1"
+      },
+      {
+        "id": "2",
+        "number": 2,
+        "title": "Сезон 2"
+      },
+      {
+        "id": "3",
+        "number": 3,
+        "title": "Сезон 3"
+      },
+      {
+        "id": "4",
+        "number": 4,
+        "title": "Сезон 4"
+      },
+      {
+        "id": "5",
+        "number": 5,
+        "title": "Сезон 5"
+      },
+      {
+        "id": "6",
+        "number": 6,
+        "title": "Сезон 6"
+      }
+    ],
+    "originalTitle": "Фиксики",
+    "rating": 6.9,
+    "voteCount": 15,
+    "genres": [
+      "мультфильм",
+      "Детский"
+    ],
+    "countries": [
+      "Russia"
+    ],
+    "imdbId": "tt3886188",
+    "kinopoiskId": 581653,
+    "cast": [
+      {
+        "name": "Лариса Брохман",
+        "character": "Simka / Mama DimDimycha / Irek",
+        "photo": "https://image.tmdb.org/t/p/original/8WDvMgEPX30Zrze2uzVTrT8efyY.jpg"
+      },
+      {
+        "name": "Yakov Vasilyev",
+        "character": "Nolik",
+        "photo": null
+      }
+    ],
+    "detailsUrl": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/details/tmdb_tv_46105.json",
+    "episodesCount": 273,
+    "seasonNumbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "episodesUrlTemplate": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/episodes/tmdb_tv_46105/season_{season}.json"
+  }
+}

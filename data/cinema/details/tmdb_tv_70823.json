@@ -1,1 +1,111 @@
-{"schemaVersion":1,"generatedAt":"2026-07-26T20:50:49+00:00","item":{"id":"tmdb_tv_70823","title":"Микки и весёлые гонки","type":"cartoon_series","year":2017,"description":"На старт, внимание, марш! Микки, Дональд, Гуфи, Минни и Дейзи готовят свои гоночные машины к большому кругосветному автопробегу. Плуто не участвует в гонках.","poster":"https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/posters/tmdb_tv_70823.jpg","backdrop":"https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/backdrops/tmdb_tv_70823.jpg","sources":[{"name":"Официальный · zetflix · 360p","provider":"zetflix","url":"https://cdn-54243ba5.obrut.show/stream/AO/MHc0RHa/QbvNmLuR2YyVGc1RmclBXdz5ie/4U3Mt5CdzVmZp5WYtpzcshmO0AXbuAjNz8CMwcjM3AjNyAjM6czMiJDM3UjMiZ2M2EWM1MDMhlTMwEmNhVGZ5IjZkFWYvATZygTMldTYxM2MyIGZihTN2EGZ1gzY2IGMwIDZzkzN0QGN3gzY4Q2LzVWayV2c2R3L","format":"hls","voiceId":"voice-официальный","voiceName":"Официальный","sourceId":"zetflix:series:1:1:1:360p:1","activationUrl":"https://54243ba5.obrut.show/embed/AO/kinopoisk/QN3kjN0ATM/","quality":"360p","language":"ru","headers":{"Referer":"https://go.zet-flix.online/","Origin":"https://go.zet-flix.online"},"drm":false}],"tmdbId":70823,"voices":[{"id":"voice-официальный","title":"Официальный"}],"seasons":[{"id":"1","number":1,"title":"Сезон 1"},{"id":"2","number":2,"title":"Сезон 2"}],"originalTitle":"Mickey and the Roadster Racers","rating":6.3,"voteCount":24,"genres":["мультфильм","Боевик и Приключения","Детский","комедия"],"countries":["United States of America","Mexico"],"imdbId":"tt6264782","kinopoiskId":1046975,"cast":[{"name":"Bret Iwan","character":"Mickey Mouse (voice)","photo":"https://image.tmdb.org/t/p/original/14m82iewt4tDjaaOmsYWMr6TKQ8.jpg"},{"name":"Russi Taylor","character":"Minnie Mouse (voice)","photo":"https://image.tmdb.org/t/p/original/r79GVF7LyBExJP7cRMob8QQZ6IU.jpg"},{"name":"Билл Фармер","character":"Goofy / Pluto (voice)","photo":"https://image.tmdb.org/t/p/original/lhezx68R12s5Bsv7d77BrQb7tWA.jpg"},{"name":"Daniel Ross","character":"Donald Duck (voice)","photo":null},{"name":"Тресс Макнилл","character":"Daisy Duck (voice)","photo":"https://image.tmdb.org/t/p/original/gI2LsgByvSffQY34vabVnPmrHzw.jpg"},{"name":"Ника Футтерман","character":"Cuckoo-Loca (voice)","photo":"https://image.tmdb.org/t/p/original/6zfuSfLGtLXtFxXBUftMQbgfH6q.jpg"}],"detailsUrl":"https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/details/tmdb_tv_70823.json","episodesCount":98,"seasonNumbers":[1,2],"episodesUrlTemplate":"https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/episodes/tmdb_tv_70823/season_{season}.json"}}
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-26T20:50:49+00:00",
+  "item": {
+    "id": "tmdb_tv_70823",
+    "title": "Микки и весёлые гонки",
+    "type": "cartoon_series",
+    "year": 2017,
+    "description": "На старт, внимание, марш! Микки, Дональд, Гуфи, Минни и Дейзи готовят свои гоночные машины к большому кругосветному автопробегу. Плуто не участвует в гонках.",
+    "poster": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/posters/tmdb_tv_70823.jpg",
+    "backdrop": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/backdrops/tmdb_tv_70823.jpg",
+    "sources": [
+      {
+        "name": "Официальный · zetflix · 360p",
+        "provider": "zetflix",
+        "format": "hls",
+        "voiceId": "voice-официальный",
+        "voiceName": "Официальный",
+        "sourceId": "zetflix:series:1:1:1:360p:1",
+        "quality": "360p",
+        "language": "ru",
+        "headers": {
+          "Referer": "https://go.zet-flix.online/",
+          "Origin": "https://go.zet-flix.online"
+        },
+        "drm": false,
+        "resolverType": "zetflix",
+        "resolverData": {
+          "kind": "series",
+          "iframe": "https://54243ba5.obrut.show/embed/AO/kinopoisk/QN3kjN0ATM/",
+          "voice": "Официальный",
+          "season": 1,
+          "episode": 1
+        }
+      }
+    ],
+    "tmdbId": 70823,
+    "voices": [
+      {
+        "id": "voice-официальный",
+        "title": "Официальный"
+      }
+    ],
+    "seasons": [
+      {
+        "id": "1",
+        "number": 1,
+        "title": "Сезон 1"
+      },
+      {
+        "id": "2",
+        "number": 2,
+        "title": "Сезон 2"
+      }
+    ],
+    "originalTitle": "Mickey and the Roadster Racers",
+    "rating": 6.3,
+    "voteCount": 24,
+    "genres": [
+      "мультфильм",
+      "Боевик и Приключения",
+      "Детский",
+      "комедия"
+    ],
+    "countries": [
+      "United States of America",
+      "Mexico"
+    ],
+    "imdbId": "tt6264782",
+    "kinopoiskId": 1046975,
+    "cast": [
+      {
+        "name": "Bret Iwan",
+        "character": "Mickey Mouse (voice)",
+        "photo": "https://image.tmdb.org/t/p/original/14m82iewt4tDjaaOmsYWMr6TKQ8.jpg"
+      },
+      {
+        "name": "Russi Taylor",
+        "character": "Minnie Mouse (voice)",
+        "photo": "https://image.tmdb.org/t/p/original/r79GVF7LyBExJP7cRMob8QQZ6IU.jpg"
+      },
+      {
+        "name": "Билл Фармер",
+        "character": "Goofy / Pluto (voice)",
+        "photo": "https://image.tmdb.org/t/p/original/lhezx68R12s5Bsv7d77BrQb7tWA.jpg"
+      },
+      {
+        "name": "Daniel Ross",
+        "character": "Donald Duck (voice)",
+        "photo": null
+      },
+      {
+        "name": "Тресс Макнилл",
+        "character": "Daisy Duck (voice)",
+        "photo": "https://image.tmdb.org/t/p/original/gI2LsgByvSffQY34vabVnPmrHzw.jpg"
+      },
+      {
+        "name": "Ника Футтерман",
+        "character": "Cuckoo-Loca (voice)",
+        "photo": "https://image.tmdb.org/t/p/original/6zfuSfLGtLXtFxXBUftMQbgfH6q.jpg"
+      }
+    ],
+    "detailsUrl": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/details/tmdb_tv_70823.json",
+    "episodesCount": 98,
+    "seasonNumbers": [
+      1,
+      2
+    ],
+    "episodesUrlTemplate": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/episodes/tmdb_tv_70823/season_{season}.json"
+  }
+}

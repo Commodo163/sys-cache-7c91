@@ -1,1 +1,161 @@
-{"schemaVersion":1,"generatedAt":"2026-07-26T20:50:49+00:00","item":{"id":"tmdb_tv_202411","title":"«Монарх»: Наследие монстров","type":"series","year":2023,"description":"Пережив нападение Годзиллы на Сан-Франциско, Кейт в очередной раз потрясена шокирующей тайной. Окружённая чудовищными опасностями, она отправляется в путешествие по миру, чтобы узнать правду о своей семье и таинственной организации, известной как «Монарх».","poster":"https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/posters/tmdb_tv_202411.jpg","backdrop":"https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/backdrops/tmdb_tv_202411.jpg","sources":[{"name":"BaibaKo","provider":"hdvb","url":"https://vid1785089536.sevstar933krop.com/serial/70460975006175c10c90f4329e015982908b8107de8c758011147d34a833447a/iframe","format":"hls","voiceId":"voice-baibako","voiceName":"BaibaKo","sourceId":"hdvb:series:3:1:1","activationUrl":"https://vid1785089536.sevstar933krop.com/serial/70460975006175c10c90f4329e015982908b8107de8c758011147d34a833447a/iframe","resolverType":"hdvb","resolverData":{"kind":"series","iframe":"https://vid1785089536.sevstar933krop.com/serial/70460975006175c10c90f4329e015982908b8107de8c758011147d34a833447a/iframe","voice":"BaibaKo","season":1,"episode":1},"quality":"1080","language":"ru","headers":{"Origin":"https://vid1785089536.sevstar933krop.com","Referer":"https://vid1785089536.sevstar933krop.com/"},"drm":false}],"tmdbId":202411,"voices":[{"id":"voice-baibako","title":"BaibaKo"},{"id":"voice-coldfilm","title":"ColdFilm"},{"id":"voice-goltfilm","title":"GoLTFilm"},{"id":"voice-hdrezka-studio","title":"HDrezka Studio"},{"id":"voice-le-production","title":"LE-Production"},{"id":"voice-lostfilm","title":"LostFilm"},{"id":"voice-newcomers","title":"NewComers"},{"id":"voice-red-head-sound","title":"Red Head Sound"},{"id":"voice-rudub","title":"RuDub"},{"id":"voice-tvshows","title":"TVShows"},{"id":"voice-ultradox","title":"Ultradox"}],"seasons":[{"id":"1","number":1,"title":"Сезон 1"},{"id":"2","number":2,"title":"Сезон 2"}],"originalTitle":"Monarch: Legacy of Monsters","rating":7.742,"voteCount":1360,"genres":["НФ и Фэнтези","драма","Боевик и Приключения"],"countries":["Japan","United States of America"],"tagline":"И появится новая угроза.","imdbId":"tt17220216","kinopoiskId":4836083,"cast":[{"name":"Анна Саваи","character":"Cate Randa","photo":"https://image.tmdb.org/t/p/original/6uFaCOupDTPRnTiedveTUvjOikC.jpg"},{"name":"Кирси Клемонс","character":"May Olowe-Hewitt","photo":"https://image.tmdb.org/t/p/original/iZD6EzMGnuHFjFgmO8G1wyiLrTy.jpg"},{"name":"Рэн Ватабэ","character":"Kentaro Randa","photo":"https://image.tmdb.org/t/p/original/odHtSqOKlrBwSArm1R4bzEh2C07.jpg"},{"name":"Мари Ямамото","character":"Keiko Randa","photo":"https://image.tmdb.org/t/p/original/n0kSgZvoFD6ENdja5MDhAMDbDwT.jpg"},{"name":"Андерс Холм","character":"Young Bill Randa","photo":"https://image.tmdb.org/t/p/original/fgH6wEjj5tzEUcncUifBRVuidug.jpg"},{"name":"Джо Типпетт","character":"Tim","photo":"https://image.tmdb.org/t/p/original/49EiJUmkTeaYLSk0FmhYtqpoN2H.jpg"},{"name":"Уайатт Рассел","character":"Young Lee Shaw","photo":"https://image.tmdb.org/t/p/original/zIldBzXdBWskPZB7x35G2hYEVDo.jpg"},{"name":"Курт Рассел","character":"Lee Shaw","photo":"https://image.tmdb.org/t/p/original/6g1d98oH4miG4k0ZiZWmF3Dt0bO.jpg"}],"detailsUrl":"https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/details/tmdb_tv_202411.json","episodesCount":196,"seasonNumbers":[1,2],"episodesUrlTemplate":"https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/episodes/tmdb_tv_202411/season_{season}.json"}}
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-26T20:50:49+00:00",
+  "item": {
+    "id": "tmdb_tv_202411",
+    "title": "«Монарх»: Наследие монстров",
+    "type": "series",
+    "year": 2023,
+    "description": "Пережив нападение Годзиллы на Сан-Франциско, Кейт в очередной раз потрясена шокирующей тайной. Окружённая чудовищными опасностями, она отправляется в путешествие по миру, чтобы узнать правду о своей семье и таинственной организации, известной как «Монарх».",
+    "poster": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/posters/tmdb_tv_202411.jpg",
+    "backdrop": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/backdrops/tmdb_tv_202411.jpg",
+    "sources": [
+      {
+        "name": "BaibaKo",
+        "provider": "hdvb",
+        "format": "hls",
+        "voiceId": "voice-baibako",
+        "voiceName": "BaibaKo",
+        "sourceId": "hdvb:series:3:1:1",
+        "resolverType": "hdvb",
+        "resolverData": {
+          "kind": "series",
+          "iframe": "https://vid1785089536.sevstar933krop.com/serial/70460975006175c10c90f4329e015982908b8107de8c758011147d34a833447a/iframe",
+          "voice": "BaibaKo",
+          "season": 1,
+          "episode": 1
+        },
+        "quality": "1080",
+        "language": "ru",
+        "headers": {
+          "Origin": "https://vid1785089536.sevstar933krop.com",
+          "Referer": "https://vid1785089536.sevstar933krop.com/"
+        },
+        "drm": false
+      }
+    ],
+    "tmdbId": 202411,
+    "voices": [
+      {
+        "id": "voice-baibako",
+        "title": "BaibaKo"
+      },
+      {
+        "id": "voice-coldfilm",
+        "title": "ColdFilm"
+      },
+      {
+        "id": "voice-goltfilm",
+        "title": "GoLTFilm"
+      },
+      {
+        "id": "voice-hdrezka-studio",
+        "title": "HDrezka Studio"
+      },
+      {
+        "id": "voice-le-production",
+        "title": "LE-Production"
+      },
+      {
+        "id": "voice-lostfilm",
+        "title": "LostFilm"
+      },
+      {
+        "id": "voice-newcomers",
+        "title": "NewComers"
+      },
+      {
+        "id": "voice-red-head-sound",
+        "title": "Red Head Sound"
+      },
+      {
+        "id": "voice-rudub",
+        "title": "RuDub"
+      },
+      {
+        "id": "voice-tvshows",
+        "title": "TVShows"
+      },
+      {
+        "id": "voice-ultradox",
+        "title": "Ultradox"
+      }
+    ],
+    "seasons": [
+      {
+        "id": "1",
+        "number": 1,
+        "title": "Сезон 1"
+      },
+      {
+        "id": "2",
+        "number": 2,
+        "title": "Сезон 2"
+      }
+    ],
+    "originalTitle": "Monarch: Legacy of Monsters",
+    "rating": 7.742,
+    "voteCount": 1360,
+    "genres": [
+      "НФ и Фэнтези",
+      "драма",
+      "Боевик и Приключения"
+    ],
+    "countries": [
+      "Japan",
+      "United States of America"
+    ],
+    "tagline": "И появится новая угроза.",
+    "imdbId": "tt17220216",
+    "kinopoiskId": 4836083,
+    "cast": [
+      {
+        "name": "Анна Саваи",
+        "character": "Cate Randa",
+        "photo": "https://image.tmdb.org/t/p/original/6uFaCOupDTPRnTiedveTUvjOikC.jpg"
+      },
+      {
+        "name": "Кирси Клемонс",
+        "character": "May Olowe-Hewitt",
+        "photo": "https://image.tmdb.org/t/p/original/iZD6EzMGnuHFjFgmO8G1wyiLrTy.jpg"
+      },
+      {
+        "name": "Рэн Ватабэ",
+        "character": "Kentaro Randa",
+        "photo": "https://image.tmdb.org/t/p/original/odHtSqOKlrBwSArm1R4bzEh2C07.jpg"
+      },
+      {
+        "name": "Мари Ямамото",
+        "character": "Keiko Randa",
+        "photo": "https://image.tmdb.org/t/p/original/n0kSgZvoFD6ENdja5MDhAMDbDwT.jpg"
+      },
+      {
+        "name": "Андерс Холм",
+        "character": "Young Bill Randa",
+        "photo": "https://image.tmdb.org/t/p/original/fgH6wEjj5tzEUcncUifBRVuidug.jpg"
+      },
+      {
+        "name": "Джо Типпетт",
+        "character": "Tim",
+        "photo": "https://image.tmdb.org/t/p/original/49EiJUmkTeaYLSk0FmhYtqpoN2H.jpg"
+      },
+      {
+        "name": "Уайатт Рассел",
+        "character": "Young Lee Shaw",
+        "photo": "https://image.tmdb.org/t/p/original/zIldBzXdBWskPZB7x35G2hYEVDo.jpg"
+      },
+      {
+        "name": "Курт Рассел",
+        "character": "Lee Shaw",
+        "photo": "https://image.tmdb.org/t/p/original/6g1d98oH4miG4k0ZiZWmF3Dt0bO.jpg"
+      }
+    ],
+    "detailsUrl": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/details/tmdb_tv_202411.json",
+    "episodesCount": 196,
+    "seasonNumbers": [
+      1,
+      2
+    ],
+    "episodesUrlTemplate": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/episodes/tmdb_tv_202411/season_{season}.json"
+  }
+}

@@ -1,1 +1,182 @@
-{"schemaVersion":1,"generatedAt":"2026-07-26T20:50:49+00:00","item":{"id":"tmdb_tv_11982","title":"Макс и Руби","type":"cartoon_series","year":2002,"description":"Приключения кроликов Макса и Руби, братика и сестрички. Их планы зачастую расходятся, но благодаря этому результат всегда выходит смешным.","poster":"https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/posters/tmdb_tv_11982.jpg","backdrop":"https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/backdrops/tmdb_tv_11982.jpg","sources":[{"name":"Профессиональный · zetflix · 480p","provider":"zetflix","url":"https://cdn-54243ba5.obrut.show/stream/AO/MHc0RHa/QbvNmLuR2YyVGc1RmclBXdz5ie/4U3Mt5CdzVmZp5WYtpzcshmO0AXbuADO08SMyYjM3AjNyAjM6cjYjFTYjNGMxYWO1ITZ5QzM3UTZwYGOhJTNwYTYkdjZvQGOmZ2M3UzN0AjZ4UWZ0cjMwkjY4UjYxMTZzU2Y4YmY5EmZ1kjNzAzLzVWayV2c2R3L","format":"hls","voiceId":"voice-профессиональный","voiceName":"Профессиональный","sourceId":"zetflix:series:1:1:1:480p:2","activationUrl":"https://54243ba5.obrut.show/embed/AO/kinopoisk/2ETMyITN/","quality":"480p","language":"ru","headers":{"Referer":"https://go.zet-flix.online/","Origin":"https://go.zet-flix.online"},"drm":false},{"name":"Профессиональный · zetflix · 360p","provider":"zetflix","url":"https://cdn-54243ba5.obrut.show/stream/AO/MHc0RHa/QbvNmLuR2YyVGc1RmclBXdz5ie/4U3Mt5CdzVmZp5WYtpzcshmO0AXbuAjNz8SMyYjM3AjNyAjM6cjYjFTYjNGMxYWO1ITZ5QzM3UTZwYGOhJTNwYTYkdjZvQGOmZ2M3UzN0AjZ4UWZ0cjMwkjY4UjYxMTZzU2Y4YmY5EmZ1kjNzAzLzVWayV2c2R3L","format":"hls","voiceId":"voice-профессиональный","voiceName":"Профессиональный","sourceId":"zetflix:series:1:1:1:360p:1","activationUrl":"https://54243ba5.obrut.show/embed/AO/kinopoisk/2ETMyITN/","quality":"360p","language":"ru","headers":{"Referer":"https://go.zet-flix.online/","Origin":"https://go.zet-flix.online"},"drm":false}],"tmdbId":11982,"voices":[{"id":"voice-sdi-media-iyuno-russia","title":"SDI Media | Iyuno Russia"},{"id":"voice-официальный","title":"Официальный"},{"id":"voice-профессиональный","title":"Профессиональный"}],"seasons":[{"id":"1","number":1,"title":"Сезон 1"},{"id":"2","number":2,"title":"Сезон 2"},{"id":"5","number":5,"title":"Сезон 5"}],"originalTitle":"Max & Ruby","rating":6.5,"voteCount":46,"genres":["Детский","мультфильм","комедия"],"countries":["Canada","United States of America"],"imdbId":"tt0367367","kinopoiskId":522116,"cast":[{"name":"Kay Hawtrey","character":"Grandma","photo":"https://image.tmdb.org/t/p/original/bkBT5qjyGrnbIoK9wmlkvXr3f1S.jpg"},{"name":"Gavin MacIver-Wright","character":"Max","photo":"https://image.tmdb.org/t/p/original/k6ydwtVKdnwr9jndf6pyWqHmFUo.jpg"},{"name":"Lana Carillo","character":"Ruby","photo":null},{"name":"Isabella Leo","character":"Lily","photo":"https://image.tmdb.org/t/p/original/mYfAOwCfXYOvtFStCWhcL3hr1h9.jpg"},{"name":"Nicholas Fry","character":"Morris","photo":null},{"name":"Julie Lemieux","character":"Louise","photo":"https://image.tmdb.org/t/p/original/tBhc82xjYHrnx0HDTz2STBfA5Vz.jpg"},{"name":"Loretta Jafelice","character":"Valerie","photo":null},{"name":"Linda Ballantyne","character":"Mom","photo":"https://image.tmdb.org/t/p/original/sCyTies9tcMuL0SNBrPc2l22BvV.jpg"},{"name":"Paul Bates","character":"Dad","photo":null},{"name":"Meghan Swaby","character":"Ms. Bunty","photo":"https://image.tmdb.org/t/p/original/p1zGXgGEMUum06D6mLcOmAdTZ0O.jpg"},{"name":"Ethan Tavares","character":"Winston","photo":null},{"name":"Laaibah Alvi","character":"Priya","photo":null},{"name":"Carlos Diaz","character":"Mr. Estevez","photo":null}],"detailsUrl":"https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/details/tmdb_tv_11982.json","episodesCount":72,"seasonNumbers":[1,2,5],"episodesUrlTemplate":"https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/episodes/tmdb_tv_11982/season_{season}.json"}}
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-26T20:50:49+00:00",
+  "item": {
+    "id": "tmdb_tv_11982",
+    "title": "Макс и Руби",
+    "type": "cartoon_series",
+    "year": 2002,
+    "description": "Приключения кроликов Макса и Руби, братика и сестрички. Их планы зачастую расходятся, но благодаря этому результат всегда выходит смешным.",
+    "poster": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/posters/tmdb_tv_11982.jpg",
+    "backdrop": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/backdrops/tmdb_tv_11982.jpg",
+    "sources": [
+      {
+        "name": "Профессиональный · zetflix · 480p",
+        "provider": "zetflix",
+        "format": "hls",
+        "voiceId": "voice-профессиональный",
+        "voiceName": "Профессиональный",
+        "sourceId": "zetflix:series:1:1:1:480p:2",
+        "quality": "480p",
+        "language": "ru",
+        "headers": {
+          "Referer": "https://go.zet-flix.online/",
+          "Origin": "https://go.zet-flix.online"
+        },
+        "drm": false,
+        "resolverType": "zetflix",
+        "resolverData": {
+          "kind": "series",
+          "iframe": "https://54243ba5.obrut.show/embed/AO/kinopoisk/2ETMyITN/",
+          "voice": "Профессиональный",
+          "season": 1,
+          "episode": 1
+        }
+      },
+      {
+        "name": "Профессиональный · zetflix · 360p",
+        "provider": "zetflix",
+        "format": "hls",
+        "voiceId": "voice-профессиональный",
+        "voiceName": "Профессиональный",
+        "sourceId": "zetflix:series:1:1:1:360p:1",
+        "quality": "360p",
+        "language": "ru",
+        "headers": {
+          "Referer": "https://go.zet-flix.online/",
+          "Origin": "https://go.zet-flix.online"
+        },
+        "drm": false,
+        "resolverType": "zetflix",
+        "resolverData": {
+          "kind": "series",
+          "iframe": "https://54243ba5.obrut.show/embed/AO/kinopoisk/2ETMyITN/",
+          "voice": "Профессиональный",
+          "season": 1,
+          "episode": 1
+        }
+      }
+    ],
+    "tmdbId": 11982,
+    "voices": [
+      {
+        "id": "voice-sdi-media-iyuno-russia",
+        "title": "SDI Media | Iyuno Russia"
+      },
+      {
+        "id": "voice-официальный",
+        "title": "Официальный"
+      },
+      {
+        "id": "voice-профессиональный",
+        "title": "Профессиональный"
+      }
+    ],
+    "seasons": [
+      {
+        "id": "1",
+        "number": 1,
+        "title": "Сезон 1"
+      },
+      {
+        "id": "2",
+        "number": 2,
+        "title": "Сезон 2"
+      },
+      {
+        "id": "5",
+        "number": 5,
+        "title": "Сезон 5"
+      }
+    ],
+    "originalTitle": "Max & Ruby",
+    "rating": 6.5,
+    "voteCount": 46,
+    "genres": [
+      "Детский",
+      "мультфильм",
+      "комедия"
+    ],
+    "countries": [
+      "Canada",
+      "United States of America"
+    ],
+    "imdbId": "tt0367367",
+    "kinopoiskId": 522116,
+    "cast": [
+      {
+        "name": "Kay Hawtrey",
+        "character": "Grandma",
+        "photo": "https://image.tmdb.org/t/p/original/bkBT5qjyGrnbIoK9wmlkvXr3f1S.jpg"
+      },
+      {
+        "name": "Gavin MacIver-Wright",
+        "character": "Max",
+        "photo": "https://image.tmdb.org/t/p/original/k6ydwtVKdnwr9jndf6pyWqHmFUo.jpg"
+      },
+      {
+        "name": "Lana Carillo",
+        "character": "Ruby",
+        "photo": null
+      },
+      {
+        "name": "Isabella Leo",
+        "character": "Lily",
+        "photo": "https://image.tmdb.org/t/p/original/mYfAOwCfXYOvtFStCWhcL3hr1h9.jpg"
+      },
+      {
+        "name": "Nicholas Fry",
+        "character": "Morris",
+        "photo": null
+      },
+      {
+        "name": "Julie Lemieux",
+        "character": "Louise",
+        "photo": "https://image.tmdb.org/t/p/original/tBhc82xjYHrnx0HDTz2STBfA5Vz.jpg"
+      },
+      {
+        "name": "Loretta Jafelice",
+        "character": "Valerie",
+        "photo": null
+      },
+      {
+        "name": "Linda Ballantyne",
+        "character": "Mom",
+        "photo": "https://image.tmdb.org/t/p/original/sCyTies9tcMuL0SNBrPc2l22BvV.jpg"
+      },
+      {
+        "name": "Paul Bates",
+        "character": "Dad",
+        "photo": null
+      },
+      {
+        "name": "Meghan Swaby",
+        "character": "Ms. Bunty",
+        "photo": "https://image.tmdb.org/t/p/original/p1zGXgGEMUum06D6mLcOmAdTZ0O.jpg"
+      },
+      {
+        "name": "Ethan Tavares",
+        "character": "Winston",
+        "photo": null
+      },
+      {
+        "name": "Laaibah Alvi",
+        "character": "Priya",
+        "photo": null
+      },
+      {
+        "name": "Carlos Diaz",
+        "character": "Mr. Estevez",
+        "photo": null
+      }
+    ],
+    "detailsUrl": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/details/tmdb_tv_11982.json",
+    "episodesCount": 72,
+    "seasonNumbers": [
+      1,
+      2,
+      5
+    ],
+    "episodesUrlTemplate": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/episodes/tmdb_tv_11982/season_{season}.json"
+  }
+}
