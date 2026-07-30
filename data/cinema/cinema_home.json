@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-30T08:10:40+00:00",
+  "generatedAt": "2026-07-30T15:57:26+00:00",
   "catalog": "cinema_catalog.json",
   "sections": [
     {
@@ -30,7 +30,6 @@
       "title": "Новинки кино",
       "type": "poster_row",
       "itemIds": [
-        "tmdb_movie_1384040",
         "tmdb_movie_936075",
         "tmdb_movie_687163",
         "tmdb_movie_1330021",
@@ -46,20 +45,21 @@
         "tmdb_movie_1301421",
         "tmdb_movie_1393326",
         "tmdb_movie_1305715",
-        "tmdb_movie_969681",
         "tmdb_movie_950028",
         "tmdb_movie_1305781",
         "tmdb_movie_1290821",
         "tmdb_movie_1318413",
         "tmdb_movie_1318621",
         "tmdb_movie_1266127",
-        "tmdb_movie_1122573",
         "tmdb_movie_1440050",
         "tmdb_movie_1154538",
         "tmdb_movie_1477317",
         "tmdb_movie_1268127",
         "tmdb_movie_1265609",
-        "tmdb_movie_1275779"
+        "tmdb_movie_1275779",
+        "tmdb_movie_1365378",
+        "tmdb_movie_1228710",
+        "tmdb_movie_1280738"
       ]
     },
     {
@@ -73,14 +73,11 @@
         "tmdb_tv_296206",
         "tmdb_tv_278624",
         "tmdb_tv_277439",
-        "tmdb_tv_287238",
         "tmdb_tv_322055",
         "tmdb_tv_241882",
         "tmdb_tv_232230",
-        "tmdb_tv_256721",
         "tmdb_tv_247718",
         "tmdb_tv_235930",
-        "tmdb_tv_253811",
         "tmdb_tv_240459",
         "tmdb_tv_138502",
         "tmdb_tv_94954",
@@ -96,7 +93,10 @@
         "tmdb_tv_215799",
         "tmdb_tv_250596",
         "tmdb_tv_117830",
-        "tmdb_tv_209867"
+        "tmdb_tv_209867",
+        "tmdb_tv_261145",
+        "tmdb_tv_131378",
+        "tmdb_tv_220542"
       ]
     },
     {
@@ -105,7 +105,6 @@
       "type": "poster_row",
       "itemIds": [
         "tmdb_movie_1226343",
-        "tmdb_movie_1384040",
         "tmdb_movie_980431",
         "tmdb_tv_287620",
         "tmdb_tv_273240",
@@ -133,7 +132,8 @@
         "tmdb_tv_92685",
         "tmdb_tv_42573",
         "tmdb_tv_46298",
-        "tmdb_movie_687163"
+        "tmdb_movie_687163",
+        "tmdb_tv_138502"
       ]
     },
     {
@@ -191,12 +191,10 @@
         "tmdb_movie_1375646",
         "tmdb_movie_454639",
         "tmdb_movie_687163",
-        "tmdb_movie_969681",
         "tmdb_movie_1061474",
         "tmdb_movie_1078605",
         "tmdb_movie_1116201",
         "tmdb_movie_1119449",
-        "tmdb_movie_1122573",
         "tmdb_movie_1127384",
         "tmdb_movie_1151031",
         "tmdb_movie_1159559",
@@ -207,7 +205,9 @@
         "tmdb_movie_122",
         "tmdb_movie_1232569",
         "tmdb_movie_1233413",
-        "tmdb_movie_1234821"
+        "tmdb_movie_1234821",
+        "tmdb_movie_1235877",
+        "tmdb_movie_1242265"
       ]
     },
     {
@@ -346,7 +346,6 @@
         "tmdb_movie_104819",
         "tmdb_movie_1515899",
         "tmdb_movie_1618998",
-        "tmdb_movie_416148",
         "tmdb_movie_447330",
         "tmdb_movie_553512",
         "tmdb_movie_576712",
@@ -355,7 +354,8 @@
         "tmdb_movie_12228",
         "tmdb_movie_1592952",
         "tmdb_movie_283317",
-        "tmdb_movie_523917"
+        "tmdb_movie_523917",
+        "tmdb_movie_691179"
       ]
     }
   ]
