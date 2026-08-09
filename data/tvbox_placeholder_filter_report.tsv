@@ -11,7 +11,7 @@ DROP	PLACEHOLDER	attempt_1_bad_child_body	Россия 1	http://168.119.58.242:8
 DROP	PLACEHOLDER	attempt_1_bad_child_body	Россия 1	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltz5c6l51Hg8Xq_8rgJnJsOg/ts
 DROP	PLACEHOLDER	attempt_1_bad_child_body	Матч ТВ	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt1r13YWOgoB-XLkUDwcqNl0/ts
 KEEP	OK	ok_after_rechecks	Матч ТВ	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt9RZnaLj17zJKPUYfmBB6PU/ts
-DROP	PLACEHOLDER	attempt_1_bad_redirect_or_header	НТВ	https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
+DROP	PLACEHOLDER	attempt_1_child_is_not_valid_hls	НТВ	https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
 KEEP	OK	ok_after_rechecks	НТВ	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt4NoAWBbk7QpKJ68zJjvYWI/ts
 DROP	PLACEHOLDER	attempt_1_bad_child_body	НТВ	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt62IcTQoMLelvjZUTU1OsVU/ts
 DROP	PLACEHOLDER	attempt_1_child_is_not_valid_hls	Пятый канал	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt2NwbyX67yNbmltEShl5p5o/ts
@@ -19,7 +19,7 @@ DROP	PLACEHOLDER	attempt_1_bad_child_body	Пятый канал	http://168.119.5
 DROP	PLACEHOLDER	attempt_1_master_is_not_m3u	Пятый канал	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt7PbsSRrQKr63aN4PqRV8QA/ts
 DROP	PLACEHOLDER	attempt_1_bad_master_body	Пятый канал	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt_ldAqf4VURSavs-wo3Epn0/ts
 DROP	PLACEHOLDER	attempt_1_master_is_not_m3u	Пятый канал	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt_o4EcfLDBeuYaurNCJmHQs/ts
-DROP	PLACEHOLDER	attempt_1_master_is_not_m3u	Пятый канал	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt_x8GzS9MsoGpua5korl2uw/ts
+DROP	PLACEHOLDER	attempt_1_bad_child_body	Пятый канал	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt_x8GzS9MsoGpua5korl2uw/ts
 DROP	PLACEHOLDER	attempt_1_child_is_not_valid_hls	Россия К	https://stream8.cinerama.uz/1048/tracks-v1a1/mono.m3u8
 DROP	PLACEHOLDER	attempt_1_bad_child_body	Россия К	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt--bbyIJzHh6Z0CJ9NsN7Ws/ts
 DROP	PLACEHOLDER	attempt_1_bad_child_body	Россия К	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt0BlIIRtMDdYKJkLcrRY2No/ts
@@ -65,7 +65,7 @@ DROP	PLACEHOLDER	attempt_1_bad_master_body	ТВ-3	http://168.119.58.242:80/play/
 KEEP	OK	ok_after_rechecks	ТВ-3	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt9A8NK--LmMFdiEO0axxP_U/ts
 DROP	PLACEHOLDER	attempt_1_bad_child_body	Пятница!	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt5bsEkIqfERUJw_9SS6lFLA/ts
 DROP	PLACEHOLDER	attempt_1_master_is_not_m3u	Пятница!	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt5n-zgUw9K4rhog6x8BZRgQ/ts
-DROP	PLACEHOLDER	attempt_1_bad_master_body	Пятница!	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt6-W-HP1wKTXQ42PwMCQZ-0/ts
+DROP	PLACEHOLDER	attempt_1_master_is_not_m3u	Пятница!	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt6-W-HP1wKTXQ42PwMCQZ-0/ts
 DROP	PLACEHOLDER	attempt_1_master_is_not_m3u	Пятница!	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt8kLTdMM5_SkSFYFYsPcPR0/ts
 DROP	PLACEHOLDER	attempt_1_master_is_not_m3u	Пятница!	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt_6vlwmPjX_TqgfE1X5NrvI/ts
 DROP	PLACEHOLDER	attempt_1_master_is_not_m3u	Пятница!	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt_a4s53AjkKrUnKxVJZkEZI/ts
@@ -80,7 +80,7 @@ DROP	PLACEHOLDER	attempt_1_bad_child_body	Мир	http://168.119.58.242:80/play/f
 KEEP	OK	ok_after_rechecks	Мир	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt3ltC148sEhXTcuT5R3O2fg/ts
 DROP	PLACEHOLDER	attempt_1_bad_master_body	Мир	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt5qRDQVsatq3k7h1h2kTBkQ/ts
 DROP	PLACEHOLDER	attempt_1_master_is_not_m3u	Мир	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt72z5tUlVWVmXITJBxM_1W0/ts
-DROP	PLACEHOLDER	attempt_1_child_is_not_valid_hls	Мир	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt9PuH9G1l2rtnRF95S-Ifrg/ts
+DROP	PLACEHOLDER	attempt_1_master_is_not_m3u	Мир	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt9PuH9G1l2rtnRF95S-Ifrg/ts
 DROP	PLACEHOLDER	attempt_1_bad_child_body	Мир	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltxYerm-jE2y_Zo8GNPSu1fA/ts
 DROP	PLACEHOLDER	attempt_1_bad_child_body	Мир	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltxhQwENrFhhxGl_SGn73ZQM/ts
 DROP	PLACEHOLDER	attempt_1_master_is_not_m3u	ТНТ	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt0p-aTT-iCa4pGvLxG9pLeI/ts
@@ -135,10 +135,10 @@ DROP	PLACEHOLDER	attempt_1_child_is_not_valid_hls	Мужское кино	https:
 DROP	PLACEHOLDER	attempt_1_bad_child_body	Мужское кино	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt4L8rE8gKWmI-agYDrkBvsw/ts
 DROP	PLACEHOLDER	attempt_1_bad_child_body	Мужское кино	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltzAtvyBi-L-VVpgpO9z6_0c/ts
 DROP	PLACEHOLDER	attempt_1_child_is_not_valid_hls	Киносвидание	https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
-DROP	PLACEHOLDER	attempt_1_bad_child_body	Киносвидание	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt6wIqsFWKveSh_sU94XVUYo/ts
-DROP	PLACEHOLDER	attempt_1_bad_child_body	Киносвидание	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltxSKpw5WIAT0eqY-goIZdaU/ts
+DROP	PLACEHOLDER	attempt_1_child_is_not_valid_hls	Киносвидание	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt6wIqsFWKveSh_sU94XVUYo/ts
+DROP	PLACEHOLDER	attempt_1_master_is_not_m3u	Киносвидание	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltxSKpw5WIAT0eqY-goIZdaU/ts
 DROP	PLACEHOLDER	attempt_1_child_is_not_valid_hls	Киносемья	https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
-DROP	PLACEHOLDER	attempt_1_bad_child_body	Киносемья	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt58gohH0cx8ZbPaa9uCkEuk/ts
+DROP	PLACEHOLDER	attempt_1_master_is_not_m3u	Киносемья	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt58gohH0cx8ZbPaa9uCkEuk/ts
 DROP	PLACEHOLDER	attempt_1_child_is_not_valid_hls	Кинопоказ	https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 DROP	PLACEHOLDER	attempt_1_child_is_not_valid_hls	Дом кино	https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 DROP	PLACEHOLDER	attempt_1_master_is_not_m3u	Дом кино	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt7ApAXLL_sBp32Q2OcjMFnw/ts
@@ -163,7 +163,7 @@ KEEP	OK	ok_after_rechecks	ТНТ MUSIC	http://168.119.58.242:80/play/f_BX1L0-rdI
 DROP	PLACEHOLDER	attempt_1_bad_master_body	Europa Plus TV	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt2WVmZe6qTCnPqKaw-TQXqw/ts
 DROP	PLACEHOLDER	attempt_1_bad_child_body	Bridge TV	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt6NYD5dE6StHV4q9GL-leHA/ts
 DROP	PLACEHOLDER	attempt_1_bad_child_body	Travel+Adventure	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt5AvLYunWa-_zpc2xY0SHqs/ts
-DROP	PLACEHOLDER	attempt_1_bad_child_body	Travel+Adventure	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt8LvbF4qX76ohZp7SDBqf_k/ts
+DROP	PLACEHOLDER	attempt_1_master_is_not_m3u	Travel+Adventure	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt8LvbF4qX76ohZp7SDBqf_k/ts
 DROP	PLACEHOLDER	attempt_1_child_is_not_valid_hls	Viasat Explore	https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
 DROP	PLACEHOLDER	attempt_1_bad_child_body	Viasat Explore	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt-SreiqAtl5PccteSgMk-cE/ts
 DROP	PLACEHOLDER	attempt_1_bad_child_body	Viasat Explore	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt7ync981bx8gwngCFdzcn1w/ts
@@ -184,7 +184,7 @@ DROP	PLACEHOLDER	attempt_1_bad_child_body	Мультиландия	http://168.11
 DROP	PLACEHOLDER	attempt_1_bad_child_body	Советские мультфильмы	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt7t5Nhw46CGWK7MA8cEznso/ts
 DROP	PLACEHOLDER	attempt_1_child_is_not_valid_hls	Кинокомедия	https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
 DROP	PLACEHOLDER	attempt_1_master_is_not_m3u	Кинокомедия	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt1uEOqOgJGd0pDmYdZDfmNQ/ts
-DROP	PLACEHOLDER	attempt_1_bad_child_body	Кинокомедия	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt3EFndlG2_ETR2QoDc5osrc/ts
+DROP	PLACEHOLDER	attempt_1_master_is_not_m3u	Кинокомедия	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt3EFndlG2_ETR2QoDc5osrc/ts
 DROP	PLACEHOLDER	attempt_1_child_is_not_valid_hls	Киномикс	https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
 DROP	PLACEHOLDER	attempt_1_child_is_not_valid_hls	Киномикс	http://stream1.cinerama.uz/1233/tracks-v1a1/mono.m3u8
 DROP	PLACEHOLDER	attempt_1_master_is_not_m3u	Киномикс	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt0x9zE_FVElcmUuazSYoLdA/ts
