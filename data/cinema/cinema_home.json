@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T17:52:34+00:00",
+  "generatedAt": "2026-08-09T18:10:59+00:00",
   "catalog": "cinema_catalog.json",
   "sections": [
     {
@@ -30,6 +30,8 @@
       "title": "Новинки кино",
       "type": "poster_row",
       "itemIds": [
+        "tmdb_movie_82023",
+        "tmdb_movie_1278",
         "tmdb_movie_1516456",
         "tmdb_movie_1550062",
         "tmdb_movie_1273684",
@@ -87,9 +89,7 @@
         "tmdb_movie_718930",
         "tmdb_movie_1125510",
         "tmdb_movie_148265",
-        "tmdb_movie_9552",
-        "tmdb_movie_840705",
-        "tmdb_movie_185"
+        "tmdb_movie_9552"
       ]
     },
     {
@@ -248,8 +248,8 @@
         "tmdb_tv_27660",
         "tmdb_tv_232230",
         "tmdb_tv_1429",
-        "tmdb_tv_60625",
         "tmdb_tv_138502",
+        "tmdb_tv_60625",
         "tmdb_tv_92685",
         "tmdb_tv_42573",
         "tmdb_tv_46298",
@@ -298,6 +298,8 @@
       "title": "Фильмы",
       "type": "poster_row",
       "itemIds": [
+        "tmdb_movie_1278",
+        "tmdb_movie_82023",
         "tmdb_movie_1516456",
         "tmdb_movie_1550062",
         "tmdb_movie_1273684",
@@ -355,9 +357,7 @@
         "tmdb_movie_718930",
         "tmdb_movie_9552",
         "tmdb_movie_148265",
-        "tmdb_movie_1125510",
-        "tmdb_movie_185",
-        "tmdb_movie_840705"
+        "tmdb_movie_1125510"
       ]
     },
     {
@@ -566,6 +566,7 @@
       "title": "Документальное кино",
       "type": "poster_row",
       "itemIds": [
+        "tmdb_movie_1781",
         "tmdb_movie_890825",
         "tmdb_movie_1327198",
         "tmdb_movie_1462146",
