@@ -1,14 +1,14 @@
 {
   "app": "TVbox",
   "schema_version": 1,
-  "generated_at": "2026-08-11 16:24:10 +04",
+  "generated_at": "2026-08-11 20:24:07 +04",
   "current_catalog": "stable",
   "min_app_version": "2.0.2",
   "latest_app_version": "2.0.2",
   "catalog": {
-    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_auto_final_test.m3u?v=20260811_162410",
-    "catalog_json_url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/catalog.json?v=20260811_162410",
-    "streams": 924,
+    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_auto_final_test.m3u?v=20260811_202407",
+    "catalog_json_url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/catalog.json?v=20260811_202407",
+    "streams": 926,
     "lime_streams": 0,
     "cache_seconds": 300
   },
@@ -27,7 +27,7 @@
     "lime_summary": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_canonical_lime_priority_summary.txt"
   },
   "update": {
-    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/apk/TVbox_2.0.2.apk?v=20260811_162410",
+    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/apk/TVbox_2.0.2.apk?v=20260811_202407",
     "message": "Вышла TVbox 2.0.2 с улучшенной совместимостью воспроизведения. Установите обновление для продолжения работы."
   }
 }
