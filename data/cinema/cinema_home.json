@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T21:52:10+00:00",
+  "generatedAt": "2026-08-11T22:20:36+00:00",
   "catalog": "cinema_catalog.json",
   "sections": [
     {
@@ -97,6 +97,8 @@
       "title": "Новые серии и сезоны",
       "type": "poster_row",
       "itemIds": [
+        "tmdb_tv_16321",
+        "tmdb_tv_1639",
         "tmdb_tv_1431",
         "tmdb_tv_1418",
         "tmdb_tv_1420",
@@ -154,9 +156,7 @@
         "tmdb_tv_45",
         "tmdb_tv_4482",
         "tmdb_tv_39340",
-        "tmdb_tv_43901",
-        "tmdb_tv_44549",
-        "tmdb_tv_83867"
+        "tmdb_tv_43901"
       ]
     },
     {
@@ -365,6 +365,8 @@
       "title": "Сериалы",
       "type": "poster_row",
       "itemIds": [
+        "tmdb_tv_1639",
+        "tmdb_tv_16321",
         "tmdb_tv_1418",
         "tmdb_tv_1431",
         "tmdb_tv_1420",
@@ -422,9 +424,7 @@
         "tmdb_tv_4482",
         "tmdb_tv_43901",
         "tmdb_tv_45",
-        "tmdb_tv_39340",
-        "tmdb_tv_83867",
-        "tmdb_tv_44549"
+        "tmdb_tv_39340"
       ]
     },
     {
@@ -499,6 +499,7 @@
       "title": "Мультсериалы",
       "type": "poster_row",
       "itemIds": [
+        "tmdb_tv_1567",
         "tmdb_tv_14451",
         "tmdb_tv_13943",
         "tmdb_tv_12598",
@@ -557,8 +558,7 @@
         "tmdb_tv_248947",
         "tmdb_tv_606",
         "tmdb_tv_13339",
-        "tmdb_tv_93653",
-        "tmdb_tv_63087"
+        "tmdb_tv_93653"
       ]
     },
     {
