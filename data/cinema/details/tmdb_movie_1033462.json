@@ -11,27 +11,6 @@
     "backdrop": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/cinema/backdrops/tmdb_movie_1033462.jpg",
     "sources": [
       {
-        "name": "DVO | Колобок",
-        "format": "hls",
-        "sourceId": "zetflix:movie:1:1080p:4",
-        "voiceId": "1",
-        "voiceName": "DVO | Колобок",
-        "provider": "zetflix",
-        "resolverType": "zetflix",
-        "resolverData": {
-          "kind": "movie",
-          "iframe": "https://54243ba5.obrut.show/embed/AO/kinopoisk/gNzIDO1ITM/",
-          "voice": "DVO | Колобок"
-        },
-        "headers": {
-          "Referer": "https://go.zet-flix.online/",
-          "Origin": "https://go.zet-flix.online"
-        },
-        "drm": false,
-        "quality": "1080p",
-        "language": "ru"
-      },
-      {
         "name": "Авто",
         "format": "hls",
         "sourceId": "collaps:stravers:movie",
@@ -49,85 +28,6 @@
         },
         "drm": false,
         "quality": "1080",
-        "language": "ru"
-      },
-      {
-        "name": "DVO | Колобок",
-        "format": "hls",
-        "sourceId": "zetflix:movie:1:720p:3",
-        "voiceId": "1",
-        "voiceName": "DVO | Колобок",
-        "provider": "zetflix",
-        "resolverType": "zetflix",
-        "resolverData": {
-          "kind": "movie",
-          "iframe": "https://54243ba5.obrut.show/embed/AO/kinopoisk/gNzIDO1ITM/",
-          "voice": "DVO | Колобок"
-        },
-        "headers": {
-          "Referer": "https://go.zet-flix.online/",
-          "Origin": "https://go.zet-flix.online"
-        },
-        "drm": false,
-        "quality": "720p",
-        "language": "ru"
-      },
-      {
-        "name": "DVO | Колобок",
-        "format": "hls",
-        "sourceId": "zetflix:movie:1:480p:2",
-        "voiceId": "1",
-        "voiceName": "DVO | Колобок",
-        "provider": "zetflix",
-        "resolverType": "zetflix",
-        "resolverData": {
-          "kind": "movie",
-          "iframe": "https://54243ba5.obrut.show/embed/AO/kinopoisk/gNzIDO1ITM/",
-          "voice": "DVO | Колобок"
-        },
-        "headers": {
-          "Referer": "https://go.zet-flix.online/",
-          "Origin": "https://go.zet-flix.online"
-        },
-        "drm": false,
-        "quality": "480p",
-        "language": "ru"
-      },
-      {
-        "name": "DVO | Колобок",
-        "format": "hls",
-        "sourceId": "zetflix:movie:1:360p:1",
-        "voiceId": "1",
-        "voiceName": "DVO | Колобок",
-        "provider": "zetflix",
-        "resolverType": "zetflix",
-        "resolverData": {
-          "kind": "movie",
-          "iframe": "https://54243ba5.obrut.show/embed/AO/kinopoisk/gNzIDO1ITM/",
-          "voice": "DVO | Колобок"
-        },
-        "headers": {
-          "Referer": "https://go.zet-flix.online/",
-          "Origin": "https://go.zet-flix.online"
-        },
-        "drm": false,
-        "quality": "360p",
-        "language": "ru"
-      },
-      {
-        "name": "Многоголосый | Студия Колобок",
-        "format": "hls",
-        "sourceId": "cdnvideohub:movie:1:ca2caadf47b6",
-        "voiceId": "1",
-        "provider": "cdnvideohub",
-        "resolverType": "cdnvideohub",
-        "resolverData": {
-          "kind": "movie",
-          "iframe": "8710000761562",
-          "voice": "Многоголосый | Студия Колобок"
-        },
-        "voiceName": "Многоголосый | Студия Колобок",
-        "drm": false,
         "language": "ru"
       }
     ],
