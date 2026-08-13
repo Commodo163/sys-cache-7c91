@@ -194,8 +194,8 @@ cat > "$DATA/app_config.json" <<EOF
   "schema_version": 1,
   "generated_at": "$GENERATED_AT",
   "current_catalog": "stable",
-  "min_app_version": "2.0.3",
-  "latest_app_version": "2.0.3",
+  "min_app_version": "2.0.4",
+  "latest_app_version": "2.0.4",
   "catalog": {
     "url": "$TVBOX_M3U_URL",
     "catalog_json_url": "$CATALOG_JSON_URL",
@@ -218,8 +218,8 @@ cat > "$DATA/app_config.json" <<EOF
     "lime_summary": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_canonical_lime_priority_summary.txt"
   },
   "update": {
-    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/apk/TVbox_2.0.3.apk?v=$CATALOG_VERSION",
-    "message": "Вышла TVbox 2.0.3 с быстрым запуском телевидения и улучшениями интерфейса. Установите обновление для продолжения работы."
+    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/apk/TVbox_2.0.4.apk?v=$CATALOG_VERSION",
+    "message": "Вышла TVbox 2.0.4 с более быстрым восстановлением воспроизведения при зависании потока. Установите обновление для продолжения работы."
   }
 }
 EOF
