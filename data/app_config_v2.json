@@ -1,20 +1,20 @@
 {
   "app": "TVbox",
   "schema_version": 1,
-  "generated_at": "2026-08-28T20:19:10Z",
+  "generated_at": "2026-08-29 01:14:39 +04",
   "current_catalog": "stable",
   "min_app_version": "2.1.2",
   "latest_app_version": "2.1.2",
   "catalog": {
-    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/3aae85ca8243d5311df7df36554e4f5bbdb95872/data/tvbox_auto_final_test.m3u",
-    "catalog_json_url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/catalog.json?v=20260827_163108",
-    "streams": 1045,
+    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_auto_final_test.m3u?v=20260829_011439",
+    "catalog_json_url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/catalog.json?v=20260829_011439",
+    "streams": 855,
     "lime_streams": 0,
     "cache_seconds": 300
   },
   "public_playlist": {
     "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/index.dat",
-    "streams": 11847
+    "streams": 6129
   },
   "epg": {
     "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_epg_romantica.xml.gz",
@@ -27,7 +27,7 @@
     "lime_summary": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_canonical_lime_priority_summary.txt"
   },
   "update": {
-    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/apk/TVbox_2.1.2.apk?v=20260827_163108",
+    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/apk/TVbox_2.1.2.apk?v=20260829_011439",
     "message": "Вышла TVbox 2.1.1 с улучшениями экосистемы TVboxHome, интерфейса и стабильности."
   }
 }
