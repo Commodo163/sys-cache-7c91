@@ -7,27 +7,27 @@
   "latest_app_version": "2.1.2",
   "catalog": {
     "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@f0919c3ce28660c735dfebebb18638b98ad61ae3/data/tvbox_auto_final_test.m3u",
-    "catalog_json_url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/catalog.json?v=20260829_091430",
+    "catalog_json_url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/catalog.json?v=20260829_132900",
     "streams": 936,
     "lime_streams": 0,
     "cache_seconds": 300
   },
   "public_playlist": {
-    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/index.dat",
+    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/index.dat?v=20260829_132900",
     "streams": 6129
   },
   "epg": {
-    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_epg_romantica.xml.gz",
-    "summary_url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_epg_summary.txt",
+    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_epg_romantica.xml.gz?v=20260829_132900",
+    "summary_url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_epg_summary.txt?v=20260829_132900",
     "cache_hours": 12
   },
   "reports": {
-    "status": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_status.txt",
-    "summary": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_canonical_summary.txt",
-    "lime_summary": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_canonical_lime_priority_summary.txt"
+    "status": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_status.txt?v=20260829_132900",
+    "summary": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_canonical_summary.txt?v=20260829_132900",
+    "lime_summary": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_canonical_lime_priority_summary.txt?v=20260829_132900"
   },
   "update": {
-    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/apk/TVbox_2.1.2.apk?v=20260829_091430",
+    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/apk/TVbox_2.1.2.apk?v=20260829_132900",
     "message": "Вышла TVbox 2.1.1 с улучшениями экосистемы TVboxHome, интерфейса и стабильности."
   }
 }

@@ -204,21 +204,21 @@ cat > "$DATA/app_config.json" <<EOF
     "cache_seconds": 300
   },
   "public_playlist": {
-    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/index.dat",
+    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/index.dat?v=$CATALOG_VERSION",
     "streams": $PUBLIC_STREAMS
   },
   "epg": {
-    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_epg_romantica.xml.gz",
-    "summary_url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_epg_summary.txt",
+    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_epg_romantica.xml.gz?v=$CATALOG_VERSION",
+    "summary_url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_epg_summary.txt?v=$CATALOG_VERSION",
     "cache_hours": 12
   },
   "reports": {
-    "status": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_status.txt",
-    "summary": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_canonical_summary.txt",
-    "lime_summary": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_canonical_lime_priority_summary.txt"
+    "status": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_status.txt?v=$CATALOG_VERSION",
+    "summary": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_canonical_summary.txt?v=$CATALOG_VERSION",
+    "lime_summary": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_canonical_lime_priority_summary.txt?v=$CATALOG_VERSION"
   },
   "update": {
-    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/apk/TVbox_2.1.2.apk?v=$CATALOG_VERSION",
+    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/apk/TVbox_2.1.2.apk?v=$CATALOG_VERSION",
     "message": "Вышла TVbox 2.1.1 с улучшениями экосистемы TVboxHome, интерфейса и стабильности."
   }
 }
@@ -237,24 +237,24 @@ TVbox Server Status
 Generated at: $(date '+%Y-%m-%d %H:%M:%S %Z')
 
 Catalog:
-- URL: https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_romantica.m3u
+- URL: https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_romantica.m3u
 - Streams: $(grep -c '^#EXTINF' "$DATA/tvbox.m3u" 2>/dev/null || echo 0)
 
 Public playlist:
-- URL: https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/index.dat
+- URL: https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/index.dat
 - Streams: $(grep -c '^#EXTINF' "$DATA/index.dat" 2>/dev/null || echo 0)
 
 EPG:
-- URL: https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_epg_romantica.xml.gz
-- Summary: https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_epg_summary.txt
+- URL: https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_epg_romantica.xml.gz
+- Summary: https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_epg_summary.txt
 
 Reports:
-- Canonical summary: https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_canonical_summary.txt
-- Lime summary: https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_canonical_lime_priority_summary.txt
+- Canonical summary: https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_canonical_summary.txt
+- Lime summary: https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_canonical_lime_priority_summary.txt
 
 App config:
-- URL: https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/app_config.json
-- URL v2: https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/app_config_v2.json
+- URL: https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/app_config.json
+- URL v2: https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/app_config_v2.json
 EOF
 
 git add \
@@ -281,7 +281,7 @@ fi
 
 echo "$LOG_PREFIX remote public check"
 
-REMOTE_COUNT=$(curl -L -s --max-time 30 https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/index.dat | grep -c "^#EXTINF" || true)
+REMOTE_COUNT=$(curl -L -s --max-time 30 https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/index.dat | grep -c "^#EXTINF" || true)
 echo "$LOG_PREFIX remote public count=$REMOTE_COUNT"
 
 if [ "$REMOTE_COUNT" -lt 5000 ]; then
@@ -289,7 +289,7 @@ if [ "$REMOTE_COUNT" -lt 5000 ]; then
   exit 1
 fi
 
-REMOTE_BAD=$(curl -L -s --max-time 30 https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/index.dat \
+REMOTE_BAD=$(curl -L -s --max-time 30 https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/index.dat \
   | grep -Ei "$BAD_FILTER" \
   | head -1 || true)
 
@@ -307,7 +307,7 @@ REMOTE_TVBOX_LAST_RC=1
 for REMOTE_ATTEMPT in 1 2 3 4 5 6 7 8 9 10; do
   echo "$LOG_PREFIX remote TVbox check attempt $REMOTE_ATTEMPT/10"
 
-  curl -L -s --max-time 30 "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_romantica.m3u?remote_tvbox_check=$(date +%s)_$REMOTE_ATTEMPT" \
+  curl -L -s --max-time 30 "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_romantica.m3u?remote_tvbox_check=$(date +%s)_$REMOTE_ATTEMPT" \
     -o /tmp/tvbox_remote_auto_check.m3u
 
   REMOTE_TVBOX_COUNT=$(grep -c "^#EXTINF" /tmp/tvbox_remote_auto_check.m3u || true)
