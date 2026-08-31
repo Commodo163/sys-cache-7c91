@@ -1,7 +1,7 @@
 {
   "app": "TVbox",
   "schema_version": 1,
-  "generated_at": "2026-08-31 08:11:30 +04",
+  "generated_at": "2026-08-31 11:45:00 +04",
   "current_catalog": "stable",
   "min_app_version": "2.1.2",
   "latest_app_version": "2.1.2",
@@ -17,8 +17,8 @@
     "streams": 10886
   },
   "epg": {
-    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_epg_romantica.xml.gz?v=20260831_081130",
-    "summary_url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_epg_summary.txt?v=20260831_081130",
+    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@e5cb4a610d236c8e552bd7f7f2d8bed3739d496b/data/tvbox_epg_romantica.xml.gz",
+    "summary_url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@e5cb4a610d236c8e552bd7f7f2d8bed3739d496b/data/tvbox_epg_summary.txt",
     "cache_hours": 12
   },
   "reports": {
