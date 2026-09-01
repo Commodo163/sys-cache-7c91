@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T10:24:58+00:00",
+  "generatedAt": "2026-09-01T14:03:56+00:00",
   "catalog": "cinema_catalog.json",
   "sections": [
     {
@@ -388,6 +388,10 @@
       "title": "Мультфильмы",
       "type": "poster_row",
       "itemIds": [
+        "tmdb_movie_15227",
+        "tmdb_movie_1362",
+        "tmdb_movie_126741",
+        "tmdb_movie_11837",
         "tmdb_movie_81553",
         "tmdb_movie_80607",
         "tmdb_movie_81850",
@@ -443,11 +447,7 @@
         "tmdb_movie_646949",
         "tmdb_movie_62181",
         "tmdb_movie_60777",
-        "tmdb_movie_602704",
-        "tmdb_movie_582402",
-        "tmdb_movie_594605",
-        "tmdb_movie_55374",
-        "tmdb_movie_56127"
+        "tmdb_movie_602704"
       ]
     },
     {
@@ -522,6 +522,7 @@
       "title": "Документальное кино",
       "type": "poster_row",
       "itemIds": [
+        "tmdb_movie_14336",
         "tmdb_movie_47894",
         "tmdb_movie_44645",
         "tmdb_movie_1563",
@@ -580,8 +581,7 @@
         "tmdb_movie_38879",
         "tmdb_movie_37757",
         "tmdb_movie_36970",
-        "tmdb_movie_37659",
-        "tmdb_movie_36569"
+        "tmdb_movie_37659"
       ]
     }
   ]
