@@ -1,7 +1,7 @@
 {
   "app": "TVbox",
   "schema_version": 1,
-  "generated_at": "2026-09-02T07:23:07Z",
+  "generated_at": "2026-09-02 12:11:57 +04",
   "current_catalog": "stable",
   "min_app_version": "2.1.2",
   "latest_app_version": "2.1.2",
@@ -13,21 +13,21 @@
     "cache_seconds": 300
   },
   "public_playlist": {
-    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/index.dat?v=20260902_081201",
-    "streams": 10887
+    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/index.dat?v=20260902_121157",
+    "streams": 11022
   },
   "epg": {
-    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_epg_romantica.xml.gz?v=20260902_081201",
-    "summary_url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_epg_summary.txt?v=20260902_081201",
+    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_epg_romantica.xml.gz?v=20260902_121157",
+    "summary_url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_epg_summary.txt?v=20260902_121157",
     "cache_hours": 12
   },
   "reports": {
-    "status": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_status.txt?v=20260902_081201",
-    "summary": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_canonical_summary.txt?v=20260902_081201",
-    "lime_summary": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_canonical_lime_priority_summary.txt?v=20260902_081201"
+    "status": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_status.txt?v=20260902_121157",
+    "summary": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_canonical_summary.txt?v=20260902_121157",
+    "lime_summary": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_canonical_lime_priority_summary.txt?v=20260902_121157"
   },
   "update": {
-    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/apk/TVbox_2.1.2.apk?v=20260902_081201",
+    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/apk/TVbox_2.1.2.apk?v=20260902_121157",
     "message": "Вышла TVbox 2.1.1 с улучшениями экосистемы TVboxHome, интерфейса и стабильности."
   }
 }
