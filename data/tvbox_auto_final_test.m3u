@@ -37,8 +37,6 @@ http://77.106.252.178:4022/udp/233.33.210.86:5050
 #EXTINF:-1 tvg-id="Первый канал" tvg-name="Первый канал" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Федеральные",Первый канал
 http://94.250.255.172/ptv/vitrina/ch.php?id=aHR0cHM6Ly9tZWRpYS5tZWRpYXZpdHJpbmEucnUvYmFsYW5jZXIvdjMvMXR2LzF0dmNoL3N0cmVhbXMuanNvbg
 #EXTINF:-1 tvg-id="Первый канал" tvg-name="Первый канал" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Федеральные",Первый канал
-http://95.215.124.204:5000/udp/225.1.2.1:1234
-#EXTINF:-1 tvg-id="Первый канал" tvg-name="Первый канал" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Федеральные",Первый канал
 http://95.47.155.244:8001/play/a001
 #EXTINF:-1 tvg-id="Первый канал" tvg-name="Первый канал" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Федеральные",Первый канал
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031906&extension=ts&play_token=u76EuhnWWk
@@ -198,7 +196,7 @@ https://tvsen5.aynaott.com/JHPxHAWonztVucyc4GzF/index.m3u8
 #EXTINF:-1 tvg-id="НТВ" tvg-name="НТВ" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Федеральные",НТВ
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="НТВ" tvg-name="НТВ" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Федеральные",НТВ
-https://yuppnimresmum.akamaized.net/110322/ntv/playlist.m3u8?ads.channel=228&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1788293164~exp=1788314764~acl=!*/110322/ntv/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_13.86.240.213_yuppfast_2_channel_100_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_13.86.240.213_yuppfast_2_channel_100_-1~hmac=58e8d0e3381411a0449e7f890378e37aca9c7ec8189d2d4ad756b00a3ccb7ae6&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=NTV&ads.language=TEL&ads.user=0
+https://yuppnimresmum.akamaized.net/110322/ntv/playlist.m3u8?ads.channel=228&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1788310559~exp=1788332159~acl=!*/110322/ntv/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.173.237.44_yuppfast_2_channel_100_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.173.237.44_yuppfast_2_channel_100_-1~hmac=493edaab1972d6e88e9615384e86a2c06d58d2376b579eaa407e92b19847c8c9&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=NTV&ads.language=TEL&ads.user=0
 #EXTINF:-1 tvg-id="НТВ" tvg-name="НТВ" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Федеральные",НТВ
 http://31.210.208.171:8080/ntv/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="НТВ" tvg-name="НТВ" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Федеральные",НТВ
@@ -211,6 +209,8 @@ http://195.64.140.147:10004/994
 http://95.215.124.204:5000/udp/225.1.2.6:1234
 #EXTINF:-1 tvg-id="НТВ" tvg-name="НТВ" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Федеральные",НТВ
 http://95.47.155.244:8001/play/a004
+#EXTINF:-1 tvg-id="НТВ" tvg-name="НТВ" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Федеральные",НТВ
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031879&extension=ts&play_token=DSxpR4YJOT
 #EXTINF:-1 tvg-id="НТВ" tvg-name="НТВ" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Федеральные",НТВ
 http://mfe01.cliptv.az/dash/HTB_HDdhh020500.ism/playlist.mpd
 #EXTINF:-1 tvg-id="Пятый канал" tvg-name="Пятый канал" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" group-title="Федеральные" catchup="tvbox-dynamic" catchup-days="1" catchup-source="https://flussonic.mkpnet.ru/tv-a5ff8c7a86c8b951/archive-{utc}-{duration}.m3u8" catchup-offset="0",Пятый канал
@@ -246,7 +246,7 @@ http://95.47.155.244:8001/play/a005
 http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=384898&extension=ts
 #EXTINF:-1 tvg-id="Пятый канал" tvg-name="Пятый канал" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" group-title="Федеральные",Пятый канал
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031963&extension=ts&play_token=dtQnRyx2XK
-#EXTINF:-1 tvg-id="Россия К" tvg-name="Россия К" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="Федеральные",Россия К
+#EXTINF:-1 tvg-id="Россия К" tvg-name="Россия К" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="Федеральные" catchup="tvbox-dynamic" catchup-days="1" catchup-source="https://flussonic.mkpnet.ru/tv-111deaa2142146ee/archive-{utc}-{duration}.m3u8" catchup-offset="0",Россия К
 https://flussonic.mkpnet.ru/tv-111deaa2142146ee/video.m3u8
 #EXTINF:-1 tvg-id="Россия К" tvg-name="Россия К" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="Федеральные",Россия К
 http://31.131.141.195:8000/play/1060/index.m3u8
@@ -264,6 +264,9 @@ https://live.smotrim.ru/vgtrk/0/kultura-hd/track_105_319a299f/chunklist.m3u8
 #EXTVLCOPT:http-origin=https://limehd.tv
 https://mhd116.iptv2022.com/x/HCRMvxy-QG7kYsvY9B3-dQ,1788374800/streaming/rossiak/324/5/index.m3u8
 #EXTINF:-1 tvg-id="Россия К" tvg-name="Россия К" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="Федеральные",Россия К
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/9-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-id="Россия К" tvg-name="Россия К" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="Федеральные",Россия К
 http://31.210.208.171:8080/russiak/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="Россия К" tvg-name="Россия К" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="Федеральные" catchup="tvbox-dynamic" catchup-days="1" catchup-source="https://fs.uplink.kz/rossia_k/archive-{utc}-{duration}.m3u8?token=onlinetv" catchup-offset="0",Россия К
 https://fs.uplink.kz/rossia_k/mono.m3u8?token=onlinetv
@@ -275,6 +278,8 @@ http://194.158.222.36:6037/
 http://195.64.140.147:10006/996
 #EXTINF:-1 tvg-id="Россия К" tvg-name="Россия К" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="Федеральные",Россия К
 http://95.215.124.204:5000/udp/225.1.2.4:1234
+#EXTINF:-1 tvg-id="Россия К" tvg-name="Россия К" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="Федеральные",Россия К
+http://95.47.155.244:8001/play/a006
 #EXTINF:-1 tvg-id="Россия 24" tvg-name="Россия 24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Федеральные" catchup="tvbox-dynamic" catchup-days="1" catchup-source="https://flussonic.mkpnet.ru/tv-6c5b49dbcf811fc6/archive-{utc}-{duration}.m3u8" catchup-offset="0",Россия 24
 https://flussonic.mkpnet.ru/tv-6c5b49dbcf811fc6/video.m3u8
 #EXTINF:-1 tvg-id="Россия 24" tvg-name="Россия 24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Федеральные",Россия 24
@@ -296,6 +301,8 @@ https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTVLCOPT:http-origin=https://limehd.tv
 https://mhd116.iptv2022.com/x/Q9jZoAJEXRfCVbV3t7_q0g,1788374800/streaming/rossia24nn/324/5/index.m3u8
 #EXTINF:-1 tvg-id="Россия 24" tvg-name="Россия 24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Федеральные",Россия 24
+https://streaming.televizor-24-tochka.ru/live/30.m3u8
+#EXTINF:-1 tvg-id="Россия 24" tvg-name="Россия 24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Федеральные",Россия 24
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.thestream.cyou/live/30-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="Россия 24" tvg-name="Россия 24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Федеральные",Россия 24
@@ -312,8 +319,6 @@ http://195.64.140.147:10007/997
 http://91.210.192.13:1000/russia-24
 #EXTINF:-1 tvg-id="Россия 24" tvg-name="Россия 24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Федеральные",Россия 24
 http://95.215.124.204:5000/udp/225.1.2.9:1234
-#EXTINF:-1 tvg-id="Россия 24" tvg-name="Россия 24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Федеральные",Россия 24
-http://95.47.155.244:8001/play/a007
 #EXTINF:-1 tvg-id="Россия 24" tvg-name="Россия 24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Федеральные",Россия 24
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031894&extension=ts&play_token=bPKqd5YmcE
 #EXTINF:-1 tvg-id="Карусель" tvg-name="Карусель" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Федеральные" catchup="tvbox-dynamic" catchup-days="1" catchup-source="https://flussonic.mkpnet.ru/tv-132f51b35b47b897/archive-{utc}-{duration}.m3u8" catchup-offset="0",Карусель
@@ -457,6 +462,9 @@ http://arbiter.bolshoe.tv/?path=streaming/rentv/71/tvrec/playlist.m3u8&&wmsAuthS
 #EXTVLCOPT:http-origin=https://limehd.tv
 https://mhd116.iptv2022.com/x/ypZCZmAKS87lqLgbkhqmeg,1788374800/streaming/rentvott/324/5/index.m3u8
 #EXTINF:-1 tvg-id="РЕН ТВ" tvg-name="РЕН ТВ" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="Федеральные",РЕН ТВ
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/14-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-id="РЕН ТВ" tvg-name="РЕН ТВ" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="Федеральные",РЕН ТВ
 http://31.210.208.171:8080/ren/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="РЕН ТВ" tvg-name="РЕН ТВ" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="Федеральные",РЕН ТВ
 https://edge04p.mediavitrina.ru/hls-livef5/ren-tv/index.m3u8?token=v2.2yB9wmgv8iPcydpK2gqStpyYIB_M9r1rDQBqALZR2Rs.3akk9NbBw4A8e1mMOzhQ_5jpqdKv4ux93knoMVsQRTI.1788896290.9bafb5161ca57d360265adb382d7d183
@@ -546,6 +554,8 @@ http://185.46.16.239:8000/STS
 #EXTINF:-1 tvg-id="СТС" tvg-name="СТС" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Федеральные",СТС
 http://195.64.140.147:10013/9913
 #EXTINF:-1 tvg-id="СТС" tvg-name="СТС" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Федеральные",СТС
+http://95.215.124.204:5000/udp/225.1.2.12:1234
+#EXTINF:-1 tvg-id="СТС" tvg-name="СТС" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Федеральные",СТС
 http://95.47.155.244:8001/play/a013
 #EXTINF:-1 tvg-id="СТС" tvg-name="СТС" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Федеральные",СТС
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031969&extension=ts&play_token=0tW4hDAopr
@@ -573,6 +583,9 @@ http://uiptv.do.am/1ufc/104487210/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://limehd.tv/
 #EXTVLCOPT:http-origin=https://limehd.tv
 https://mhd116.iptv2022.com/x/8mDROIY9M_CzVERnxvHVqw,1788374800/streaming/domashiyott/324/5/index.m3u8
+#EXTINF:-1 tvg-id="Домашний" tvg-name="Домашний" tvg-logo="https://iptvx.one/picons/domashny.png" group-title="Федеральные",Домашний
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/17-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="Домашний" tvg-name="Домашний" tvg-logo="https://iptvx.one/picons/domashny.png" group-title="Федеральные",Домашний
 http://31.210.208.171:8080/home/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="Домашний" tvg-name="Домашний" tvg-logo="https://iptvx.one/picons/domashny.png" group-title="Федеральные",Домашний
@@ -630,7 +643,7 @@ http://95.47.155.244:8001/play/a015
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031885&extension=ts&play_token=YhxnkvOHh3
 #EXTINF:-1 tvg-id="ТВ-3" tvg-name="ТВ-3" tvg-logo="https://iptvx.one/picons/tv3-ru.png" group-title="Федеральные",ТВ-3
 http://mfe01.cliptv.az/dash/TV_3_SDasdqw3qw.ism/playlist.mpd
-#EXTINF:-1 tvg-id="Пятница!" tvg-name="Пятница!" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="Федеральные" catchup="tvbox-dynamic" catchup-days="1" catchup-source="https://flussonic.mkpnet.ru/tv-7d5e5db805057e8f/archive-{utc}-{duration}.m3u8" catchup-offset="0",Пятница!
+#EXTINF:-1 tvg-id="Пятница!" tvg-name="Пятница!" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="Федеральные",Пятница!
 https://flussonic.mkpnet.ru/tv-7d5e5db805057e8f/video.m3u8
 #EXTINF:-1 tvg-id="Пятница!" tvg-name="Пятница!" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="Федеральные",Пятница!
 http://45.145.32.13:20440/piatnica/index.m3u8?token=test
@@ -664,8 +677,6 @@ http://185.46.16.239:8000/Pyatnitsa
 http://195.64.140.147:10015/9915
 #EXTINF:-1 tvg-id="Пятница!" tvg-name="Пятница!" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="Федеральные",Пятница!
 http://95.215.124.204:5000/udp/225.1.2.18:1234
-#EXTINF:-1 tvg-id="Пятница!" tvg-name="Пятница!" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="Федеральные",Пятница!
-http://95.47.155.244:8001/play/a016
 #EXTINF:-1 tvg-id="Пятница!" tvg-name="Пятница!" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="Федеральные",Пятница!
 http://mfe02.cliptv.az/dash/Pyatnica_SDqdhk68w3.ism/playlist.mpd
 #EXTINF:-1 tvg-id="Пятница!" tvg-name="Пятница!" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="Федеральные",Пятница!
@@ -831,6 +842,8 @@ http://stream.mcquack.net/86/index.m3u8
 #EXTVLCOPT:http-origin=https://limehd.tv
 https://mhd116.iptv2022.com/x/tiHbVHZNb1OyTpZoyId2AA,1788374800/streaming/muztv/324/5/index.m3u8
 #EXTINF:-1 tvg-id="Муз-ТВ" tvg-name="Муз-ТВ" tvg-logo="https://iptvx.one/picons/muztv.png" group-title="Федеральные",Муз-ТВ
+https://streaming102.interskytech.com/live/618.m3u8
+#EXTINF:-1 tvg-id="Муз-ТВ" tvg-name="Муз-ТВ" tvg-logo="https://iptvx.one/picons/muztv.png" group-title="Федеральные",Муз-ТВ
 http://95.215.124.204:5000/udp/225.1.2.25:1234
 #EXTINF:-1 tvg-id="Муз-ТВ" tvg-name="Муз-ТВ" tvg-logo="https://iptvx.one/picons/muztv.png" group-title="Федеральные",Муз-ТВ
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=384761&extension=ts&play_token=LTwdiLO7jT
@@ -860,6 +873,8 @@ http://43a94a5e.amazzin.pw/iptv/ECGM77FWEMMA46/10015/index.m3u8
 http://stream.mcquack.net/130/index.m3u8
 #EXTINF:-1 tvg-id="Матч! Футбол 1" tvg-name="Матч! Футбол 1" tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="Спорт",Матч! Футбол 1
 https://cdn.kinolar.workers.dev/MATCH_FUTBOLL_1/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-id="Матч! Футбол 1" tvg-name="Матч! Футбол 1" tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="Спорт",Матч! Футбол 1
+https://cdn.kinolar.workers.dev/MATCH_FUTBOLL_1_HD/mono.m3u8?key=halvatv
 #EXTINF:-1 tvg-id="Матч! Футбол 1" tvg-name="Матч! Футбол 1" tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="Спорт",Матч! Футбол 1
 http://195.64.140.147:10100/100
 #EXTINF:-1 tvg-id="Матч! Футбол 2" tvg-name="Матч! Футбол 2" tvg-logo="https://iptvx.one/picons/match-football2.png" group-title="Спорт",Матч! Футбол 2
@@ -906,8 +921,6 @@ http://45.145.32.13:20440/match_arena/index.m3u8?token=test
 http://45.145.32.13:20440/match_arena_hd/index.m3u8?token=test
 #EXTINF:-1 tvg-id="Матч! Арена" tvg-name="Матч! Арена" tvg-logo="https://iptvx.one/picons/match-arena.png" group-title="Спорт",Матч! Арена
 http://46.8.46.14/arena/index.m3u8
-#EXTINF:-1 tvg-id="Матч! Арена" tvg-name="Матч! Арена" tvg-logo="https://iptvx.one/picons/match-arena.png" group-title="Спорт",Матч! Арена
-http://62.32.84.50:18000/play/a0m1/index.m3u8
 #EXTINF:-1 tvg-id="Матч! Арена" tvg-name="Матч! Арена" tvg-logo="https://iptvx.one/picons/match-arena.png" group-title="Спорт",Матч! Арена
 http://95.181.17.26/dvr02/hd1/sport1HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMjYgNjo0Njo0MiBQTSZoYXNoX3ZhbHVlPUJJbHNubGJVdDhZUGdVRnBKTzVHQUE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 #EXTINF:-1 tvg-id="Матч! Арена" tvg-name="Матч! Арена" tvg-logo="https://iptvx.one/picons/match-arena.png" group-title="Спорт",Матч! Арена
@@ -993,8 +1006,6 @@ http://31.210.208.171:8080/khl/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="kxl" tvg-name="КХЛ" tvg-logo="https://iptvx.one/picons/kxl.png" group-title="Спорт" catchup="tvbox-dynamic" catchup-days="1" catchup-source="https://fs.uplink.kz/telekanal_khl/archive-{utc}-{duration}.m3u8?token=onlinetv" catchup-offset="0",КХЛ
 https://fs.uplink.kz/telekanal_khl/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="kxl" tvg-name="КХЛ" tvg-logo="https://iptvx.one/picons/kxl.png" group-title="Спорт",КХЛ
-http://195.64.140.147:10108/108
-#EXTINF:-1 tvg-id="kxl" tvg-name="КХЛ" tvg-logo="https://iptvx.one/picons/kxl.png" group-title="Спорт",КХЛ
 http://195.64.140.147:10109/109
 #EXTINF:-1 tvg-id="kxl" tvg-name="КХЛ" tvg-logo="https://iptvx.one/picons/kxl.png" group-title="Спорт",КХЛ
 http://95.215.124.204:5000/udp/225.1.2.162:1234
@@ -1027,6 +1038,8 @@ http://stream.mcquack.net/192/index.m3u8
 http://195.64.140.147:10115/115
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2" tvg-logo="https://iptvx.one/picons/eurosport2.png" group-title="Спорт",Eurosport 2
 http://tvpremiumhd.club/lista-gratuita/183007/tv/live.php?id=54995
+#EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2" tvg-logo="https://iptvx.one/picons/eurosport2.png" group-title="Спорт",Eurosport 2
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031934&extension=ts&play_token=3sswe5QZNJ
 #EXTINF:-1 tvg-id="nba-tv-us" tvg-name="NBA TV" tvg-logo="https://iptvx.one/picons/nba-tv-us.png" group-title="Спорт",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=yI7oPuJnV8doblYAV9J7cw&e=2088288540&scheme=https
@@ -1149,7 +1162,7 @@ http://62.32.84.50:18000/play/a0l1/index.m3u8
 https://cdn.kinolar.workers.dev/KinopremieraHD/mono.m3u8?key=halvatv
 #EXTINF:-1 tvg-id="Кинопремьера" tvg-name="Кинопремьера" tvg-logo="https://iptvx.one/picons/kinopremiera.png" group-title="Кино" catchup="tvbox-dynamic" catchup-days="1" catchup-source="https://fs.uplink.kz/kinopremiera_hd/archive-{utc}-{duration}.m3u8?token=onlinetv" catchup-offset="0",Кинопремьера
 https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Кинопремьера" tvg-name="Кинопремьера" tvg-logo="https://iptvx.one/picons/kinopremiera.png" group-title="Кино",Кинопремьера
+#EXTINF:-1 tvg-id="Кинопремьера" tvg-name="Кинопремьера" tvg-logo="https://iptvx.one/picons/kinopremiera.png" group-title="Кино" catchup="tvbox-dynamic" catchup-days="1" catchup-source="https://fs.uplink.kz/kinopremiera_hd/archive-{utc}-{duration}.m3u8?token=onlinetv" catchup-offset="0",Кинопремьера
 https://fs.uplink.kz/kinopremiera_hd/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Кинопремьера" tvg-name="Кинопремьера" tvg-logo="https://iptvx.one/picons/kinopremiera.png" group-title="Кино",Кинопремьера
 http://mfe02.cliptv.az/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
@@ -1193,7 +1206,7 @@ https://cdn.kinolar.workers.dev/Muzskoekino/mono.m3u8?key=halvatv
 https://cdn.kinolar.workers.dev/MuzskoekinoHD/mono.m3u8?key=halvatv
 #EXTINF:-1 tvg-id="Мужское кино" tvg-name="Мужское кино" tvg-logo="https://iptvx.one/picons/muzhskoe-kino.png" group-title="Кино",Мужское кино
 http://31.210.208.171:8080/muzhskoe_kino/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="Мужское кино" tvg-name="Мужское кино" tvg-logo="https://iptvx.one/picons/muzhskoe-kino.png" group-title="Кино",Мужское кино
+#EXTINF:-1 tvg-id="Мужское кино" tvg-name="Мужское кино" tvg-logo="https://iptvx.one/picons/muzhskoe-kino.png" group-title="Кино" catchup="tvbox-dynamic" catchup-days="1" catchup-source="https://fs.uplink.kz/muzhskoe_kino/archive-{utc}-{duration}.m3u8?token=onlinetv" catchup-offset="0",Мужское кино
 https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Мужское кино" tvg-name="Мужское кино" tvg-logo="https://iptvx.one/picons/muzhskoe-kino.png" group-title="Кино",Мужское кино
 http://5.9.11.197:57419/chu-128/mpegts
@@ -1233,8 +1246,10 @@ https://cdn.kinolar.workers.dev/Kinosemya/mono.m3u8?key=halvatv
 https://cdn.kinolar.workers.dev/Kinosemya_HD/mono.m3u8?key=halvatv
 #EXTINF:-1 tvg-id="Киносемья" tvg-name="Киносемья" tvg-logo="https://iptvx.one/picons/kinosemia.png" group-title="Кино",Киносемья
 http://31.210.208.171:8080/kinofamily/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="Киносемья" tvg-name="Киносемья" tvg-logo="https://iptvx.one/picons/kinosemia.png" group-title="Кино",Киносемья
+#EXTINF:-1 tvg-id="Киносемья" tvg-name="Киносемья" tvg-logo="https://iptvx.one/picons/kinosemia.png" group-title="Кино" catchup="tvbox-dynamic" catchup-days="1" catchup-source="https://fs.uplink.kz/kinosemya/archive-{utc}-{duration}.m3u8?token=onlinetv" catchup-offset="0",Киносемья
 https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Киносемья" tvg-name="Киносемья" tvg-logo="https://iptvx.one/picons/kinosemia.png" group-title="Кино",Киносемья
+http://195.64.140.147:10042/42
 #EXTINF:-1 tvg-id="Киносемья" tvg-name="Киносемья" tvg-logo="https://iptvx.one/picons/kinosemia.png" group-title="Кино",Киносемья
 http://5.9.11.197:57419/chu-123/mpegts
 #EXTINF:-1 tvg-id="Киносемья" tvg-name="Киносемья" tvg-logo="https://iptvx.one/picons/kinosemia.png" group-title="Кино",Киносемья
@@ -1293,7 +1308,7 @@ https://cdn.kinolar.workers.dev/KinomiksHD/mono.m3u8?key=halvatv
 https://cdn.kinolar.workers.dev/Kinomix/mono.m3u8?key=halvatv
 #EXTINF:-1 tvg-id="Киномикс" tvg-name="Киномикс" tvg-logo="https://iptvx.one/picons/kinomiks.png" group-title="Кино",Киномикс
 http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="Киномикс" tvg-name="Киномикс" tvg-logo="https://iptvx.one/picons/kinomiks.png" group-title="Кино" catchup="tvbox-dynamic" catchup-days="1" catchup-source="https://fs.uplink.kz/kinomix/archive-{utc}-{duration}.m3u8?token=onlinetv" catchup-offset="0",Киномикс
+#EXTINF:-1 tvg-id="Киномикс" tvg-name="Киномикс" tvg-logo="https://iptvx.one/picons/kinomiks.png" group-title="Кино",Киномикс
 https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Киномикс" tvg-name="Киномикс" tvg-logo="https://iptvx.one/picons/kinomiks.png" group-title="Кино",Киномикс
 http://185.46.16.239:8000/Fox_Life_HD
@@ -1327,6 +1342,8 @@ https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
 http://195.64.140.147:10048/48
 #EXTINF:-1 tvg-id="Киносерия" tvg-name="Киносерия" tvg-logo="https://iptvx.one/picons/kinoseria.png" group-title="Кино",Киносерия
 http://95.215.124.204:5000/udp/225.1.2.149:1234
+#EXTINF:-1 tvg-id="Киносерия" tvg-name="Киносерия" tvg-logo="https://iptvx.one/picons/kinoseria.png" group-title="Кино",Киносерия
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031878&extension=ts&play_token=Bg8gFejbJD
 #EXTINF:-1 tvg-id="Киносерия" tvg-name="Киносерия" tvg-logo="https://iptvx.one/picons/kinoseria.png" group-title="Кино",Киносерия
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031921&extension=ts&play_token=l1ap2Auu6n
 #EXTINF:-1 tvg-id="Киносерия" tvg-name="Киносерия" tvg-logo="https://iptvx.one/picons/kinoseria.png" group-title="Кино",Киносерия
@@ -1382,6 +1399,8 @@ https://cdn.kinolar.workers.dev/DomKino_HD/mono.m3u8?key=halvatv
 #EXTINF:-1 tvg-id="Дом кино" tvg-name="Дом кино" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Кино",Дом кино
 https://cdn.kinolar.workers.dev/Domkino/mono.m3u8?key=halvatv
 #EXTINF:-1 tvg-id="Дом кино" tvg-name="Дом кино" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Кино",Дом кино
+https://streaming.televizor-24-tochka.ru/live/44.m3u8
+#EXTINF:-1 tvg-id="Дом кино" tvg-name="Дом кино" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Кино",Дом кино
 https://streaming.thestream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="Дом кино" tvg-name="Дом кино" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Кино",Дом кино
 https://streaming.thestream.cyou/live/44.m3u8
@@ -1395,6 +1414,8 @@ https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
 http://195.64.140.147:10057/57
 #EXTINF:-1 tvg-id="Дом кино" tvg-name="Дом кино" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Кино",Дом кино
 http://5.9.11.197:57419/chu-111/mpegts
+#EXTINF:-1 tvg-id="Дом кино" tvg-name="Дом кино" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Кино",Дом кино
+http://77.106.252.178:4022/udp/233.33.210.124:5050
 #EXTINF:-1 tvg-id="Дом кино" tvg-name="Дом кино" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Кино",Дом кино
 http://95.215.124.204:5000/udp/225.1.2.122:1234
 #EXTINF:-1 tvg-id="Дом кино" tvg-name="Дом кино" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="Кино",Дом кино
@@ -1431,7 +1452,7 @@ http://31.210.208.171:8080/lubimoe_kino/index.m3u8?token=+W2MSER
 http://195.64.140.147:10091/91
 #EXTINF:-1 tvg-id="Любимое кино" tvg-name="Любимое кино" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png" group-title="Кино",Любимое кино
 http://95.215.124.204:5000/udp/225.1.2.163:1234
-#EXTINF:-1 tvg-id="Еврокино" tvg-name="Еврокино" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="Кино",Еврокино
+#EXTINF:-1 tvg-id="Еврокино" tvg-name="Еврокино" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="Кино" catchup="tvbox-dynamic" catchup-days="1" catchup-source="http://45.145.32.13:20440/eurokino/tracks-v1a1/index-{utc}-{duration}.m3u8?token=test" catchup-offset="0",Еврокино
 http://45.145.32.13:20440/eurokino/index.m3u8?token=test
 #EXTINF:-1 tvg-id="Еврокино" tvg-name="Еврокино" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="Кино" catchup="tvbox-dynamic" catchup-days="1" catchup-source="http://176.118.197.101/Evrokino/archive-{utc}-{duration}.m3u8" catchup-offset="0",Еврокино
 http://176.118.197.101/Evrokino/index.m3u8
@@ -1529,8 +1550,6 @@ http://195.64.140.147:10077/77
 http://77.106.252.178:4022/udp/233.33.210.204:5050
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-name="Русский детектив" tvg-logo="https://iptvx.one/picons/russky-detektiv.png" group-title="Кино",Русский детектив
 http://95.215.124.204:5000/udp/225.1.2.140:1234
-#EXTINF:-1 tvg-id="russky-detektiv" tvg-name="Русский детектив" tvg-logo="https://iptvx.one/picons/russky-detektiv.png" group-title="Кино",Русский детектив
-http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031898&extension=ts&play_token=ZuYKr6Sl47
 #EXTINF:-1 tvg-id="fox" tvg-name="FX" tvg-logo="https://iptvx.one/picons/fox.png" group-title="Кино",FX
 http://46.8.46.14/FOX/index.m3u8
 #EXTINF:-1 tvg-id="fox" tvg-name="FX" tvg-logo="https://iptvx.one/picons/fox.png" group-title="Кино",FX
@@ -1594,6 +1613,10 @@ https://s91030.cdn.ngenix.net/hls/CH_R25_RBKTVHD_VLDK/variant.m3u8
 https://www.rbc-perm.ru/hls/live/index.m3u8
 #EXTINF:-1 tvg-id="РБК" tvg-name="РБК" tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Новости",РБК
 http://31.210.208.171:8080/rbk/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="РБК" tvg-name="РБК" tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Новости",РБК
+http://77.106.252.178:4022/udp/233.33.210.90:5050
+#EXTINF:-1 tvg-id="РБК" tvg-name="РБК" tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Новости",РБК
+http://95.215.124.204:5000/udp/225.1.2.33:1234
 #EXTINF:-1 tvg-id="РБК" tvg-name="РБК" tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Новости",РБК
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031942&extension=ts&play_token=IWd85vLjE3
 #EXTINF:-1 tvg-id="Известия" tvg-name="Известия" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="Новости",Известия
@@ -1741,6 +1764,11 @@ http://62.32.84.50:18000/play/a0ld/index.m3u8
 http://hls127.freeott.top:8080/Bridge_Classic/video.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-classic" tvg-name="BRIDGE CLASSIC" tvg-logo="https://iptvx.one/picons/bridge-tv-classic.png" group-title="Музыка",BRIDGE CLASSIC
 http://stream.mcquack.net/272/index.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-classic" tvg-name="BRIDGE CLASSIC" tvg-logo="https://iptvx.one/picons/bridge-tv-classic.png" group-title="Музыка",BRIDGE CLASSIC
+#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.7","version_code":"507","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
+#EXTVLCOPT:http-referrer=https://limehd.tv/
+#EXTVLCOPT:http-origin=https://limehd.tv
+https://mhd116.iptv2022.com/x/N1nh5EMBw5MMpXDkPnS0PA,1788374800/streaming/br_classic/324/1/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-classic" tvg-name="BRIDGE CLASSIC" tvg-logo="https://iptvx.one/picons/bridge-tv-classic.png" group-title="Музыка" catchup="tvbox-dynamic" catchup-days="1" catchup-source="https://fs.uplink.kz/bridge_classic/archive-{utc}-{duration}.m3u8?token=onlinetv" catchup-offset="0",BRIDGE CLASSIC
 https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="bridge-tv-classic" tvg-name="BRIDGE CLASSIC" tvg-logo="https://iptvx.one/picons/bridge-tv-classic.png" group-title="Музыка",BRIDGE CLASSIC
@@ -1748,7 +1776,17 @@ http://95.215.124.204:5000/udp/225.1.2.71:1234
 #EXTINF:-1 tvg-id="bridge-tv-rock" tvg-name="BRIDGE ROCK" tvg-logo="https://iptvx.one/picons/bridge-tv-rock.png" group-title="Музыка",BRIDGE ROCK
 http://62.32.84.50:18000/play/a0le/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-rock" tvg-name="BRIDGE ROCK" tvg-logo="https://iptvx.one/picons/bridge-tv-rock.png" group-title="Музыка",BRIDGE ROCK
+#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.7","version_code":"507","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
+#EXTVLCOPT:http-referrer=https://limehd.tv/
+#EXTVLCOPT:http-origin=https://limehd.tv
+https://mhd116.iptv2022.com/x/_bdWsJCP85vWIacflfIEjw,1788374800/streaming/br_rock/324/1/index.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-rock" tvg-name="BRIDGE ROCK" tvg-logo="https://iptvx.one/picons/bridge-tv-rock.png" group-title="Музыка",BRIDGE ROCK
 http://31.210.208.171:8080/bridge_rock/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-name="Bridge TV Русский Хит" tvg-logo="https://iptvx.one/picons/bridge-tv-ruxit.png" group-title="Музыка",Bridge TV Русский Хит
+#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.7","version_code":"507","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
+#EXTVLCOPT:http-referrer=https://limehd.tv/
+#EXTVLCOPT:http-origin=https://limehd.tv
+https://mhd116.iptv2022.com/x/mPox4ndwWncwCvcpkjE07g,1788374800/streaming/br_rushit/324/1/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-name="Bridge TV Русский Хит" tvg-logo="https://iptvx.one/picons/bridge-tv-ruxit.png" group-title="Музыка",Bridge TV Русский Хит
 http://195.64.140.147:10194/194
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-name="Bridge TV Русский Хит" tvg-logo="https://iptvx.one/picons/bridge-tv-ruxit.png" group-title="Музыка",Bridge TV Русский Хит
@@ -1788,8 +1826,10 @@ https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=Uu
 https://mhd116.iptv2022.com/x/waA5lRbUwco5az-xkGC3Xw,1788374800/streaming/rutvnn/324/1/index.m3u8
 #EXTINF:-1 tvg-id="ru-tv" tvg-name="RU.TV" tvg-logo="https://iptvx.one/picons/ru-tv.png" group-title="Музыка",RU.TV
 http://31.210.208.171:8080/ru_tv/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="ru-tv" tvg-name="RU.TV" tvg-logo="https://iptvx.one/picons/ru-tv.png" group-title="Музыка" catchup="tvbox-dynamic" catchup-days="1" catchup-source="https://fs.uplink.kz/RuTV/archive-{utc}-{duration}.m3u8?token=onlinetv" catchup-offset="0",RU.TV
+#EXTINF:-1 tvg-id="ru-tv" tvg-name="RU.TV" tvg-logo="https://iptvx.one/picons/ru-tv.png" group-title="Музыка",RU.TV
 https://fs.uplink.kz/RuTV/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="ru-tv" tvg-name="RU.TV" tvg-logo="https://iptvx.one/picons/ru-tv.png" group-title="Музыка",RU.TV
+http://95.215.124.204:5000/udp/225.1.2.75:1234
 #EXTINF:-1 tvg-id="shanson-tv" tvg-name="Шансон ТВ" tvg-logo="https://iptvx.one/picons/shanson-tv.png" group-title="Музыка" catchup="tvbox-dynamic" catchup-days="1" catchup-source="https://flussonic.mkpnet.ru/tv-181e3f7698288892/archive-{utc}-{duration}.m3u8" catchup-offset="0",Шансон ТВ
 https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" tvg-name="Шансон ТВ" tvg-logo="https://iptvx.one/picons/shanson-tv.png" group-title="Музыка",Шансон ТВ
@@ -1877,8 +1917,6 @@ https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=u0
 https://mhd116.iptv2022.com/x/VzK5tk2OPJy_IhUpdOjL9w,1788374800/streaming/superott/324/1/index.m3u8
 #EXTINF:-1 tvg-id="super" tvg-name="Суббота!" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="Развлекательные",Суббота!
 http://195.64.140.147:10041/41
-#EXTINF:-1 tvg-id="super" tvg-name="Суббота!" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="Развлекательные",Суббота!
-http://95.215.124.204:5000/udp/225.1.2.40:1234
 #EXTINF:-1 tvg-id="tnt4" tvg-name="ТНТ4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="Развлекательные" catchup="tvbox-dynamic" catchup-days="1" catchup-source="https://flussonic.mkpnet.ru/tv-5f6d3cfda1af8989/archive-{utc}-{duration}.m3u8" catchup-offset="0",ТНТ4
 https://flussonic.mkpnet.ru/tv-5f6d3cfda1af8989/video.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-name="ТНТ4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="Развлекательные",ТНТ4
@@ -1911,6 +1949,8 @@ http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
 https://fs.uplink.kz/sarafan/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="sarafan" tvg-name="Сарафан" tvg-logo="https://iptvx.one/picons/sarafan.png" group-title="Развлекательные",Сарафан
 http://195.64.140.147:10203/203
+#EXTINF:-1 tvg-id="sarafan" tvg-name="Сарафан" tvg-logo="https://iptvx.one/picons/sarafan.png" group-title="Развлекательные",Сарафан
+http://95.215.124.204:5000/udp/225.1.2.64:1234
 #EXTINF:-1 tvg-id="kvn-tv" tvg-name="КВН ТВ" tvg-logo="https://iptvx.one/picons/kvn-tv.png" group-title="Развлекательные",КВН ТВ
 http://46.8.46.14/kvn/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-name="КВН ТВ" tvg-logo="https://iptvx.one/picons/kvn-tv.png" group-title="Развлекательные",КВН ТВ
@@ -1942,6 +1982,8 @@ https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv
 http://185.46.16.239:8000/Planeta_HD
 #EXTINF:-1 tvg-id="Моя Планета" tvg-name="Моя Планета" tvg-logo="https://iptvx.one/picons/moya-planeta.png" group-title="Познавательные",Моя Планета
 http://195.64.140.147:10161/161
+#EXTINF:-1 tvg-id="Моя Планета" tvg-name="Моя Планета" tvg-logo="https://iptvx.one/picons/moya-planeta.png" group-title="Познавательные",Моя Планета
+http://95.215.124.204:5000/udp/225.1.2.143:1234
 #EXTINF:-1 tvg-id="nauka-20" tvg-name="Наука" tvg-logo="https://iptvx.one/picons/nauka.png" group-title="Познавательные",Наука
 http://178.134.1.158:8081/nauka/index.m3u8
 #EXTINF:-1 tvg-id="nauka-20" tvg-name="Наука" tvg-logo="https://iptvx.one/picons/nauka.png" group-title="Познавательные",Наука
@@ -1985,7 +2027,10 @@ http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTINF:-1 tvg-id="RTД" tvg-name="RTД" tvg-logo="https://iptvx.one/picons/rt-doc.png" group-title="Познавательные",RTД
 http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
 #EXTINF:-1 tvg-id="RTД" tvg-name="RTД" tvg-logo="https://iptvx.one/picons/rt-doc.png" group-title="Познавательные",RTД
-http://95.215.124.204:5000/udp/225.1.2.54:1234
+#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.7","version_code":"507","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
+#EXTVLCOPT:http-referrer=https://limehd.tv/
+#EXTVLCOPT:http-origin=https://limehd.tv
+https://mhd116.iptv2022.com/x/qhHqtZleBmPGj2gXn90g2g,1788374800/streaming/rtdhd/324/1/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="Познавательные",Discovery Channel
 http://201.186.41.99:8001/play/a086/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="Познавательные",Discovery Channel
@@ -2040,7 +2085,7 @@ http://stream.mcquack.net/116/index.m3u8
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png" group-title="Познавательные",National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/2619fc295c16585ef018041d88f14db0/index.m3u8?s=Nuhg1iIFXKbST6IkrSdpXg&e=2088288474&scheme=https
-#EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png" group-title="Познавательные",National Geographic
+#EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png" group-title="Познавательные" catchup="tvbox-dynamic" catchup-days="1" catchup-source="https://fs.uplink.kz/nat_geo/archive-{utc}-{duration}.m3u8?token=onlinetv" catchup-offset="0",National Geographic
 https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png" group-title="Познавательные",National Geographic
 http://195.64.140.147:10153/153
