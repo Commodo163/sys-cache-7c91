@@ -1,20 +1,16 @@
 {
   "app": "TVbox",
   "schema_version": 1,
-  "generated_at": "2026-09-03 16:11:40 +04",
-  "current_catalog": "stable",
-  "min_app_version": "2.1.2",
-  "latest_app_version": "2.1.2",
+  "generated_at": "2026-09-03T17:28:00+04:00",
+  "current_catalog": "protected",
+  "min_app_version": "2.2.0",
+  "latest_app_version": "2.2.0",
   "catalog": {
-    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@a1ebcaa8e18138bbca07d17cafa83a2a5e5cadb9/data/tvbox_auto_final_test.m3u",
     "catalog_json_url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@2f6d8dbd7077fd4b97a0468cd35a29417af035a7/data/catalog.json",
-    "streams": 972,
+    "streams": 967,
     "lime_streams": 0,
-    "cache_seconds": 300
-  },
-  "public_playlist": {
-    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/index.dat?v=20260903_161140",
-    "streams": 10931
+    "cache_seconds": 300,
+    "protected_url": "https://tvbox-access-canary.ikiselev00.workers.dev"
   },
   "epg": {
     "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_epg_romantica.xml.gz?v=20260903_161140",
@@ -27,7 +23,7 @@
     "lime_summary": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_canonical_lime_priority_summary.txt?v=20260903_161140"
   },
   "update": {
-    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/apk/TVbox_2.1.2.apk?v=20260903_161140",
-    "message": "Вышла TVbox 2.1.1 с улучшениями экосистемы TVboxHome, интерфейса и стабильности."
+    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@baa965de388619ef3719fc48b3477de89dc6a21c/data/apk/TVbox_2.2.0.apk",
+    "message": "Обязательное обновление TVbox 2.2.0: защищённая выдача каналов, архив и улучшения стабильности."
   }
 }
