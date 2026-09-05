@@ -1,30 +1,33 @@
 {
   "app": "TVbox",
   "schema_version": 1,
-  "generated_at": "2026-09-03T17:28:00+04:00",
-  "current_catalog": "protected",
-  "min_app_version": "2.2.0",
-  "latest_app_version": "2.2.0",
+  "generated_at": "2026-09-05 11:47:41 +04",
+  "current_catalog": "stable",
+  "min_app_version": "2.1.2",
+  "latest_app_version": "2.1.2",
   "catalog": {
-    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@1cddf9d237b1313d52e001c0fdd1ad2722227c35/data/tvbox.m3u",
-    "catalog_json_url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/catalog.json?v=20260903_161140",
-    "streams": 967,
+    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_auto_final_test.m3u?v=20260905_114741",
+    "catalog_json_url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/catalog.json?v=20260905_114741",
+    "streams": 833,
     "lime_streams": 0,
-    "cache_seconds": 300,
-    "protected_url": "https://tvbox-access-canary.ikiselev00.workers.dev"
+    "cache_seconds": 300
+  },
+  "public_playlist": {
+    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/index.dat?v=20260905_114741",
+    "streams": 12085
   },
   "epg": {
-    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_epg_romantica.xml.gz?v=20260903_161140",
-    "summary_url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_epg_summary.txt?v=20260903_161140",
+    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_epg_romantica.xml.gz?v=20260905_114741",
+    "summary_url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_epg_summary.txt?v=20260905_114741",
     "cache_hours": 12
   },
   "reports": {
-    "status": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_status.txt?v=20260903_161140",
-    "summary": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_canonical_summary.txt?v=20260903_161140",
-    "lime_summary": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_canonical_lime_priority_summary.txt?v=20260903_161140"
+    "status": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_status.txt?v=20260905_114741",
+    "summary": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_canonical_summary.txt?v=20260905_114741",
+    "lime_summary": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_canonical_lime_priority_summary.txt?v=20260905_114741"
   },
   "update": {
-    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/apk/TVbox_2.2.0.apk",
-    "message": "Обязательное обновление TVbox 2.2.0: архив и улучшения стабильности."
+    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/apk/TVbox_2.1.2.apk?v=20260905_114741",
+    "message": "Вышла TVbox 2.1.1 с улучшениями экосистемы TVboxHome, интерфейса и стабильности."
   }
 }
