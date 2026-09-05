@@ -3,8 +3,8 @@
   "schema_version": 1,
   "generated_at": "2026-09-05 11:47:41 +04",
   "current_catalog": "stable",
-  "min_app_version": "2.1.2",
-  "latest_app_version": "2.1.2",
+  "min_app_version": "2.2.0",
+  "latest_app_version": "2.2.0",
   "catalog": {
     "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@66dcbfcbcbff9481d60bbe0e5efcb53955cb3564/data/tvbox_auto_final_test.m3u",
     "catalog_json_url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@2f6d8dbd7077fd4b97a0468cd35a29417af035a7/data/catalog.json",
@@ -27,7 +27,7 @@
     "lime_summary": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_canonical_lime_priority_summary.txt?v=20260905_114741"
   },
   "update": {
-    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/apk/TVbox_2.1.2.apk?v=20260905_114741",
-    "message": "Вышла TVbox 2.1.1 с улучшениями экосистемы TVboxHome, интерфейса и стабильности."
+    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/apk/TVbox_2.2.0.apk",
+    "message": "Обязательное обновление TVbox 2.2.0: архив и улучшения стабильности."
   }
 }
