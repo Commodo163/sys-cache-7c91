@@ -1,10 +1,10 @@
 {
   "app": "TVbox",
   "schema_version": 1,
-  "generated_at": "2026-09-06 12:11:44 +04",
+  "generated_at": "2026-09-06T10:12:55Z",
   "current_catalog": "stable",
-  "min_app_version": "2.2.0",
-  "latest_app_version": "2.2.0",
+  "min_app_version": "2.2.1",
+  "latest_app_version": "2.2.1",
   "catalog": {
     "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@ea6611ffdd6859c33fa0b3f4aff5271eca19ff84/data/tvbox_auto_final_test.m3u",
     "catalog_json_url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@2f6d8dbd7077fd4b97a0468cd35a29417af035a7/data/catalog.json",
@@ -27,7 +27,7 @@
     "lime_summary": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_canonical_lime_priority_summary.txt?v=20260906_121144"
   },
   "update": {
-    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/apk/TVbox_2.2.0.apk",
-    "message": "Обязательное обновление TVbox 2.2.0: архив и улучшения стабильности."
+    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@28894b4b4acf535983425d34b733c6a42cf41b23/data/apk/TVbox_2.2.1.apk",
+    "message": "Обязательное обновление TVbox 2.2.1: исправления чистой установки, логотипов и стабильности."
   }
 }

@@ -194,8 +194,8 @@ cat > "$DATA/app_config.json" <<EOF
   "schema_version": 1,
   "generated_at": "$GENERATED_AT",
   "current_catalog": "stable",
-  "min_app_version": "2.1.2",
-  "latest_app_version": "2.1.2",
+  "min_app_version": "2.2.1",
+  "latest_app_version": "2.2.1",
   "catalog": {
     "url": "$TVBOX_M3U_URL",
     "catalog_json_url": "$CATALOG_JSON_URL",
@@ -218,8 +218,8 @@ cat > "$DATA/app_config.json" <<EOF
     "lime_summary": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_canonical_lime_priority_summary.txt?v=$CATALOG_VERSION"
   },
   "update": {
-    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/apk/TVbox_2.1.2.apk?v=$CATALOG_VERSION",
-    "message": "Вышла TVbox 2.1.1 с улучшениями экосистемы TVboxHome, интерфейса и стабильности."
+    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@28894b4b4acf535983425d34b733c6a42cf41b23/data/apk/TVbox_2.2.1.apk",
+    "message": "Обязательное обновление TVbox 2.2.1: исправления чистой установки, логотипов и стабильности."
   }
 }
 EOF
