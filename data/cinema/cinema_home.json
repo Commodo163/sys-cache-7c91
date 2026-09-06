@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-06T10:31:32+00:00",
+  "generatedAt": "2026-09-06T13:40:36+00:00",
   "catalog": "cinema_catalog.json",
   "sections": [
     {
@@ -97,6 +97,7 @@
       "title": "Новые серии и сезоны",
       "type": "poster_row",
       "itemIds": [
+        "tmdb_tv_63726",
         "tmdb_tv_2710",
         "tmdb_tv_97546",
         "tmdb_tv_306118",
@@ -109,7 +110,6 @@
         "tmdb_tv_70625",
         "tmdb_tv_287620",
         "tmdb_tv_47663",
-        "tmdb_tv_63726",
         "tmdb_tv_103516",
         "tmdb_tv_98177",
         "tmdb_tv_286709"
@@ -388,6 +388,9 @@
       "title": "Мультфильмы",
       "type": "poster_row",
       "itemIds": [
+        "tmdb_movie_13377",
+        "tmdb_movie_13353",
+        "tmdb_movie_13382",
         "tmdb_movie_52761",
         "tmdb_movie_52686",
         "tmdb_movie_73924",
@@ -444,10 +447,7 @@
         "tmdb_movie_22501",
         "tmdb_movie_210158",
         "tmdb_movie_19947",
-        "tmdb_movie_209548",
-        "tmdb_movie_21356",
-        "tmdb_movie_160988",
-        "tmdb_movie_14087"
+        "tmdb_movie_209548"
       ]
     },
     {
