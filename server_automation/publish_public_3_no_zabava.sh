@@ -218,8 +218,8 @@ cat > "$DATA/app_config.json" <<EOF
     "lime_summary": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_canonical_lime_priority_summary.txt?v=$CATALOG_VERSION"
   },
   "update": {
-    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@28894b4b4acf535983425d34b733c6a42cf41b23/data/apk/TVbox_2.2.1.apk",
-    "message": "Обязательное обновление TVbox 2.2.1: исправления чистой установки, логотипов и стабильности."
+    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/28894b4b4acf535983425d34b733c6a42cf41b23/data/apk/TVbox_2.2.1.apk",
+    "message": "Оптимизация и улучшение"
   }
 }
 EOF
