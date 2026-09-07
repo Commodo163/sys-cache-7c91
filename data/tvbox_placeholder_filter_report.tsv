@@ -155,7 +155,7 @@ DROP	PLACEHOLDER	attempt_1_master_is_not_m3u	РБК	http://168.119.58.242:80/pla
 DROP	PLACEHOLDER	attempt_1_master_is_not_m3u	РБК	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltzOt6r7MAA18b7tS8NPS0zc/ts
 DROP	PLACEHOLDER	attempt_1_master_is_not_m3u	Известия	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt10j9jKvAasLjRqYYh00IMo/ts
 DROP	PLACEHOLDER	attempt_1_child_is_not_valid_hls	Euronews	https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
-DROP	PLACEHOLDER	attempt_2_child_is_not_valid_hls	Euronews	https://stream8.cinerama.uz/1024/index.m3u8
+KEEP	OK	ok_after_rechecks	Euronews	https://stream8.cinerama.uz/1024/index.m3u8
 DROP	PLACEHOLDER	attempt_1_master_is_not_m3u	Euronews	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt-bnTpwWJHKGCIVOSgnmfhk/ts
 DROP	PLACEHOLDER	attempt_1_master_is_not_m3u	RTД	http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt5kUmyE-VlPqkN7QE0R_kdA/ts
 DROP	PLACEHOLDER	attempt_1_child_is_not_valid_hls	ТНТ MUSIC	https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
