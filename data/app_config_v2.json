@@ -1,7 +1,7 @@
 {
   "app": "TVbox",
   "schema_version": 1,
-  "generated_at": "2026-09-08T02:38:06Z",
+  "generated_at": "2026-09-08 08:11:43 +04",
   "current_catalog": "stable",
   "min_app_version": "2.2.1",
   "latest_app_version": "2.2.1",
@@ -13,18 +13,18 @@
     "cache_seconds": 300
   },
   "public_playlist": {
-    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/index.dat?v=20260908_041143",
-    "streams": 12435
+    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/index.dat?v=20260908_081143",
+    "streams": 11962
   },
   "epg": {
-    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_epg_romantica.xml.gz?v=20260908_041143",
-    "summary_url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_epg_summary.txt?v=20260908_041143",
+    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_epg_romantica.xml.gz?v=20260908_081143",
+    "summary_url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_epg_summary.txt?v=20260908_081143",
     "cache_hours": 12
   },
   "reports": {
-    "status": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_status.txt?v=20260908_041143",
-    "summary": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_canonical_summary.txt?v=20260908_041143",
-    "lime_summary": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_canonical_lime_priority_summary.txt?v=20260908_041143"
+    "status": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_status.txt?v=20260908_081143",
+    "summary": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_canonical_summary.txt?v=20260908_081143",
+    "lime_summary": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_canonical_lime_priority_summary.txt?v=20260908_081143"
   },
   "update": {
     "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/apk/TVbox_2.2.1.apk",
