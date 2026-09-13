@@ -1,30 +1,30 @@
 {
   "app": "TVbox",
   "schema_version": 1,
-  "generated_at": "2026-09-13 16:12:16 +04",
+  "generated_at": "2026-09-13 20:12:02 +04",
   "current_catalog": "stable",
   "min_app_version": "2.2.1",
   "latest_app_version": "2.2.1",
   "catalog": {
-    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_auto_final_test.m3u?v=20260913_161216",
-    "catalog_json_url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/catalog.json?v=20260913_161216",
+    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_auto_final_test.m3u?v=20260913_201202",
+    "catalog_json_url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/catalog.json?v=20260913_201202",
     "streams": 850,
     "lime_streams": 0,
     "cache_seconds": 300
   },
   "public_playlist": {
-    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/index.dat?v=20260913_161216",
-    "streams": 11741
+    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/index.dat?v=20260913_201202",
+    "streams": 11606
   },
   "epg": {
-    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_epg_romantica.xml.gz?v=20260913_161216",
-    "summary_url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_epg_summary.txt?v=20260913_161216",
+    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_epg_romantica.xml.gz?v=20260913_201202",
+    "summary_url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_epg_summary.txt?v=20260913_201202",
     "cache_hours": 12
   },
   "reports": {
-    "status": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_status.txt?v=20260913_161216",
-    "summary": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_canonical_summary.txt?v=20260913_161216",
-    "lime_summary": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_canonical_lime_priority_summary.txt?v=20260913_161216"
+    "status": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_status.txt?v=20260913_201202",
+    "summary": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_canonical_summary.txt?v=20260913_201202",
+    "lime_summary": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_canonical_lime_priority_summary.txt?v=20260913_201202"
   },
   "update": {
     "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/apk/TVbox_2.2.1.apk",
