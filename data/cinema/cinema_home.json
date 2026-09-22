@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T02:57:44+00:00",
+  "generatedAt": "2026-09-22T06:04:52+00:00",
   "catalog": "cinema_catalog.json",
   "sections": [
     {
@@ -97,6 +97,7 @@
       "title": "Новые серии и сезоны",
       "type": "poster_row",
       "itemIds": [
+        "tmdb_tv_119806",
         "tmdb_tv_113962",
         "tmdb_tv_250307",
         "tmdb_tv_196322",
@@ -121,8 +122,7 @@
         "tmdb_tv_82428",
         "tmdb_tv_63726",
         "tmdb_tv_1338",
-        "tmdb_tv_243360",
-        "tmdb_tv_66980"
+        "tmdb_tv_243360"
       ]
     },
     {
@@ -398,6 +398,8 @@
       "title": "Мультфильмы",
       "type": "poster_row",
       "itemIds": [
+        "tmdb_movie_200481",
+        "tmdb_movie_19106",
         "tmdb_movie_36736",
         "tmdb_movie_39319",
         "tmdb_movie_116440",
@@ -455,9 +457,7 @@
         "tmdb_movie_39951",
         "tmdb_movie_234391",
         "tmdb_movie_13377",
-        "tmdb_movie_13353",
-        "tmdb_movie_13382",
-        "tmdb_movie_52761"
+        "tmdb_movie_13353"
       ]
     },
     {
@@ -465,6 +465,9 @@
       "title": "Мультсериалы",
       "type": "poster_row",
       "itemIds": [
+        "tmdb_tv_297557",
+        "tmdb_tv_236534",
+        "tmdb_tv_42411",
         "tmdb_tv_36243",
         "tmdb_tv_32871",
         "tmdb_tv_38559",
@@ -513,18 +516,15 @@
         "tmdb_tv_224839",
         "tmdb_tv_220850",
         "tmdb_tv_218843",
-        "tmdb_tv_236534",
         "tmdb_tv_2190",
         "tmdb_tv_65942",
-        "tmdb_tv_297557",
         "tmdb_tv_194916",
         "tmdb_tv_252105",
         "tmdb_tv_615",
         "tmdb_tv_79166",
         "tmdb_tv_296756",
         "tmdb_tv_57532",
-        "tmdb_tv_255358",
-        "tmdb_tv_43624"
+        "tmdb_tv_255358"
       ]
     },
     {
@@ -532,6 +532,7 @@
       "title": "Документальное кино",
       "type": "poster_row",
       "itemIds": [
+        "tmdb_movie_191502",
         "tmdb_movie_96821",
         "tmdb_movie_42296",
         "tmdb_movie_238466",
@@ -590,8 +591,7 @@
         "tmdb_movie_31190",
         "tmdb_movie_24982",
         "tmdb_movie_21925",
-        "tmdb_movie_21525",
-        "tmdb_movie_1777"
+        "tmdb_movie_21525"
       ]
     }
   ]
