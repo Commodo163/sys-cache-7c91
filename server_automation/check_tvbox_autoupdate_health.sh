@@ -2,12 +2,11 @@
 set -u
 
 LOG="/home/server/MEGALIST/tvbox_autoupdate_health.log"
-TMP_M3U="/tmp/tvbox_romantica_health_check.m3u"
-TMP_CONFIG="/tmp/app_config_health_check.json"
+TMP_M3U="/tmp/tvbox_public_health_check.m3u"
+TMP_CONFIG="/tmp/app_config_v2_health_check.json"
 TMP_EPG="/tmp/tvbox_epg_romantica_health_check.xml.gz"
 
-APP_CONFIG_URL="https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/app_config.json?health_check=$(date +%s)"
-M3U_URL="https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_romantica.m3u?health_check=$(date +%s)"
+APP_CONFIG_URL="https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/app_config_v2.json?health_check=$(date +%s)"
 EPG_URL="https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/tvbox_epg_romantica.xml.gz?health_check=$(date +%s)"
 
 echo "=== TVBOX AUTOUPDATE HEALTH START $(date '+%Y-%m-%d %H:%M:%S') ===" >> "$LOG"
@@ -17,10 +16,11 @@ FAIL=0
 echo "--- download app_config ---" >> "$LOG"
 curl -L -s --max-time 60 "$APP_CONFIG_URL" -o "$TMP_CONFIG"
 
-if grep -q "tvbox_romantica.m3u" "$TMP_CONFIG"; then
-  echo "OK app_config uses tvbox_romantica.m3u" >> "$LOG"
+M3U_URL="$(jq -r '.catalog.url // empty' "$TMP_CONFIG" 2>/dev/null)"
+if [ -n "$M3U_URL" ] && ! jq -e '.catalog.protected_url? | strings | length > 0' "$TMP_CONFIG" >/dev/null 2>&1; then
+  echo "OK app_config_v2 uses public catalog" >> "$LOG"
 else
-  echo "FAIL app_config does not use tvbox_romantica.m3u" >> "$LOG"
+  echo "FAIL app_config_v2 public catalog is invalid" >> "$LOG"
   FAIL=1
 fi
 
@@ -29,6 +29,13 @@ curl -L -s --max-time 60 "$M3U_URL" -o "$TMP_M3U"
 
 COUNT=$(grep -c '^#EXTINF' "$TMP_M3U" 2>/dev/null || echo 0)
 echo "playlist_streams=$COUNT" >> "$LOG"
+
+if [ "$COUNT" -ge 300 ]; then
+  echo "OK playlist stream floor" >> "$LOG"
+else
+  echo "FAIL playlist stream floor" >> "$LOG"
+  FAIL=1
+fi
 
 if grep -qi "viju TV1000 Romantica" "$TMP_M3U"; then
   echo "OK Romantica title found" >> "$LOG"
@@ -61,7 +68,8 @@ else
   FAIL=1
 fi
 
-EPG_COUNT=$(zgrep -c 'channel="viju-tv1000-romantica"' "$TMP_EPG" 2>/dev/null || echo 0)
+EPG_COUNT=$(zgrep -Ec 'channel="(viju-tv1000-romantica|tv1000_romantica)"' "$TMP_EPG" 2>/dev/null || true)
+EPG_COUNT=${EPG_COUNT:-0}
 echo "romantica_epg_programmes=$EPG_COUNT" >> "$LOG"
 
 if [ "$EPG_COUNT" -gt 0 ]; then

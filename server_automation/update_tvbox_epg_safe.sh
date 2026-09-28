@@ -14,6 +14,7 @@ IPTVX_URL="https://iptvx.one/EPG.xml.gz"
 MIN_CHANNELS=60
 MIN_PROGRAMMES=15000
 MAX_SIZE_MB=15
+MIN_CURRENT_CHANNELS=90
 
 cd "$DIR" || exit 1
 
@@ -96,6 +97,63 @@ cd "$DIR" || exit 1
 
   if [ "$GZIP_OUT" -ne 0 ]; then
     echo "BAD UPDATE: tvbox_epg.xml.gz is not valid gzip"
+    echo "=== TVBOX EPG SAFE UPDATE END BAD $(date '+%Y-%m-%d %H:%M:%S') ==="
+    exit 1
+  fi
+
+  echo "--- validate current programme coverage ---"
+  CURRENT_REPORT="$(python3 - <<'PY'
+import datetime
+import gzip
+import xml.etree.ElementTree as ET
+
+now = datetime.datetime.now(datetime.timezone.utc)
+channels = set()
+current = set()
+
+def parse_time(value):
+    parts = value.strip().split()
+    parsed = datetime.datetime.strptime(parts[0][:14], "%Y%m%d%H%M%S")
+    zone = parts[1] if len(parts) > 1 else "+0000"
+    sign = 1 if zone[0] == "+" else -1
+    offset = sign * datetime.timedelta(
+        hours=int(zone[1:3]), minutes=int(zone[3:5])
+    )
+    return parsed.replace(tzinfo=datetime.timezone(offset)).astimezone(
+        datetime.timezone.utc
+    )
+
+with gzip.open("tvbox_epg.xml.gz", "rb") as source:
+    for _, element in ET.iterparse(source, events=("end",)):
+        if element.tag == "channel":
+            channels.add(element.attrib.get("id", ""))
+        elif element.tag == "programme":
+            try:
+                start = parse_time(element.attrib["start"])
+                stop = parse_time(element.attrib["stop"])
+                if start <= now < stop:
+                    current.add(element.attrib.get("channel", ""))
+            except (KeyError, ValueError, IndexError):
+                pass
+        element.clear()
+
+required = {"perviy", "russia1", "match", "russia24"}
+missing_required = sorted(required - current)
+print(f"current_channels={len(current)}")
+print(f"missing_current_channels={len(channels - current)}")
+print("missing_required=" + ",".join(missing_required))
+PY
+)"
+  echo "$CURRENT_REPORT"
+  CURRENT_CHANNELS="$(printf '%s\n' "$CURRENT_REPORT" | awk -F= '$1 == "current_channels" {print $2}')"
+  MISSING_REQUIRED="$(printf '%s\n' "$CURRENT_REPORT" | awk -F= '$1 == "missing_required" {print $2}')"
+  if [ -z "$CURRENT_CHANNELS" ] || [ "$CURRENT_CHANNELS" -lt "$MIN_CURRENT_CHANNELS" ]; then
+    echo "BAD UPDATE: too few channels with a current programme: ${CURRENT_CHANNELS:-unknown}"
+    echo "=== TVBOX EPG SAFE UPDATE END BAD $(date '+%Y-%m-%d %H:%M:%S') ==="
+    exit 1
+  fi
+  if [ -n "$MISSING_REQUIRED" ]; then
+    echo "BAD UPDATE: required channels lack a current programme: $MISSING_REQUIRED"
     echo "=== TVBOX EPG SAFE UPDATE END BAD $(date '+%Y-%m-%d %H:%M:%S') ==="
     exit 1
   fi
