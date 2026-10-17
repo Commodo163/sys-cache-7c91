@@ -6,8 +6,8 @@
   "min_app_version": "2.2.1",
   "latest_app_version": "2.2.1",
   "catalog": {
-    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@369bf6d59c018662ecbdb9b6e09d7da1ec262396/data/tvbox_auto_final_test.m3u",
-    "catalog_json_url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@2f6d8dbd7077fd4b97a0468cd35a29417af035a7/data/catalog.json",
+    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox.m3u",
+    "catalog_json_url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/catalog.json",
     "streams": 772,
     "lime_streams": 36,
     "cache_seconds": 300
@@ -28,6 +28,6 @@
   },
   "update": {
     "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/apk/TVbox_2.2.1.apk",
-    "message": "Оптимизация и улучшение"
+    "message": "\u041e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f \u0438 \u0443\u043b\u0443\u0447\u0448\u0435\u043d\u0438\u0435"
   }
 }
