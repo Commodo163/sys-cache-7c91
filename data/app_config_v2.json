@@ -1,20 +1,20 @@
 {
   "app": "TVbox",
   "schema_version": 1,
-  "generated_at": "2026-10-18T00:36:44Z",
+  "generated_at": "2026-10-26T09:42:02Z",
   "current_catalog": "stable",
   "min_app_version": "2.5.51",
   "latest_app_version": "2.5.51",
   "catalog": {
-    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@5ce173530ac23ca1dc48cd1fbac6485e830592fb/data/tvbox_auto_final_test.m3u",
-    "catalog_json_url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@2f6d8dbd7077fd4b97a0468cd35a29417af035a7/data/catalog.json",
-    "streams": 723,
+    "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@244c66205b0ba1eb18d00c02453369e6fd7e8076/data/tvbox_auto_final_test.m3u",
+    "catalog_json_url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@6fe6720276271351364210d2bb1b754bb3160fc4/data/catalog.json",
+    "streams": 865,
     "lime_streams": 36,
     "cache_seconds": 300
   },
   "public_playlist": {
     "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/index.dat?v=20261018_041141",
-    "streams": 11267
+    "streams": 10066
   },
   "epg": {
     "url": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_epg_romantica.xml.gz?v=20261018_041141",
