@@ -194,8 +194,10 @@ cat > "$DATA/app_config.json" <<EOF
   "schema_version": 1,
   "generated_at": "$GENERATED_AT",
   "current_catalog": "stable",
-  "min_app_version": "2.2.1",
-  "latest_app_version": "2.2.1",
+  "min_app_version": "2.5.51",
+  "min_app_version_code": 96,
+  "latest_app_version": "2.5.51",
+  "latest_app_version_code": 96,
   "catalog": {
     "url": "$TVBOX_M3U_URL",
     "catalog_json_url": "$CATALOG_JSON_URL",
@@ -218,7 +220,7 @@ cat > "$DATA/app_config.json" <<EOF
     "lime_summary": "https://cdn.jsdelivr.net/gh/Commodo163/sys-cache-7c91@main/data/tvbox_canonical_lime_priority_summary.txt?v=$CATALOG_VERSION"
   },
   "update": {
-    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/apk/TVbox_2.2.1.apk",
+    "url": "https://raw.githubusercontent.com/Commodo163/sys-cache-7c91/main/data/apk/TVbox_2.5.51.apk",
     "message": "Оптимизация и улучшение"
   }
 }
