@@ -6,12 +6,12 @@ ntv	НТВ	162	teleguide	4	229	2026-11-15T23:20:00+00:00
 5kanal	Пятый канал	427	teleguide	255	280	2026-11-15T21:00:00+00:00
 russiak	Россия К	187	teleguide	5	241	2026-11-15T22:25:00+00:00
 russia24	Россия 24	rossia-24	teleguide	676	493	2026-11-15T21:00:00+00:00
-karusel	Карусель	740	iptvx	karusel	269	2026-11-09T10:15:00+00:00
+karusel	Карусель	740	teleguide	300007	218	2026-11-15T22:55:00+00:00
 otr	ОТР	1000	teleguide	1000	289	2026-11-15T21:10:00+00:00
 tvc	ТВ Центр	649	teleguide	3	264	2026-11-15T21:05:00+00:00
 rentv	РЕН ТВ	18	teleguide	103	192	2026-11-15T22:15:00+00:00
 spas	Спас	spas	teleguide	222	236	2026-11-15T21:05:00+00:00
-sts	СТС	79	iptvx	sts	131	2026-11-09T09:50:00+00:00
+sts	СТС	79	teleguide	104	141	2026-11-15T22:35:00+00:00
 domashniy	Домашний	304	teleguide	102	246	2026-11-16T00:15:00+00:00
 tv3	ТВ-3	698	teleguide	105	229	2026-11-15T22:00:00+00:00
 pyatnica	Пятница!	1003	teleguide	1671	190	2026-11-15T21:30:00+00:00
@@ -19,15 +19,15 @@ zvezda	Звезда	405	teleguide	330	285	2026-11-15T23:45:00+00:00
 mir	Мир	726	teleguide	100010	214	2026-11-15T21:00:00+00:00
 tnt	ТНТ	353	teleguide	101	273	2026-11-15T22:05:00+00:00
 muztv	Муз-ТВ	897	teleguide	1900	217	2026-11-15T21:00:00+00:00
-match_premier	Матч! Премьер	2250	iptvx	match-premier	175	2026-11-09T09:30:00+00:00
+match_premier	Матч! Премьер	2250	teleguide	504	183	2026-11-15T21:35:00+00:00
 match_futbol_1	Матч! Футбол 1	match-football1	teleguide	205	124	2026-11-15T22:00:00+00:00
 match_futbol_2	Матч! Футбол 2	match-football2	teleguide	100001	117	2026-11-15T21:10:00+00:00
 match_futbol_3	Матч! Футбол 3	match-football3	teleguide	300128	125	2026-11-15T21:00:00+00:00
 setanta_sports_1	Setanta Sports 1	7517	main	7517	106	2026-11-09T13:00:00+00:00
 setanta_sports_2	Setanta Sports 2	2363	main	2363	95	2026-11-09T13:00:00+00:00
-match_arena	Матч! Арена	match-arena	iptvx	match-arena	173	2026-11-09T09:25:00+00:00
+match_arena	Матч! Арена	match-arena	teleguide	940	172	2026-11-15T21:20:00+00:00
 match_boec	Матч! Боец	match-boets	teleguide	554	167	2026-11-15T21:20:00+00:00
-match_igra	Матч! Игра	match-igra	iptvx	match-igra	202	2026-11-09T09:50:00+00:00
+match_igra	Матч! Игра	match-igra	teleguide	1354	209	2026-11-15T21:05:00+00:00
 skysportspl	Sky Sports Premier League	4569	main	4569	489	2026-11-14T21:00:00+00:00
 vip_premiere	viju+ Premiere	vip-premiere	iptvx	vip-premiere	135	2026-11-09T16:35:00+00:00
 vip_megahit	viju+ Megahit	vip-megahit	teleguide	300115	120	2026-11-15T21:05:00+00:00
@@ -78,7 +78,7 @@ discovery	Discovery Channel	325	iptvx	discovery-channel	231	2026-11-09T04:00:00+
 tv1000_romantica	viju TV1000 Romantica	viju-tv1000-romantica	iptvx	viju-tv1000-romantica	165	2026-11-09T10:05:00+00:00
 eurosport_1	Eurosport 1	eurosport1	main	2052	220	2026-11-14T02:00:00+00:00
 eurosport_2	Eurosport 2	eurosport2	iptvx	eurosport2	152	2026-11-09T04:30:00+00:00
-solnce	Солнце	solnce	iptvx	solnce	98	2026-11-09T10:00:00+00:00
+solnce	Солнце	solnce	teleguide	3239	105	2026-11-15T21:40:00+00:00
 russky_roman	Русский роман	russky-roman	teleguide	401	124	2026-11-15T22:35:00+00:00
 russky_detektiv	Русский детектив	russky-detektiv	teleguide	1794	177	2026-11-15T21:00:00+00:00
 kino_tv	Кино ТВ	kino-tv	iptvx	kino-tv	127	2026-11-09T16:30:00+00:00
@@ -104,7 +104,7 @@ bober	Бобёр	bobior	teleguide	2035	130	2026-11-15T23:45:00+00:00
 ru-tv	RU.TV	ru-tv	iptvx	ru-tv	129	2026-11-09T15:00:00+00:00
 shanson-tv	Шансон ТВ	shanson-tv	teleguide	300054	129	2026-11-16T00:40:00+00:00
 sarafan	Сарафан	sarafan	teleguide	300035	258	2026-11-15T23:10:00+00:00
-kvn-tv	КВН ТВ	kvn-tv	iptvx	kvn-tv	118	2026-11-09T10:00:00+00:00
+kvn-tv	КВН ТВ	kvn-tv	teleguide	2153	118	2026-11-16T00:00:00+00:00
 bridge-tv-ruxit	Bridge TV Русский Хит	bridge-tv-ruxit	iptvx	bridge-tv-ruxit	54	2026-11-09T21:00:00+00:00
 bridge-tv-dance	Bridge TV Hits	bridge-tv-dance	iptvx	bridge-tv-dance	47	2026-11-09T21:00:00+00:00
 history	History	1394	iptvx	history	268	2026-11-09T04:30:00+00:00
